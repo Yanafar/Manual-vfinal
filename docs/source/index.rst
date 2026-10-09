@@ -1,0 +1,75 @@
+Manual de Estruturas Organizacionais do Poder Executivo federal
+3a Edição
+==========================
+
+.. figure:: _static/images/banner_inicial.png
+
+
+Este manual reúne as orientações necessárias para elaborar e revisar estruturas
+organizacionais de ministérios e entidades da administração pública federal.
+Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
+ 
+**O que você vai encontrar aqui:**
+ 
+1. Como o governo federal se organiza para implementar políticas públicas — por
+   meio de estruturas próprias e de parcerias com entidades privadas.
+ 
+2. Quais são os cargos em comissão e funções de confiança utilizados para compor
+   as estruturas hierárquicas de ministérios e entidades, com foco nos Cargos
+   Comissionados Executivos (CCE) e nas Funções Comissionadas Executivas (FCE).
+ 
+3. As regras para construir estruturas organizacionais, considerando as
+   competências atribuídas por lei ao ministério ou entidade e os cargos e
+   funções disponíveis.
+ 
+4. Como elaborar a minuta de decreto de estrutura regimental ou estatuto.
+ 
+5. Como tramita o processo de revisão organizacional — da concepção da proposta
+   ao cadastro da nova estrutura no SIORG e nos demais sistemas informatizados
+   do governo federal.
+ 
+**A quem se aplica**
+
+   Este manual se aplica aos ministérios, órgãos da Presidência da República e à maioria das autarquias e fundações públicas.
+ 
+   As Agências Reguladoras, as Instituições Federais de Ensino e o Banco Central do Brasil têm regras próprias, tratadas em seções específicas do manual.
+ 
+**Não encontrou o que procurava?**
+ 
+   Caso reste alguma dúvida, entre em contato pelo endereço eletrônico **manualdeestruturas@mgi.gov.br**.
+
+
+.. only:: html
+   
+   **Precisa gerar o PDF do manual?**
+
+      Caso precise do manual para consultas offline ou mesmo para impressão acesse ":ref:`gerar_pdf`".
+
+   .. admonition:: Bibliografia
+
+      Acesse :doc:`bibliografia` para ter acesso a todos os materiais e links utilizados neste documento.
+
+
+.. only:: html
+
+   .. toctree::
+      :hidden:
+      :titlesonly:
+
+      gerar_pdf/index
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+
+   Introducao/index
+   Organizacao/index
+   Conceitos/index
+   Cargos/index
+   Como_alterar_estrut_regim/index
+   AnexoII/index
+
+
+.. only:: latex
+
+   .. bibliography:: referencias.bib
