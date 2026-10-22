@@ -102,7 +102,7 @@ O estatuto é aprovado por ato do Presidente da República.
    Educação — não à aprovação por decreto presidencial, como nas demais
    fundações públicas.
 
-   Outra exceção que merece menção refere-se ao caso dos **Institutos Federais de Educação, Ciência e Tecnologia**: criados pela `Lei nº 11.892, de 29 de dezembro de 2008 <lei-11892>`_, **com natureza jurídica de autarquia**, são também organizados por meio de estatutos que, conforme art. 9º dessa mesma lei, dispõem sobre sua estruturação, competências e sobre as normas de funcionamento de seu Colégio de Dirigentes e de seu Conselho Superior. Como no caso das universidades, esse estatuto sujeita-se à análise do Ministério da Educação e não à aprovação por decreto presidencial.
+   Outra exceção que merece menção refere-se ao caso dos **Institutos Federais de Educação, Ciência e Tecnologia**: criados pela `Lei nº 11.892, de 29 de dezembro de 2008 <lei-11892_>`_, **com natureza jurídica de autarquia**, são também organizados por meio de estatutos que, conforme art. 9º dessa mesma lei, dispõem sobre sua estruturação, competências e sobre as normas de funcionamento de seu Colégio de Dirigentes e de seu Conselho Superior. Como no caso das universidades, esse estatuto sujeita-se à análise do Ministério da Educação e não à aprovação por decreto presidencial.
 
 .. _reg_interno:
  
