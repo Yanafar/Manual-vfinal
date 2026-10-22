@@ -102,6 +102,8 @@ O estatuto é aprovado por ato do Presidente da República.
    Educação — não à aprovação por decreto presidencial, como nas demais
    fundações públicas.
 
+   Outra exceção que merece menção refere-se ao caso dos **Institutos Federais de Educação, Ciência e Tecnologia**: criados pela `Lei nº 11.892, de 29 de dezembro de 2008 <lei-11892>`_, **com natureza jurídica de autarquia**, são também organizados por meio de estatutos que, conforme art. 9º dessa mesma lei, dispõem sobre sua estruturação, competências e sobre as normas de funcionamento de seu Colégio de Dirigentes e de seu Conselho Superior. Como no caso das universidades, esse estatuto sujeita-se à análise do Ministério da Educação e não à aprovação por decreto presidencial.
+
 .. _reg_interno:
  
 Regimento interno
@@ -696,6 +698,7 @@ Classificação doutrinária conforme :cite:`di_pietro_2023` e
 .. _lei-10406: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406.htm
 .. _lei-13303: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm
 .. _lei-9394: https://www.planalto.gov.br/ccivil_03/leis/l9394.htm
+.. _lei-11892: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11892.htm
 .. _decreto-cep-1999: https://www.planalto.gov.br/ccivil_03/dnn/dnnconduta.htm
 .. _decreto-6029: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/D6029.htm
 .. _decreto-9670: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9670.htm
