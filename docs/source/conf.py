@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Estruturas Organizacionais'
+project = 'Manual de Estruturas Organizacionais'
 copyright = '2026, Demor'
 author = 'Diretoria de Modelos Organizacionais'
 project_copyright = 'Estruturas Organizacionais'
@@ -49,7 +49,14 @@ numfig_secnum_depth = 1
 # -- Options for HTML output
 
 html_theme = 'furo'
-html_title = ""
+html_title = 'Manual de Estruturas Organizacionais do Poder Executivo Federal'
+
+html_meta = {
+    'description': 'Manual oficial com as orientações necessárias para elaborar e revisar estruturas organizacionais de ministérios e entidades do Poder Executivo Federal.',
+    'keywords': 'manual, estruturas organizacionais, poder executivo federal, siorg, governo, ministérios, autarquias, fundações',
+    'author': 'Ministério da Gestão e da Inovação em Serviços Públicos',
+    'robots': 'index, follow' # Autoriza e incentiva o Google a rastrear o site
+}
 
 # -- Configuração para priorizar GIF no HTML (Truque do Asterisco)
 from sphinx.builders.html import StandaloneHTMLBuilder
@@ -184,13 +191,9 @@ Juliana Akiko Noguchi Suzuki (Org.), Danyela de Oliveira Felix (Org.), Antonio A
 \textbf{Colaboraram com a 2ª edição:}\\
 Juliana Akiko Noguchi Suzuki, Danyela de Oliveira Felix, Frederico Porto de Souza, Marcos Santos Kroll, Giovanna de Sá Lúcio, Christiano Perez de Resende, Sheila Maria Reis Ribeiro, Eduardo Monteiro Pastore, Sylvia Helena Figueiredo Prata, Rodrigo Machado Bolina, Maria Beatriz Teixeira Barral Vidal, Iracema Pontes da Cruz.\\[0.5cm]
 
-\textbf{Elaboraram a 3ª edição:}\\
-Laerte Davi Cleto (Org.), Yana de Faria (Org.), Carlos Gold, Letícia Maria Gonçalves, Rodrigo Machado Bolina.\\[0.5cm]
+\textbf{Colaboraram com a 3ª edição:}\\
+Marcos Santos Kroll (Diretor), Laerte Davi Cleto (Org.), Yana de Faria (Org.), Carlos Gold (Org.), Letícia Maria Gonçalves, Rodrigo Machado Bolina, Giovanna de Sá Lúcio, Sheila Maria Reis Ribeiro, Juliana Akiko Noguchi Suzuki, Manuel Ferreira Filho.\\[0.5cm]
 
-\textbf{Contribuiram para a 3ª edição:}\\
-Marcos Santos Kroll.\\[0.5cm]
-
-Versão 1.0 - Brasília (DF), 3 de julho de 2026\\[1cm]
 
 \fbox{
   \begin{minipage}{0.9\textwidth}
