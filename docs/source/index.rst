@@ -67,6 +67,7 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
    Cargos/index
    Como_alterar_estrut_regim/index
    AnexoII/index
+   Anexo_gratificacoes/index
 
 
 .. only:: latex
