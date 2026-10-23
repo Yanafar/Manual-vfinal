@@ -20,6 +20,7 @@ Por fim, o fato de uma gratificação temporária constar deste Anexo não signi
    Para fazer parte deste documento, a gratificação precisa atender a dois critérios obrigatórios:
       I -   concessão, designação, nomeação, retirada, dispensa ou exoneração mediante ato discricionário da autoridade competente; e 
       II -  não compor a remuneração do cargo efetivo, do emprego, do posto ou graduação, para qualquer efeito. 
+   
    Existem também algumas características observadas na maioria das gratificações que estão incluídas neste Anexo, que são:
       a) quantitativo limitado, independentemente do número de servidores em exercício;
       b) elegibilidade vinculada ao órgão ou unidade de efetivo exercício e/ou à atividade realizada;
