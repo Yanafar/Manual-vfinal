@@ -260,6 +260,8 @@ Não existe um tamanho mínimo ou máximo definido: sua oscilação depende das 
 de revisão de estruturas organizacionais e de novos atos normativos que envolvem a
 criação de novos cargos e funções. 
  
+.. _sistemas estru:
+
 Sistemas Estruturadores
 -----------------------
 Os Sistemas Estruturadores do Poder Executivo Federal são mecanismos de suporte

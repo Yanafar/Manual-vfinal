@@ -39,6 +39,8 @@ Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administr
 A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art15_>`, sendo devida a titulares de cargos de provimento efetivo, em efetivo exercício nas unidades dos sistemas estruturados relacionados no art. 15, por nível de escolaridade do cargo efetivo. 
 
 Ela é, portanto, devida aos titulares de cargos de provimento efetivo, em efetivo exercício no órgão central e nos órgãos setoriais, seccionais e correlatos dos sistemas estruturados a partir do disposto no Decreto-Lei nº 200, de 25 de fevereiro de 1967, **enquanto permanecerem nessa condição**.
+
+(veja :ref:`sistemas estru`).
    
 .. ---------------------------------------------------------------------------
 .. Referências externas — legislação
