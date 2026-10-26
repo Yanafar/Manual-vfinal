@@ -89,7 +89,7 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
 .. figure:: ../_static/images/Anexo_Gsiste.png
    :alt: órgãos centrais dos sistemas estruturantes com GSISTE
    :align: center
-   :scale: 40
+   :scale: 35
 
 .. note::
  
