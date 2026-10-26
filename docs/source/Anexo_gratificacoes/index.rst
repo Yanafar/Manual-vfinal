@@ -154,6 +154,7 @@ A GAEG foi instituída pelo `art. 292 da Lei nº 11.907, de 2009 <lei-11907-art2
       * Forma de distribuição: anexo CLXI da `Lei nº 11.907/2009 <lei-11907_>_`_.
       Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
       * Quantitativo máximo de servidores que fazem jus à GAEG: anexo VII da `Lei nº 11.907 de 2009 <lei-11907_>`_.
+      
       * Sobre a remuneração:
       a) igual à GSISTE (órgão central);
       b) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
