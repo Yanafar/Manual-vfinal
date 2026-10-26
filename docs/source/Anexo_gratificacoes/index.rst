@@ -38,22 +38,39 @@ Por fim, o fato de uma gratificação temporária constar deste Anexo não signi
 Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administração Pública Federal (GSISTE)
 ----------------------------------------------------------------------------------------------------------
 
-A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art15_>`_, sendo devida a titulares de cargos de provimento efetivo, em efetivo exercício nas unidades dos sistemas estruturados relacionados no art. 15, por nível de escolaridade do cargo efetivo. 
+A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art15_>`_, sendo devida a titulares de cargos de provimento efetivo, por nível de escolaridade do cargo efetivo.  
 
-Ela é, portanto, devida aos titulares de cargos de provimento efetivo, em efetivo exercício no órgão central e nos órgãos setoriais, seccionais e correlatos dos sistemas estruturados a partir do disposto no Decreto-Lei nº 200, de 25 de fevereiro de 1967, **enquanto permanecerem nessa condição**.
+      A GSISTE é devida a servidores em efetivo exercício no órgão central e nos órgãos setoriais, seccionais e correlatos dos seguintes :ref:`sistemas estru`, **enquanto permanecerem nessa condição**:
 
-.. admonition:: Para saber mais
-       :ref:`sistemas estru`).
+      I - de Planejamento e de Orçamento Federal;
 
-Características importantes sobre a GSISTE:
-+++++++++++++++++++++++++++++++++++++++++++
+      II - de Administração Financeira Federal;
 
-      a)    regulamento: Decreto nº 9.058/2017.
-      b)    não faz parte dos decretos das estruturas organizacionais dos órgãos/entidades, pois são distribuídas aos órgãos através de Portarias dos respectivos órgãos centrais;
-c)    é eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
-d)    acumula-se com a remuneração de cargo em comissão ou função de confiança ;
-e)    exclusiva para servidores efetivos em efetivo exercício nos órgãos dos sistemas citados no rol do art. 15 da Lei nº 11.356/2006;
-f)    possui quantitativo máximo de servidores que fazem jus à GSISTE:
+      III - de Contabilidade Federal;
+
+      IV - de Controle Interno do Poder Executivo Federal;
+
+      V - de Informações Organizacionais do Governo Federal - SIORG;
+
+      VI - de Gestão de Documentos de Arquivo - SIGA;
+
+      VII - de Pessoal Civil da Administração Federal - SIPEC;
+
+      VIII - de Administração dos Recursos de Informação e Informática - SISP;
+
+      IX - de Serviços Gerais - SISG;
+
+      X - de Sistema de Gestão de Parcerias da União (Sigpar); e
+
+      XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Estatais (Sisest). 
+
+.. admonition:: Características importantes sobre a GSISTE
+ 
+      * Regulada pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_.
+      * Não faz parte dos decretos das estruturas organizacionais dos órgãos e entidades, pois são distribuídas por meio de Portarias dos respectivos órgãos centrais;
+      * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
+      * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+      * O quantitativo máximo de servidores que fazem jus à GSISTE é definido pelo Anexo VII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
 
 
 
@@ -91,5 +108,7 @@ A acumulação da GSISTE com cargos em comissão ou funções de confiança pode
 .. _lei-14204-art6: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm#Art6
 .. _lei-13954-art10: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13954.htm#Art10
 .. _lei-11356-art15: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#Art15
+.. _lei-11356-art15: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm
+.. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 
 
