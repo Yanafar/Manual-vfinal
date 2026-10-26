@@ -201,7 +201,7 @@ A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pel
 Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA)
 -------------------------------------------------------------------------------------------
 
-A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que citados no `Anexo XIV da Lei <lei-15367-anexoXIV_>_` (basicamente, os Ministérios e algumas autarquias/fundações).
+A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que citados no `Anexo XIV da Lei <lei-15367-anexoXIV_>`_ (basicamente, os Ministérios e algumas autarquias/fundações).
 
 .. admonition:: Características importantes da GTATA
 
@@ -292,56 +292,46 @@ a) Gratificação de Representação da Presidência da República – RGA, para
 
 b) Gratificação de Representação da Presidência da República – RMA, para militares praças, com cinco níveis.
 
-Pode-se dizer que a representação de gabinete seria semelhante ao papel de um cargo ou função comissionada de chefia e direção. Essa interpretação é corroborada pelo Decreto nº 77.336/1976, que determinou a extinção de “gratificações pela representação de gabinete ou outras gratificações” à medida que os cargos em comissão do Grupo-Direção e Assessoramento Superiores (os famosos “DAS”), criados em 1970 , fossem implantados nos Ministérios e autarquias.
+Pode-se dizer que a representação de gabinete seria semelhante ao papel de um cargo ou função comissionada de chefia e direção. Essa interpretação é corroborada pelo já revogado `Decreto nº 77.336, de 1976 <dec-77336_>`_, que determinou a extinção de “gratificações pela representação de gabinete ou outras gratificações” na medida em que os cargos em comissão do Grupo-Direção e Assessoramento Superiores (os famosos “DAS”), criados em 1970, fossem implantados nos Ministérios e autarquias.
 
-Decreto nº 77.336, de 1976
-Art. 10. À medida que o Grupo-Direção e Assessoramento Superiores for implantado na área de cada Ministério, Órgão integrante da Presidência da República, Órgão Autônomo e Autarquia federal, e ressalvados os casos expressamente previstos em lei, fica vedado o desempenho de atividades de direção e assessoramento superiores sob forma diversa da estabelecida neste Decreto, extinguindo-se os encargos, com tais características, constantes de tabelas de gratificação pela representação de gabinete ou outras gratificações, bem assim os empregos regidos pela legislação trabalhista, cessando, do mesmo modo, a utilização de colaboradores eventuais retribuídos mediante recibo para o desempenho de atividades de igual natureza.
+A diferença básica entre a RGA e a RMA é a sua ocupação: a RGA é para civis e a RMA para militares. Essa separação entre RGA e RMA para a mesma Gratificação de Representação de Gabinete dos Órgãos Integrantes da Presidência da República foi feita já no `Anexo do Decreto nº 5.452/2005 <dec-5452-anexo_>`_, que fixou os quantitativos para o Ministério da Defesa e para a Presidência e Vice-Presidência da República. 
 
-A diferença básica entre a RGA e a RMA é a sua ocupação; a RGA é para civis e a RMA para militares. Essa separação entre RGA e RMA para a mesma Gratificação de Representação de Gabinete dos Órgãos Integrantes da Presidência da República foi feita já no Anexo do Decreto nº 5.452/2005, que fixou os quantitativos para o Ministério da Defesa e para a Presidência e Vice-Presidência da República. 
-Como já mencionado, o Anexo do Decreto nº 5.452/2005 está desatualizado. A atual distribuição do quantitativo existente de RGA e RMA é a seguinte:
+A gestão das gratificações da Presidência representa desafios, dentre os quais citam-se três: 
 
-Órgãos   RGA-5 RGA-4 RGA-3 RGA-2 RGA-1 RMA-5 RMA-4 RMA-3 RMA-2 RMA-1 Total
-Presidência da República   299   268   17 138   12 143   264   43 412   242   1.838
-Ministério da Defesa 0  0  0  0  0  240   0  0  236   0  476
-Casa Civil da PR  32 77 18 109   135   13 17 4  6  0  411
-Ministério dos Dir. Hum. e da Cidadania   5  2  1  3  2  0  0  0  0  0  13
-Ministério da Igualdade Racial   1  0  0  0  1  0  0  0  0  0  2
-Total 337   347   36 250   150   396   281   47 654   242   2.740
-Fonte: COCAF/CGINF/ SEGES/MGI, posição de 31/08/2026
+Primeiro, se é justificável a manutenção da RGA/RMA diante do poder de requisição da Presidência e da Vice-Presidência da República e das atribuições dadas pela Constituição aos cargos em comissão e às funções de confiança para direção, chefia e assessoramento. 
 
-O § 1º do art. 56 da Lei n° 14.600/2023 autorizou que os servidores e os militares requisitados que, em 31/12/2022, estavam em exercício no Ministério da Mulher, da Família e dos Direitos Humanos (órgãos que foram desmembrados da Presidência da República) com designação para a RGA/RMA, permanecessem com a gratificação no Ministério das Mulheres, no Ministério da Igualdade Racial ou no Ministério dos Direitos Humanos e da Cidadania. Porém, o §2º do mesmo artigo prevê que tais gratificações retornarão automaticamente à Presidência da República quando da dispensa ou de alteração do exercício.
-A existência da Gratificação de Representação da Presidência da República no Ministério da Defesa advém da criação da Pasta, transformação dos Ministérios da Marinha, do Exército e da Aeronáutica em Comandos, e da extinção do Estado-Maior das Forças Armadas - EMFA , que integrava a Presidência da República, pela Lei Complementar nº 97/1999. 
-A percepção da RGA/RMA por civis e militares no Ministério da Defesa tem por base o art. 29-B da Lei nº 9.649/1998, enquanto o Ministério não dispuser de quadro de pessoal permanente:
+O segundo desafio é o risco de descaracterização de gratificação da Presidência da República na medida em que ela é concedida para órgãos que não fazem parte da Presidência da República, especialmente quando de reorganizações do Executivo federal.
 
-Art. 29-B.  Enquanto não dispuser de quadro de pessoal permanente:
-I - aplicam-se aos servidores civis e aos militares em exercício no Ministério da Defesa as normas vigentes para os servidores civis e militares em exercício nos órgãos da Presidência da República, em especial as referidas no art. 20 da Lei nº 8.216, de 13 de agosto de 1991, no § 4º do art. 93 da Lei nº 8.112, de 11 de dezembro de 1990, e nos arts. 11 e 13 da Lei nº 8.460, de 17 de setembro de 1992.
-
-A Lei nº 9.649/1998 foi revogada nas disposições em contrário à Lei nº 10.683/2003 pela própria Lei nº 10.683. O art. 29-B da Lei nº 9.649 não estaria em contrário à Lei nº 10.683, portanto, ele continuaria vigente.
-Os valores remuneratórios da RGA/RMA são os seguintes:
-
-Alínea “a” do Anexo III da Lei nº 11.526/2007 - Gratificação de Representação da Presidência da República
-Nível Valor da RGA/RMA em R$
-(a partir de 1º de janeiro de 2026)
-   Venc.    Grat.(*) Total
-I – Auxiliar   314,13   521,32   835.45
-II – Especialista 376,91   625,50   1.002,41
-III – Secretário  440,99   731,87   1.172,86
-IV – Assistente   502,75   834,34   1.337,09
-V - Supervisor 563,04   934,42   1.497,46
-
-A gestão das gratificações da Presidência apresenta desafios, dentre os quais citam-se três. Primeiro, se é justificável a manutenção da RGA/RMA diante do poder de requisição da Presidência e da Vice-Presidência da República e das atribuições dadas pela Constituição aos cargos em comissão e às funções de confiança para direção, chefia e assessoramento. 
-O segundo desafio é o risco de descaracterização de gratificação da Presidência da República à medida que ela é concedida para órgãos que não fazem parte da Presidência da República, especialmente quando de reorganizações do Executivo federal. 
 Por fim, o terceiro desafio é a necessidade de maior transparência na distribuição dos quantitativos existentes no âmbito da Presidência da República, integrada por:
-a) Casa Civil, integrada pela Agência Brasileira de Inteligência (ABIN);
-b) Secretaria-Geral;
-c) Secretaria de Relações Institucionais;
-d) Secretaria de Comunicação Social;
-e) Gabinete Pessoal do Presidente da República; e
-f) Gabinete de Segurança Institucional.
-Atualmente, apenas os Decretos de estrutura da ABIN  e do Ministério da Defesa  explicitam o quantitativo de RGA/RMA distribuído para os órgãos - 411 para a ABIN e 476 para o Ministério da Defesa, o que representa 32% do total existente. O restante do quantitativo tem sua distribuição gerida internamente, no momento, pela Secretaria-Geral da Presidência da República.
+
+   a) Casa Civil, integrada pela Agência Brasileira de Inteligência (ABIN);
+   b) Secretaria-Geral;
+   c) Secretaria de Relações Institucionais;
+   d) Secretaria de Comunicação Social;
+   e) Gabinete Pessoal do Presidente da República; e
+   f) Gabinete de Segurança Institucional.
+
+Atualmente, apenas os Decretos de estrutura da ABIN  e do Ministério da Defesa explicitam o quantitativo de RGA/RMA distribuído para os órgãos. O restante do quantitativo tem sua distribuição gerida internamente, no momento, pela Secretaria-Geral da Presidência da República.
+
 Para maior transparência e eficiência na atuação do órgão central do SIORG, na análise de pedidos de reforço de posições comissionadas existentes, os quantitativos de RMA/RGA devem ser trazidos para os decretos das estruturas sempre que possível. 
+
 Uma vez explicitadas nos decretos das estruturas, as RMA/RGA podem ser cadastradas no sistema informatizado do SIORG assim como os cargos e funções comissionadas. Isso, por sua vez, resulta em mais transparência, controle, facilidade de acesso às informações e melhor gestão.
 
+.. admonition:: Curiosidades
+
+   As “gratificações de representação” precedem a Constituição Federal de 1988, com base na qual as atribuições de direção, chefia e assessoramento recaem sobre os cargos em comissão e as funções de confiança. 
+
+   A referência mais antiga que se conhece consta no inciso IV do `art. 145 da já revogada Lei nº 1.711, de 28 de outubro de 1952 <lei-1711-art145_>`_.
+
+   A Lei nº 1.711/1952 foi inteiramente revogada pela Lei nº 8.112/1990. Assim como ela e a Constituição Federal, o quadro legal e normativo do país sofreram várias alterações ao longo do tempo. 
+   
+   Além disso, o art. 13 da Lei nº 8.460/1992 explicitamente autorizou a mudança da denominação e da especificação da “gratificação de representação” de órgãos da Presidência e Vice-Presidência da República, observando cinco níveis de retribuição, dificultando ainda mais a gestão.
+
+   Recentemente, duas outras variações da gratificação de representação de gabinete foram extintas, visando simplificar a gestão e enxugar casos obsoletos, que foram:
+
+   a) em 2021, a gratificação de representação dos órgãos integrantes da Presidência da República - GR, para civis, quatro níveis (Auxiliar, Secretário/Especialista, Assistente e Supervisor), de que trata o art. 13 da Lei nº 8.460/1992, previstas na tabela c do Anexo III da Lei nº 11.526/ 2007: extinta pela Lei nº 14.204/2021 (inciso V do art. 17); e 
+
+   b) em 2025, a Gratificação pela Representação de Gabinete – RGM, para civis, dois níveis (Oficial de Gabinete e Auxiliar de Gabinete), de que tratam o art. 10 da Lei nº 8.460/1992 e a alínea “e” do Anexo III à Lei nº 11.526/2007: extinta pela Lei nº 15.141/2025 (art. 213).
 
 Gratificação de Representação de Função de Gabinete Militar (RMM)
 
@@ -392,23 +382,6 @@ No sistema informatizado do SIORG não consta quantitativo de RMM.
 Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disponíveis nos sistemas próprios de pessoal dos Comandos.
 
 
-.. admonition:: Curiosidades
-
-   As “gratificações de representação” precedem a Constituição Federal de 1988, com base na qual as atribuições de direção, chefia e assessoramento recaem sobre os cargos em comissão e as funções de confiança. 
-
-   A referência mais antiga que se conhece consta no inciso IV do `art. 145 da já revogada Lei nº 1.711, de 28 de outubro de 1952 <lei-1711-art145_>`_.
-
-   A Lei nº 1.711/1952 foi inteiramente revogada pela Lei nº 8.112/1990. Assim como ela e a Constituição Federal, o quadro legal e normativo do país sofreram várias alterações ao longo do tempo. 
-   
-   Além disso, o art. 13 da Lei nº 8.460/1992 explicitamente autorizou a mudança da denominação e da especificação da “gratificação de representação” de órgãos da Presidência e Vice-Presidência da República, observando cinco níveis de retribuição, dificultando ainda mais a gestão.
-
-   Recentemente, duas outras variações da gratificação de representação de gabinete foram extintas, visando simplificar a gestão e enxugar casos obsoletos, que foram:
-
-   a) em 2021, a gratificação de representação dos órgãos integrantes da Presidência da República - GR, para civis, quatro níveis (Auxiliar, Secretário/Especialista, Assistente e Supervisor), de que trata o art. 13 da Lei nº 8.460/1992, previstas na tabela c do Anexo III da Lei nº 11.526/ 2007: extinta pela Lei nº 14.204/2021 (inciso V do art. 17); e 
-
-   b) em 2025, a Gratificação pela Representação de Gabinete – RGM, para civis, dois níveis (Oficial de Gabinete e Auxiliar de Gabinete), de que tratam o art. 10 da Lei nº 8.460/1992 e a alínea “e” do Anexo III à Lei nº 11.526/2007: extinta pela Lei nº 15.141/2025 (art. 213).
-
-
 
 
 
@@ -450,5 +423,7 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _dec-11924: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11924.htm
 .. _dec-13051: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13051.htm
 .. _dec-10933: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d10993.htm
+.. _dec-77336: https://www.planalto.gov.br/ccivil_03/decreto/1970-1979/d77336.htm
+.. _dec-5452-anexo: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5452.htm#anexo
 
 
