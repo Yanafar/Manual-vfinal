@@ -40,7 +40,7 @@ Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administr
 
 A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art15_>`_, sendo devida a titulares de cargos de provimento efetivo, por nível de escolaridade do cargo efetivo.  
 
-.. admonition:: Curiosidade
+.. admonition:: Curiosidade!
        Note-se que antes da Lei nº 11.356 de 2006, as atividades dos sistemas estruturadores já eram realizadas sem que houvesse nenhuma retribuição adicional pela sua execução. Além disso, alguns sistemas contam com carreiras específicas para o exercício de suas atividades, a exemplo da Carreira de Finanças e Controle, para atuação nos Sistemas de Administração Financeira, Contabilidade e Controle Interno.
 
 
@@ -92,8 +92,8 @@ A GSISTE é devida a servidores em efetivo exercício no órgão central e nos �
  
    O Ministério da Gestão e Inovação em Serviços Públicos (MGI) abriga o órgão central de sete dos onze sistemas estruturadores que podem ter GSISTE, seguido pela Secretaria do Tesouro Nacional, órgão central de dois sistemas.
 
-  
-Destaque-se também que o SISP possui, além da GSISTE, também a Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática-GSISP, instituída pela Lei nº 11.907 de 2009. 
+   Destaque-se também que o SISP possui, além da GSISTE, também a Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática-GSISP, instituída pela Lei nº 11.907 de 2009. 
+
 A acumulação da GSISTE com cargos em comissão ou funções de confiança pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecendo da própria estrutura de comando da unidade.
 
    
