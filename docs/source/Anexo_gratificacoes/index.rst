@@ -71,10 +71,11 @@ A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art
       * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
       * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
       * O quantitativo máximo de servidores que fazem jus à GSISTE é definido pelo Anexo VII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
+      * Respeitado o limite global (5.949), ato do Poder Executivo faz a distribuição dos quantitativos por sistema : o Decreto nº 9.058/2017. Hoje não há mais GSISTE de nível auxiliar; todas foram transformadas em nível superior ou intermediário, observadas as respectivas remunerações para que não houvesse aumento de despesa. 
 
 
 
-g)    respeitado o limite global (5.949), ato do Poder Executivo faz a distribuição dos quantitativos por sistema : o Decreto nº 9.058/2017. Hoje não há mais GSISTE de nível auxiliar; todas foram transformadas em nível superior ou intermediário, observadas as respectivas remunerações para que não houvesse aumento de despesa. 
+g)    
 
 
 
@@ -108,7 +109,7 @@ A acumulação da GSISTE com cargos em comissão ou funções de confiança pode
 .. _lei-14204-art6: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm#Art6
 .. _lei-13954-art10: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13954.htm#Art10
 .. _lei-11356-art15: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#Art15
-.. _lei-11356-art15: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm
+.. _lei-11356: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 
 
