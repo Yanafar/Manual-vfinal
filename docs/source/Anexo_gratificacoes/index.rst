@@ -41,7 +41,47 @@ A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art
 
 Ela é, portanto, devida aos titulares de cargos de provimento efetivo, em efetivo exercício no órgão central e nos órgãos setoriais, seccionais e correlatos dos sistemas estruturados a partir do disposto no Decreto-Lei nº 200, de 25 de fevereiro de 1967, **enquanto permanecerem nessa condição**.
 
-(veja :ref:`sistemas estru`).
+.. admonition:: Para saber mais
+       :ref:`sistemas estru`).
+
+Características importantes sobre a GSISTE:
++++++++++++++++++++++++++++++++++++++++++++
+
+      a)    regulamento: Decreto nº 9.058/2017.
+      b)    não faz parte dos decretos das estruturas organizacionais dos órgãos/entidades, pois são distribuídas aos órgãos através de Portarias dos respectivos órgãos centrais;
+c)    é eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
+d)    acumula-se com a remuneração de cargo em comissão ou função de confiança ;
+e)    exclusiva para servidores efetivos em efetivo exercício nos órgãos dos sistemas citados no rol do art. 15 da Lei nº 11.356/2006;
+f)    possui quantitativo máximo de servidores que fazem jus à GSISTE:
+
+
+
+g)    respeitado o limite global (5.949), ato do Poder Executivo faz a distribuição dos quantitativos por sistema : o Decreto nº 9.058/2017. Hoje não há mais GSISTE de nível auxiliar; todas foram transformadas em nível superior ou intermediário, observadas as respectivas remunerações para que não houvesse aumento de despesa. 
+
+
+
+h)    além das unidades dos sistemas estruturados, a GSISTE também pode ser concedida a servidores em exercício nos Gabinetes dos Ministros e nas Secretarias Executivas dos Ministérios a que se subordinam os órgãos centrais ou da Casa Civil da Presidência da República . Atualmente, há 29 GSISTE para a Casa Civil:
+
+
+i)    cada titular da unidade que exerce o papel de órgão central realiza a distribuição dos quantitativos de GSISTE no âmbito do respectivo sistema ;
+j)    possui valores de remuneração diferenciados para os órgãos centrais:
+
+
+
+k)    possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISTE (excluídas vantagens pessoais e retribuição por cargo/função comissionada):
+
+
+
+l)    proporcional à jornada de trabalho do servidor;
+m)    os órgãos centrais dos sistemas estruturantes com GSISTE são os seguintes:
+
+
+
+Observe-se que o Ministério da Gestão e Inovação em Serviços Públicos (MGI) abriga o órgão central de sete dos onze sistemas estruturadores que podem ter GSISTE, seguido pela Secretaria do Tesouro Nacional, órgão central de dois sistemas.
+Note-se que antes da Lei nº 11.356 de 2006, as atividades dos sistemas estruturadores já eram realizadas sem que houvesse nenhuma retribuição adicional pela sua execução. Além disso, alguns sistemas contam com carreiras específicas para o exercício de suas atividades, a exemplo da Carreira de Finanças e Controle, para atuação nos Sistemas de Administração Financeira, Contabilidade e Controle Interno. 
+Destaque-se também que o SISP possui, além da GSISTE, também a Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática-GSISP, instituída pela Lei nº 11.907 de 2009. 
+A acumulação da GSISTE com cargos em comissão ou funções de confiança pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecendo da própria estrutura de comando da unidade.
+
    
 .. ---------------------------------------------------------------------------
 .. Referências externas — legislação
