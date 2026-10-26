@@ -284,7 +284,7 @@ controle e eficiência na implementação das políticas públicas.
      digital.
    * **SIAFI (Administração Financeira):** Controla toda a execução orçamentária e
      financeira da União.
-   * **SISG (Administração de Serviços Gerais):** Responsável pela gestão de compras, licitações e
+   * **SISG (AServiços Gerais):** Responsável pela gestão de compras, licitações e
      contratos.
    * **SIGA (Gestão de Documentos e Arquivos):** Organiza a custódia e
      preservação de documentos públicos.
