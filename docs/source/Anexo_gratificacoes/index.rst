@@ -257,18 +257,17 @@ Apesar de antiquíssimas, as GSE-IBGE existem e são concedidas pelo IBGE aos se
 Gratificação de Exercício de Função de Confiança Privativa de Militares (RMP ou "letras militares")
 ---------------------------------------------------------------------------------------------------
 
-A Gratificação de Exercício de Função de Confiança Privativa de Militares – RMP , conhecida como “letras militares”, está prevista no art. 11 da Lei nº 8.460, de 1992. Fazem jus à RMP os oficiais militares na Presidência da República e no Ministério da Defesa. 
+A Gratificação de Exercício de Função de Confiança Privativa de Militares – RMP , conhecida como “letras militares”, está prevista no `art. 11 da Lei nº 8.460, de 1992 <lei-8460-art11_>_`. Fazem jus à RMP os oficiais militares na Presidência da República e no Ministério da Defesa. 
 
-Art. 11.  Fica instituída, conforme tabela constante do Anexo X, a gratificação de exercício de cargo em confiança nos órgãos da Presidência da República e no Ministério da Defesa devida aos servidores militares, inacumulável com a gratificação de representação a que se refere o art. 13. (Redação dada pela Lei nº 12.375, de 2010)
+Originalmente, a RMP era restrita aos militares em exercício nos órgãos da Presidência da República. A existência da RMP no Ministério da Defesa advém da criação da Pasta, transformação dos Ministérios da Marinha, do Exército e da Aeronáutica em Comandos, e da extinção do Estado-Maior das Forças Armadas, que integrava a Presidência da República, pela Lei Complementar nº 97/1999. 
 
-Originalmente, a RMP era restrita aos militares nos órgãos da Presidência da República. A existência da RMP no Ministério da Defesa advém da criação da Pasta, transformação dos Ministérios da Marinha, do Exército e da Aeronáutica em Comandos, e da extinção do Estado-Maior das Forças Armadas, que integrava a Presidência da República, pela Lei Complementar nº 97/1999. 
-A percepção da RMP por militares no Ministério da Defesa tem por base o art. 29-B da Lei nº 9.649/1998, enquanto o Ministério não dispuser de quadro de pessoal permanente:
+A percepção da RMP por militares no Ministério da Defesa tem por base o `art. 29-B da Lei nº 9.649, de 1998 <lei-9649-art29B_>_`, enquanto o Ministério não dispuser de quadro de pessoal permanente.
 
-Art. 29-B.  Enquanto não dispuser de quadro de pessoal permanente:
-I - aplicam-se aos servidores civis e aos militares em exercício no Ministério da Defesa as normas vigentes para os servidores civis e militares em exercício nos órgãos da Presidência da República, em especial as referidas no art. 20 da Lei nº 8.216, de 13 de agosto de 1991, no § 4º do art. 93 da Lei nº 8.112, de 11 de dezembro de 1990, e nos arts. 11 e 13 da Lei nº 8.460, de 17 de setembro de 1992.
+.. admonition:: warning
 
-A Lei nº 9.649/1998 foi revogada nas disposições em contrário à Lei nº 10.683/2003 pela própria Lei nº 10.683. O art. 29-B da Lei nº 9.649 não estaria em contrário à Lei nº 10.683, portanto, ele continuaria vigente.
-Com o passar do tempo, os quantitativos de RMP previstos no Anexo I do Decreto nº 5.452/2005 ficaram desatualizados. A atual distribuição do quantitativo existente de RMP é a seguinte:
+   A Lei nº 9.649/1998 foi revogada nas disposições em contrário à Lei nº 10.683/2003 pela própria Lei nº 10.683. O art. 29-B da Lei nº 9.649 não estaria em contrário à Lei nº 10.683, portanto, ele continuaria vigente.
+   
+   Com o passar do tempo, os quantitativos de RMP previstos no Anexo I do Decreto nº 5.452/2005 ficaram desatualizados. A atual distribuição do quantitativo existente de RMP é a seguinte:
 
 Órgão RMP-1 ou Grupo 0001 (A) RMP-2 ou Grupo 0002 (B) RMP-3 ou Grupo 0003 (C) RMP-4 ou Grupo 0004 (D) RMP-5 ou Grupo 0005 (E) RMP-6 ou Grupo 0006 (F)
 Ministério da Defesa 28 275   7  6  70 0
@@ -455,7 +454,9 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-10667-anexoII: https://www.planalto.gov.br/ccivil_03/leis/2003/l10.667.htm#anexoII 
 .. _lei-10667-art15: https://www.planalto.gov.br/ccivil_03/leis/2003/l10.667.htm#art15
 .. _lei-11526-anexoII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11526.htm#anexoII
+.. _lei-8460-art11: https://www.planalto.gov.br/ccivil_03/leis/l8460consol.htm#art11
 .. _declei969-art12: https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del0969.htm#art12
+.. _lei-9649-art29B: https://www.planalto.gov.br/ccivil_03/leis/l9649cons.htm#art29b 
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 .. _dec-11924: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11924.htm
 .. _dec-13051: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13051.htm
