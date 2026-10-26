@@ -82,6 +82,7 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
       Ato do Poder Executivo faz a distribuição dos quantitativos por sistema estruturador (`Decreto nº 9.058, de 2017 <dec-9058_>`_);
       Portarias dos órgãos centrais do respectivo sistema estruturador distribuem aos setoriais e seccionais.
       * Quantitativo máximo de servidores que fazem jus à GSISTE: `Anexo VII da Lei nº 11.356, de 2006 <lei-11356-AnexoVII_>`_;
+      
       * Sobre a remuneração:
          a) Definida pelo `Anexo VIII da Lei nº 11.356, de 2006 <lei-11356-AnexoVIII_>`_;
          b) Teto definido pelo `Anexo VIII da Lei nº 11.356, de 2006 <lei-11356-AnexoVIII_>`_;
@@ -99,7 +100,7 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
 .. figure:: ../_static/images/Anexo_Gsiste.png
    :alt: órgãos centrais dos sistemas estruturantes com GSISTE
    :align: center
-   :scale: 35
+   :scale: 30
 
 .. note::
  
