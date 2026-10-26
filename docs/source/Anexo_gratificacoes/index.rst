@@ -183,12 +183,17 @@ A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pel
 .. admonition:: Características importantes da GPDEC
 
       * Regulamento: `Decreto nº 11.924, de 2024 <dec-11924_>`_.
+      
       * Forma de distribuição: Portaria da autoridade máxima do MIDR, para as unidades da SNPDC. 
+      
       Ato do titular máximo do MIDR pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
-      * Quantitativo máximo de servidores que fazem jus à GPDEC: anexo XXIV da `Lei nº 14.875, de 2024 <lei-14875_>`_.
+      
+      * Quantitativo máximo de servidores que fazem jus à GPDEC: `Anexo XXIV da Lei nº 14.875, de 2024 <lei-14875-anexoXXIV_>`_.
+      
       * Sobre a remuneração:
-      a) **Não** se acumula com a remuneração de cargo em comissão ou função de confiança; e
-      b) **Não** tem teto definido.
+         a) Definida pelo `Anexo XXV da Lei nº 14.875, de 2024 <lei-14875-anexoXXV_>`_;
+         b) **Não** se acumula com a remuneração de cargo em comissão ou função de confiança; e
+         c) **Não** tem teto definido.
     
 .. admonition:: Curiosidades
 
@@ -206,12 +211,16 @@ A GTATA, última gratificação temporária até o momento, retoma o desenho da 
 .. admonition:: Características importantes da GTATA
 
       * Regulamento: `Decreto nº 13.051, de 3 de julho de 2026 <dec-13051_>`_.
+      
       * Forma de distribuição: ato do MGI.
+      
       Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
-      * Quantitativo máximo de servidores que fazem jus à GTATA: Anexo XV da `Lei nº 15.367, de 2026 <lei-15367_>`_.
+      
+      * Quantitativo máximo de servidores que fazem jus à GTATA: `Anexo XV da Lei nº 15.367, de 2026 <lei-15367-anexoXV_>`_.
+      
       * Sobre a remuneração:
-      a) Definida pelo Anexo XVI da `Lei nº 15.367, de 2026 <lei-15367_>`_;
-      b) Teto definido pelo Anexo XVII da `Lei nº 15.367, de 2026 <lei-15367_>`_;
+      a) Definida pelo `Anexo XVI da Lei nº 15.367, de 2026 <lei-15367-anexoXVI_>`_;
+      b) Teto definido pelo `Anexo XVII da Lei nº 15.367, de 2026 <lei-15367-anexoXVII_>`_;
       c) Acumula-se com a remuneração de cargo em comissão ou função de confiança; e
       d) É proporcional à jornada de trabalho do servidor.
 
@@ -534,9 +543,12 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-11907-anexoCLXIII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#AnexoCLXIII
 .. _lei-11907-anexoCLXII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#AnexoCLXII
 .. _lei-14875-art56: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm#art56
-.. _lei-14875: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm
+.. _lei-14875-anexoXXIV: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm#anexoXXIV
+.. _lei-14875-anexoXXV: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm#anexoXXV
 .. _lei-15367-art30: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#art30 
-.. _lei-15367: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm
+.. _lei-15367-anexoXV: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#anexoXV
+.. _lei-15367-anexoXVI: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#anexoXVI
+.. _lei-15367-anexoXVII: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#anexoXVII
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 .. _dec-11924: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11924.htm
 .. _dec-13051: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13051.htm
