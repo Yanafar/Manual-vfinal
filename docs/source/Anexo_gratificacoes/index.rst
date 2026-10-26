@@ -45,6 +45,7 @@ Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administr
 A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art15_>`_, sendo devida a titulares de cargos de provimento efetivo, por nível de escolaridade do cargo efetivo.  
 
 .. admonition:: Curiosidade!
+
        Note-se que antes da Lei nº 11.356 de 2006, as atividades dos sistemas estruturadores já eram realizadas sem que houvesse nenhuma retribuição adicional pela sua execução. Além disso, alguns sistemas contam com carreiras específicas para o exercício de suas atividades, a exemplo da Carreira de Finanças e Controle, para atuação nos Sistemas de Administração Financeira, Contabilidade e Controle Interno.
 
 
@@ -119,7 +120,8 @@ A Gratificação Temporária do Sistema de Administração dos Recursos de Infor
       * Possui mesma remuneração para o órgão central e setoriais, superiores à da GSISTE; 
       * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISP (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo CLX da `Lei nº 11.907 de 2009 <lei-11907_>`_; 
 
-.. admonition:: Curiosidade!
+.. admonition:: Curiosidade
+
        A partir do Decreto nº 10.334, de 29 de abril de 2020, foi realizada a primeira distribuição de GSISTE para o SISP, de modo que o SISP passou a ter duas gratificações (GSISP e GSISTE) para o mesmo sistema e mesmo público-alvo. A instituição da GSISP visou “prover quadro permanente” para as atividades do SISP, com a retenção e atração de profissionais de Tecnologia da Informação - TI do serviço público.
 
 
