@@ -210,7 +210,6 @@ A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Admi
       * Forma de distribuição: ato do MGI.
       
       Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
-      
       * Quantitativo máximo de servidores que fazem jus à GTATA: `Anexo XV da Lei nº 15.367, de 2026 <lei-15367-anexoXV_>`_.
       
       * Sobre a remuneração:
@@ -222,7 +221,7 @@ A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Admi
 Gratificação Temporária do SIPAM (GTS)
 --------------------------------------
 
-A Gratificação Temporária SIPAM – GTS foi criada pelo `art. 15 da Lei nº 10.667, de 14 de maio de 2003 <lei-10667-art15_>'_, como medida de apoio às atividades do Sistema de Proteção da Amazônia – SIPAM, que na época vinculava-se à Casa Civil da Presidência da República.
+A Gratificação Temporária SIPAM – GTS foi criada pelo `art. 15 da Lei nº 10.667, de 14 de maio de 2003 <lei-10667-art15_>`_, como medida de apoio às atividades do Sistema de Proteção da Amazônia – SIPAM, que na época vinculava-se à Casa Civil da Presidência da República.
 
 Em 2011, com a publicação do Decreto nº 7.424, de 5 de janeiro de 2011, houve a transferência do Centro Gestor e Operacional do Sistema de Proteção da Amazônia – CENSIPAM da Casa Civil da Presidência da República para o Ministério da Defesa. Assim, o caput do art. 15 da Lei nº 10.667/2003 está desatualizado.
 
@@ -267,32 +266,25 @@ A percepção da RMP por militares no Ministério da Defesa tem por base o `art.
 
    A Lei nº 9.649/1998 foi revogada nas disposições em contrário à Lei nº 10.683/2003 pela própria Lei nº 10.683. O art. 29-B da Lei nº 9.649 não estaria em contrário à Lei nº 10.683, portanto, ele continuaria vigente.
    
-   Com o passar do tempo, os quantitativos de RMP previstos no Anexo I do Decreto nº 5.452/2005 ficaram desatualizados. A atual distribuição do quantitativo existente de RMP é a seguinte:
+   Com o passar do tempo, os quantitativos de RMP previstos no Anexo I do Decreto nº 5.452/2005 ficaram desatualizados. A atual distribuição do quantitativo existente pode ser consultada no sistema informatizado Siorg.
 
-Órgão RMP-1 ou Grupo 0001 (A) RMP-2 ou Grupo 0002 (B) RMP-3 ou Grupo 0003 (C) RMP-4 ou Grupo 0004 (D) RMP-5 ou Grupo 0005 (E) RMP-6 ou Grupo 0006 (F)
-Ministério da Defesa 28 275   7  6  70 0
-Presidência da República   13 36 39 52 51 0
-Casa Civil da PR  1  2  4  5  10 0
-Total 42 331   50 63 131   0
-Fonte: COCAF/CGINF/ SEGES/MGI, posição de 31/08/2026
+.. admonition:: Características importantes da RMP
 
-O último nível da tabela (RMP-6 ou Grupo F) não possui quantitativos devido ao valor de sua remuneração ser inferior à RGM-5, nível mais alto da Gratificação de Representação de Gabinete, devida aos militares praças.
-As RMP fazem parte dos Decretos das estruturas regimentais e dos quadros demonstrativos de cargos e funções comissionadas dos órgãos onde elas encontram-se distribuídas. 
-O § 1º do art. 56 da Lei n° 14.600/2023 autorizou que os militares requisitados que, em 31/12/2022, estavam em exercício no Ministério da Mulher, da Família e dos Direitos Humanos (órgãos que foram desmembrados da Presidência da República) com designação para a RMP, permanecessem com a gratificação no Ministério das Mulheres, no Ministério da Igualdade Racial ou no Ministério dos Direitos Humanos e da Cidadania. Porém, o §2º do mesmo artigo previu que tais RMP retornariam automaticamente à Presidência da República quando da dispensa ou de alteração do exercício do militar, que foi o que aconteceu.
-Os valores remuneratórios da RMP são os seguintes:
+      * Regulamento: não há.
+      
+      * Forma de distribuição: compõe a estruturas dos órgãos onde se encontram distribuídas. 
+      
+      * Sobre a remuneração: definida pelo `Anexo III da Lei nº 11.526, de 2007 <lei-11526-anexoIII_>`_.
 
-Alínea “d” do Anexo III da Lei nº 11.526/2007
-Grupo Valor da RMP Em R$
-(a partir de 1º de janeiro de 2026)
-A  2.231,45
-B  2.028,04
-C  1.842,35
-D  1.674,32
-E  1.523,99
-F  1.385,43
 
+.. admonition:: Curiosidades
+
+   O último nível da tabela de remuneração (RMP-6 ou Grupo F) não possui quantitativos devido ao valor de sua remuneração ser inferior à RGM-5, nível mais alto da Gratificação de Representação de Gabinete, devida aos militares praças.
+
+   O § 1º do art. 56 da Lei n° 14.600/2023 autorizou que os militares requisitados que, em 31/12/2022, estavam em exercício no Ministério da Mulher, da Família e dos Direitos Humanos (órgãos que foram desmembrados da Presidência da República) com designação para a RMP, permanecessem com a gratificação no Ministério das Mulheres, no Ministério da Igualdade Racial ou no Ministério dos Direitos Humanos e da Cidadania. Porém, o §2º do mesmo artigo previu que tais RMP retornariam automaticamente à Presidência da República quando da dispensa ou de alteração do exercício do militar, que foi o que aconteceu.
 
 Gratificação de Representação da Presidência da República (RGA e RMA)
+---------------------------------------------------------------------
 
 As “gratificações de representação” precedem a Constituição Federal de 1988, com base na qual as atribuições de direção, chefia e assessoramento recaem sobre os cargos em comissão e as funções de confiança. 
 A referência mais antiga que se conhece é na Lei nº 1.711, de 28 de outubro de 1952, no art. 145, inciso IV, transcrito a seguir:
@@ -455,8 +447,9 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-10667-art15: https://www.planalto.gov.br/ccivil_03/leis/2003/l10.667.htm#art15
 .. _lei-11526-anexoII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11526.htm#anexoII
 .. _lei-8460-art11: https://www.planalto.gov.br/ccivil_03/leis/l8460consol.htm#art11
-.. _declei969-art12: https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del0969.htm#art12
-.. _lei-9649-art29B: https://www.planalto.gov.br/ccivil_03/leis/l9649cons.htm#art29b 
+.. _declei-969-art12: https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del0969.htm#art12
+.. _lei-9649-art29B: https://www.planalto.gov.br/ccivil_03/leis/l9649cons.htm#art29b
+.. _lei-11526-anexoIII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11526.htm#anexoIII  
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 .. _dec-11924: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11924.htm
 .. _dec-13051: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13051.htm
