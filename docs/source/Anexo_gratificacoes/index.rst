@@ -78,9 +78,13 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
 .. admonition:: Características importantes da GSISTE
  
       * Regulamento: `Decreto nº 9.058, de 2017 <dec-9058_>`_.
+      
       * Forma de distribuição: 
+      
       Ato do Poder Executivo faz a distribuição dos quantitativos por sistema estruturador (`Decreto nº 9.058, de 2017 <dec-9058_>`_);
+      
       Portarias dos órgãos centrais do respectivo sistema estruturador distribuem aos setoriais e seccionais.
+      
       * Quantitativo máximo de servidores que fazem jus à GSISTE: `Anexo VII da Lei nº 11.356, de 2006 <lei-11356-AnexoVII_>`_;
       
       * Sobre a remuneração:
@@ -157,16 +161,19 @@ A GAEG foi instituída pelo `art. 292 da Lei nº 11.907, de 2009 <lei-11907-art2
 .. admonition:: Características importantes da GAEG
 
       * Regulamento: não há.
+      
       * Forma de distribuição: anexo CLXI da `Lei nº 11.907/2009 <lei-11907_>_`_.
+      
       Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
+      
       * Quantitativo máximo de servidores que fazem jus à GAEG: anexo VII da `Lei nº 11.907 de 2009 <lei-11907_>`_.
       
       * Sobre a remuneração:
-      a) igual à GSISTE (órgão central);
-      b) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
-      c) Teto definido pelo Anexo CLXIII da `Lei nº 11.907 de 2009 <lei-11907_>`_;
-      d) É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica;
-      e) É proporcional à jornada de trabalho do servidor.
+         a) Definida pelo `Anexo CLXII da Lei nº 11.907 de 2009 <lei-11907-anexoCLXII_>`_;
+         b) Teto definido pelo `Anexo CLXIII da Lei nº 11.907 de 2009 <lei-11907-anexoCLXIII_>`_;
+         c) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+         d) É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica;
+         e) É proporcional à jornada de trabalho do servidor.
 
 Gratificação Temporária de Proteção e Defesa Civil (GPDEC)
 ----------------------------------------------------------
@@ -524,6 +531,8 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-11907-anexoVII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#AnexoVII
 .. _lei-11907-anexoCLX: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#AnexoCLX
 .. _lei-11907-anexoCLIX: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#AnexoCLIX
+.. _lei-11907-anexoCLXIII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#AnexoCLXIII
+.. _lei-11907-anexoCLXII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#AnexoCLXII
 .. _lei-14875-art56: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm#art56
 .. _lei-14875: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm
 .. _lei-15367-art30: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#art30 
