@@ -7,6 +7,8 @@ Este Anexo reúne informações sobre gratificações temporárias usadas para a
       
 As gratificações temporárias são análogas às funções de confiança para assessoramento técnico, com a diferença de que são instrumentos articulados com a política de gestão de pessoas e a arquitetura das carreiras. Tais gratificações atuam como um equalizador das diferenças remuneratórias entre cargos e carreiras heterogêneas, permitindo que servidores de carreiras transversais ou com remunerações base mais baixas sejam atraídos para setores considerados críticos da gestão federal.
 
+**São, assim, instrumento eficaz para atrair e reter servidores, pois viabilizam a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo ou função comissionada**.
+
 .. warning::
 
    A acumulação de gratificações com cargos em comissão ou funções de confiança, quando permitida, pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
@@ -75,16 +77,23 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
 
 .. admonition:: Características importantes da GSISTE
  
-      * Regulada pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_;
-      * Não faz parte dos decretos das estruturas organizacionais dos órgãos e entidades, pois são distribuídas por meio de Portarias dos órgãos centrais do respectivo sistema estruturador;
-      * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
-      * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
-      * O quantitativo máximo de servidores que fazem jus à GSISTE é definido pelo Anexo VII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
-      * Respeitado o limite global (5.949), ato do Poder Executivo faz a distribuição dos quantitativos por sistema estruturador: o `Decreto nº 9.058, de 2017 <dec-9058_>`_. Hoje não há mais GSISTE de nível auxiliar; todas foram transformadas em nível superior ou intermediário, observadas as respectivas remunerações para que não houvesse aumento de despesa; 
-      * Além das unidades dos sistemas estruturados, a GSISTE também pode ser concedida a servidores em exercício nos Gabinetes dos Ministros e nas Secretarias Executivas dos Ministérios a que se subordinam os órgãos centrais ou da Casa Civil da Presidência da República. O quantitativo máximo para tanto também é definido pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_.
-      * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISTE (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo VIII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
-      * Possui valores de remuneração diferenciados para os órgãos centrais;
-      * É proporcional à jornada de trabalho do servidor.
+      * Regulamento: `Decreto nº 9.058, de 2017 <dec-9058_>`_;
+      * Forma de distribuição: 
+      Ato do Poder Executivo faz a distribuição dos quantitativos por sistema estruturador (`Decreto nº 9.058, de 2017 <dec-9058_>`_).
+      Portarias dos órgãos centrais do respectivo sistema estruturador distribuem aos setoriais e seccionais;
+      * Quantitativo máximo de servidores que fazem jus à GSISTE: anexo VII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
+      * Sobre a remunração:
+      a) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+      b) Teto definido pelo anexo VIII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
+      c) É proporcional à jornada de trabalho do servidor; e
+      d) Possui valores de remuneração diferenciados para os órgãos centrais.
+  
+
+.. admonition:: Saiba mais
+ 
+      Hoje não há mais GSISTE de nível auxiliar; todas foram transformadas em nível superior ou intermediário, observadas as respectivas remunerações para que não houvesse aumento de despesa; 
+      
+      Além das unidades dos sistemas estruturados, a GSISTE também pode ser concedida a servidores em exercício nos Gabinetes dos Ministros e nas Secretarias Executivas dos Ministérios a que se subordinam os órgãos centrais ou da Casa Civil da Presidência da República. O quantitativo máximo para tanto também é definido pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_.
 
 .. _Anexo_Gsiste:
 .. figure:: ../_static/images/Anexo_Gsiste.png
@@ -109,16 +118,21 @@ A Gratificação Temporária do Sistema de Administração dos Recursos de Infor
 É devida aos titulares de cargos de provimento efetivo que se encontrem em exercício no órgão central e nos órgãos setoriais, seccionais e correlatos do Sistema de Administração dos Recursos de Informação e Informática - SISP, enquanto permanecerem nesta condição.
 
 .. admonition:: Características importantes da GSISP
+
+
+      * Regulamento: não há;
+      * Forma de distribuição: Portaria do órgão central do SISP
+      * Quantitativo máximo de servidores que fazem jus à GSISP: anexo VII da `Lei nº 11.907 de 2009 <lei-11907_>`_;
+      * Sobre a remunração:
+      a) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+      b) Teto definido pelo anexo CLX da `Lei nº 11.907 de 2009 <lei-11907_>`_. 
+      c) É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica e ao desempenho de atividades relacionadas ao SISP;
+      d) Igual para o órgão central e setoriais, superiores à da GSISTE.
  
-      * Não possui regulamento específico; 
-      * Não faz parte dos decretos das estruturas organizacionais dos órgãos/entidades, pois são distribuídas aos órgãos por Portaria do órgão central do SISP;
-      * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
-      * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
-      * É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica e ao desempenho de atividades relacionadas ao SISP;
-      * O quantitativo máximo de servidores que fazem jus à GSISP é definido pela Lei nº 11.907 de 2009 <lei-11907_>`_;
-      * Respeitado o limite global (750), poderá haver alteração dos quantitativos por nível, mediante ato do titular máximo do MGI, desde que não acarrete aumento de despesa;
-      * Possui mesma remuneração para o órgão central e setoriais, superiores à da GSISTE; 
-      * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISP (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo CLX da `Lei nº 11.907 de 2009 <lei-11907_>`_. 
+.. admonition:: Saiba mais
+     
+     Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa;
+
 
 .. admonition:: Curiosidade
 
@@ -174,30 +188,18 @@ A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pel
 Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA)
 -------------------------------------------------------------------------------------------
 
-A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada no art. 30 da Lei nº 15.367, de 30 de março de 2026, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que são citados no Anexo XIV da Lei (basicamente, os Ministérios e algumas autarquias/fundações).
-Art. 30. Fica instituída, a partir de 1º de abril de 2026, a Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA), no âmbito do Poder Executivo federal. 
-Art. 31. A GTATA poderá ser concedida, enquanto permanecerem nesta condição, exclusivamente a servidores que:
-I – sejam titulares de cargos regidos pela Lei nº 8.112, de 11 de dezembro de 1990, não integrantes de carreiras estruturadas; 
-II – estejam em efetivo exercício no âmbito dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional de que trata o Anexo XIV desta Lei; e 
-III – atuem de modo direto na execução e no apoio às seguintes atividades da administração pública federal, de acordo com nível de escolaridade do cargo: 
-a) atividades técnicas relacionadas a documentação e acervo, comunicação, pesquisa científica e tecnológica ou saúde; ou 
-b) atividades administrativas relacionadas a planejamento, orçamento e finanças, pessoal, processos, patrimônio, logística, contratos, dados, controle e integridade, atendimento ou protocolo. 
-§ 1º Para fins do disposto no inciso I do caput deste artigo, considera-se carreira estruturada aquela instituída por legislação específica, composta de um único cargo ou, excepcionalmente, de mais de um cargo com atividades de natureza semelhante, estrutura própria de classes, padrões e remuneração e regras de promoção e de progressão. 
-§ 2º Estão abrangidos nas atividades de que trata o inciso III do caput deste artigo a preparação, o gerenciamento, a organização, a supervisão e o assessoramento relacionados diretamente à sua execução.
+A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que citados no Anexo XIV da Lei (basicamente, os Ministérios e algumas autarquias/fundações).
 
 A GTATA, última gratificação temporária até o momento, retoma o desenho da GSISTE, da GAEG e da GSISP, no que se refere à previsão de teto remuneratório para soma de gratificação com a remuneração do cargo efetivo e à possibilidade de acumulação com cargos/funções comissionadas. 
-As principais características da GTATA são as seguintes:
-a) regulamento: Decreto nº 13.051, de 3 de julho de 2026;
-b) não faz parte dos decretos das estruturas organizacionais dos órgãos/entidades, pois são distribuídas por meio de ato do MGI;
-c) é eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
-d) acumula-se com a remuneração de cargo em comissão ou função de confiança ;
-e) possui quantitativo máximo de servidores que fazem jus à GTATA :
 
-Anexo XV da Lei nº 15.367/2026
-Quantitativo   Superior Intermediário  Total
-Quantitativo máximo de servidores que fazem jus à GTATA, a ser distribuído a órgãos e entidades federais na forma de ato do Ministério da Gestão e da Inovação em Serviços Públicos 4.430 32.550   36.980
+.. admonition:: Características importantes da GTATA
 
-f) respeitado o limite global (36.980), poderá haver alteração dos quantitativos por nível, mediante ato do MGI, desde que não acarrete aumento de despesa ;
+   * Regulada pelo `Decreto nº 13.051, de 3 de julho de 2026 <dec-13051_>`_;
+   * Não faz parte dos decretos das estruturas organizacionais dos órgãos/entidades, pois são distribuídas por meio de ato do MGI;
+   É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
+   * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+   * O quantitativo máximo de servidores que fazem jus à GTATA é definido pelo Anexo XV da `Lei nº 15.367, de 2026 <lei-15367_>`_;
+   * Respeitado o limite global (36.980), poderá haver alteração dos quantitativos por nível, mediante ato do MGI, desde que não acarrete aumento de despesa ;
 g) remuneração:
 
 Anexo XVI da Lei nº 15.367/2026
@@ -522,8 +524,10 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-11907: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm
 .. _lei-14875-art56: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm#art56
 .. _lei-14875: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm
+.. _lei-15367-art30: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#art30 
+.. _lei-15367: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 .. _dec-11924: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11924.htm
-..
+.. _dec-13051: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13051.htm
 
 
