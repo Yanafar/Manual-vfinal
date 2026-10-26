@@ -67,32 +67,17 @@ A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art
 .. admonition:: Características importantes sobre a GSISTE
  
       * Regulada pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_.
-      * Não faz parte dos decretos das estruturas organizacionais dos órgãos e entidades, pois são distribuídas por meio de Portarias dos respectivos órgãos centrais;
+      * Não faz parte dos decretos das estruturas organizacionais dos órgãos e entidades, pois são distribuídas por meio de Portarias dos órgãos centrais do respectivo sistema estruturador;
       * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
       * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
       * O quantitativo máximo de servidores que fazem jus à GSISTE é definido pelo Anexo VII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
-      * Respeitado o limite global (5.949), ato do Poder Executivo faz a distribuição dos quantitativos por sistema : o Decreto nº 9.058/2017. Hoje não há mais GSISTE de nível auxiliar; todas foram transformadas em nível superior ou intermediário, observadas as respectivas remunerações para que não houvesse aumento de despesa. 
+      * Respeitado o limite global (5.949), ato do Poder Executivo faz a distribuição dos quantitativos por sistema estruturador: o `Decreto nº 9.058, de 2017 <dec-9058_>`_. Hoje não há mais GSISTE de nível auxiliar; todas foram transformadas em nível superior ou intermediário, observadas as respectivas remunerações para que não houvesse aumento de despesa; 
+      * Além das unidades dos sistemas estruturados, a GSISTE também pode ser concedida a servidores em exercício nos Gabinetes dos Ministros e nas Secretarias Executivas dos Ministérios a que se subordinam os órgãos centrais ou da Casa Civil da Presidência da República. O quantitativo máximo para tanto também é definido pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_.
+      * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISTE (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo VIII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
+       * Possui valores de remuneração diferenciados para os órgãos centrais;
+       * É proporcional à jornada de trabalho do servidor;
 
-
-
-g)    
-
-
-
-h)    além das unidades dos sistemas estruturados, a GSISTE também pode ser concedida a servidores em exercício nos Gabinetes dos Ministros e nas Secretarias Executivas dos Ministérios a que se subordinam os órgãos centrais ou da Casa Civil da Presidência da República . Atualmente, há 29 GSISTE para a Casa Civil:
-
-
-i)    cada titular da unidade que exerce o papel de órgão central realiza a distribuição dos quantitativos de GSISTE no âmbito do respectivo sistema ;
-j)    possui valores de remuneração diferenciados para os órgãos centrais:
-
-
-
-k)    possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISTE (excluídas vantagens pessoais e retribuição por cargo/função comissionada):
-
-
-
-l)    proporcional à jornada de trabalho do servidor;
-m)    os órgãos centrais dos sistemas estruturantes com GSISTE são os seguintes:
+os órgãos centrais dos sistemas estruturantes com GSISTE são os seguintes:
 
 
 
