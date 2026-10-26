@@ -218,10 +218,6 @@ como se dá a indicação e a nomeação da autoridade máxima e de seus princip
 cargos e funções de chefia (Procurador-Chefe, Auditor-Chefe, Corregedor, dentre
 outros); e outras singularidades alinhadas à temática.
  
-.. admonition:: Em desenvolvimento
- 
-   O conteúdo desta seção será desenvolvido em versão posterior deste manual.
- 
 Capítulo IV — DAS COMPETÊNCIAS DOS ÓRGÃOS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
