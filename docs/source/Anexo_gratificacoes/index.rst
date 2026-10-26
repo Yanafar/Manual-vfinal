@@ -201,7 +201,55 @@ A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pel
 Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA)
 -------------------------------------------------------------------------------------------
 
-A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que citados no Anexo XIV da Lei (basicamente, os Ministérios e algumas autarquias/fundações).
+A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que citados no Anexo XIV da Lei (basicamente, os Ministérios e algumas autarquias/fundações):
+
+Controladoria-Geral da União
+Ministério da Agricultura e Pecuária
+Ministério da Ciência, Tecnologia e Inovação
+Ministério da Defesa
+Comando da Aeronáutica
+Comando da Marinha
+Comando do Exército
+Fundação Osorio
+Ministério da Fazenda
+Conselho de Controle de Atividades Financeiras
+Ministério da Igualdade Racial
+Ministério da Integração e do Desenvolvimento Regional
+Departamento Nacional de Obras Contra as Secas
+Superintendência do Desenvolvimento da Amazônia
+Superintendência do Desenvolvimento do Centro-Oeste
+Superintendência do Desenvolvimento do Nordeste
+Ministério da Gestão e da Inovação em Serviços Públicos
+Fundação Escola Nacional de Administração Pública
+Ministério da Justiça e Segurança Pública
+Conselho Administrativo de Defesa Econômica
+Polícia Federal
+Polícia Rodoviária Federal
+Ministério da Pesca e Aquicultura
+Ministério da Previdência Social
+Ministério da Saúde
+Fundação Nacional de Saúde
+Ministério das Cidades
+Ministério das Comunicações
+Ministério das Mulheres
+Ministério das Relações Exteriores
+Fundação Alexandre de Gusmão
+Ministério de Minas e Energia
+Ministério de Portos e Aeroportos
+Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome
+Ministério do Desenvolvimento, Indústria, Comércio e Serviços
+Ministério do Desenvolvimento Agrário e Agricultura Familiar
+Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte
+Ministério do Esporte
+Ministério do Planejamento e Orçamento
+Ministério do Trabalho e Emprego
+Ministério do Turismo
+Ministério dos Direitos Humanos e da Cidadania
+Ministério dos Povos Indígenas
+Ministério dos Transportes
+Presidência da República
+Vice-Presidência da República
+
 
 A GTATA, última gratificação temporária até o momento, retoma o desenho da GSISTE, da GAEG e da GSISP, no que se refere à previsão de teto remuneratório para soma de gratificação com a remuneração do cargo efetivo e à possibilidade de acumulação com cargos/funções comissionadas. 
 
@@ -223,65 +271,8 @@ A GTATA, última gratificação temporária até o momento, retoma o desenho da 
 
 
 
-
-
-
-
-j) órgãos e entidades para os quais podem ser distribuídas GTATA:
-
-Anexo XIV da Lei nº 15.367/2026
-CÓD.  ÓRGÃO/ENTIDADE
-59000 Controladoria-Geral da União
-13300 Ministério da Agricultura e Pecuária
-40108 Ministério da Ciência, Tecnologia e Inovação
-40115 Ministério da Defesa
-21000 Comando da Aeronáutica
-70000 Comando da Marinha
-16000 Comando do Exército
-16100 Fundação Osorio
-17600 Ministério da Fazenda
-25202 Conselho de Controle de Atividades Financeiras
-81300 Ministério da Igualdade Racial
-40100 Ministério da Integração e do Desenvolvimento Regional
-42204 Departamento Nacional de Obras Contra as Secas
-53297 Superintendência do Desenvolvimento da Amazônia
-53202 Superintendência do Desenvolvimento do Centro-Oeste
-53203 Superintendência do Desenvolvimento do Nordeste
-17500 Ministério da Gestão e da Inovação em Serviços Públicos
-40202 Fundação Escola Nacional de Administração Pública
-20000 Ministério da Justiça e Segurança Pública
-38000 Conselho Administrativo de Defesa Econômica
-20115 Polícia Federal
-30802 Polícia Rodoviária Federal
-13200 Ministério da Pesca e Aquicultura
-33100 Ministério da Previdência Social
-25000 Ministério da Saúde
-36205 Fundação Nacional de Saúde
-40200 Ministério das Cidades
-41100 Ministério das Comunicações
-81200 Ministério das Mulheres
-35000 Ministério das Relações Exteriores
-35201 Fundação Alexandre de Gusmão
-32000 Ministério de Minas e Energia
-49100 Ministério de Portos e Aeroportos
-55100 Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome
-17400 Ministério do Desenvolvimento, Indústria, Comércio e Serviços
-13100 Ministério do Desenvolvimento Agrário e Agricultura Familiar
-17700 Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte
-55200 Ministério do Esporte
-17300 Ministério do Planejamento e Orçamento
-33200 Ministério do Trabalho e Emprego
-54000 Ministério do Turismo
-81100 Ministério dos Direitos Humanos e da Cidadania
-17200 Ministério dos Povos Indígenas
-49200 Ministério dos Transportes
-20101 Presidência da República
-20102 Vice-Presidência da República
-
-A acumulação da GTATA com cargos em comissão ou funções de confiança pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GTATA somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
-
-
 Gratificação Temporária do SIPAM (GTS)
+--------------------------------------
 
 A Gratificação Temporária SIPAM – GTS foi criada pelo art. 15 da Lei nº 10.667, de 14 de maio de 2003, como medida de apoio às atividades do Sistema de Proteção da Amazônia – SIPAM, que na época vinculava-se à Casa Civil da Presidência da República, conforme a seguir:
 Art. 15. Ficam criadas Gratificações Temporárias nos valores e quantitativos constantes do Anexo II desta Lei, denominadas Gratificação Temporária Sipam - GTS, devida a servidores requisitados ou designados pela Casa Civil da Presidência da República para desempenho de atividades no âmbito do Sistema de Proteção da Amazônia - Sipam, sem prejuízo da remuneração integral relativa ao seu cargo ou emprego.
