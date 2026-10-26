@@ -77,21 +77,21 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
 
 .. admonition:: Características importantes da GSISTE
  
-      * Regulamento: `Decreto nº 9.058, de 2017 <dec-9058_>`_;
+      * Regulamento: `Decreto nº 9.058, de 2017 <dec-9058_>`_.
       * Forma de distribuição: 
-      Ato do Poder Executivo faz a distribuição dos quantitativos por sistema estruturador (`Decreto nº 9.058, de 2017 <dec-9058_>`_).
-      Portarias dos órgãos centrais do respectivo sistema estruturador distribuem aos setoriais e seccionais;
-      * Quantitativo máximo de servidores que fazem jus à GSISTE: anexo VII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
-      * Sobre a remunração:
-      a) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
-      b) Teto definido pelo anexo VIII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
-      c) É proporcional à jornada de trabalho do servidor; e
-      d) Possui valores de remuneração diferenciados para os órgãos centrais.
-  
+      Ato do Poder Executivo faz a distribuição dos quantitativos por sistema estruturador (`Decreto nº 9.058, de 2017 <dec-9058_>`_);
+      Portarias dos órgãos centrais do respectivo sistema estruturador distribuem aos setoriais e seccionais.
+      * Quantitativo máximo de servidores que fazem jus à GSISTE: Anexo VII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
+      * Sobre a remuneração:
+      a) Definida pelo Anexo VIII `Lei nº 11.356, de 2006 <lei-11356_>`_;
+      b) Teto definido pelo Anexo VIII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
+      c) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+      d) É proporcional à jornada de trabalho do servidor; e
+      e) Possui valores de remuneração diferenciados para os órgãos centrais.
 
 .. admonition:: Saiba mais
  
-      Hoje não há mais GSISTE de nível auxiliar; todas foram transformadas em nível superior ou intermediário, observadas as respectivas remunerações para que não houvesse aumento de despesa; 
+      Hoje não há mais GSISTE de nível auxiliar; todas foram transformadas em nível superior ou intermediário, observadas as respectivas remunerações para que não houvesse aumento de despesa.
       
       Além das unidades dos sistemas estruturados, a GSISTE também pode ser concedida a servidores em exercício nos Gabinetes dos Ministros e nas Secretarias Executivas dos Ministérios a que se subordinam os órgãos centrais ou da Casa Civil da Presidência da República. O quantitativo máximo para tanto também é definido pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_.
 
@@ -119,20 +119,15 @@ A Gratificação Temporária do Sistema de Administração dos Recursos de Infor
 
 .. admonition:: Características importantes da GSISP
 
-
-      * Regulamento: não há;
-      * Forma de distribuição: Portaria do órgão central do SISP
-      * Quantitativo máximo de servidores que fazem jus à GSISP: anexo VII da `Lei nº 11.907 de 2009 <lei-11907_>`_;
-      * Sobre a remunração:
+      * Regulamento: não há.
+      * Forma de distribuição: Portaria do órgão central do SISP.
+      Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
+      * Quantitativo máximo de servidores que fazem jus à GSISP: anexo VII da `Lei nº 11.907 de 2009 <lei-11907_>`_.
+      * Sobre a remuneração:
       a) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
       b) Teto definido pelo anexo CLX da `Lei nº 11.907 de 2009 <lei-11907_>`_. 
       c) É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica e ao desempenho de atividades relacionadas ao SISP;
       d) Igual para o órgão central e setoriais, superiores à da GSISTE.
- 
-.. admonition:: Saiba mais
-     
-     Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa;
-
 
 .. admonition:: Curiosidade
 
@@ -154,32 +149,34 @@ A GAEG foi instituída pelo `art. 292 da Lei nº 11.907, de 2009 <lei-11907-art2
 * Academia Nacional de Polícia.                       
 
 .. admonition:: Características importantes da GAEG
- 
-      * Não possui regulamento específico; 
-      * Não faz parte dos decretos das estruturas organizacionais dos órgãos/entidades e são distribuídas pelo Anexo CLXI da `Lei nº 11.907/2009 <lei-11907_>_`_;
-      * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
-      * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
-      * É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica;
-      * O quantitativo máximo de servidores que fazem jus à GAEG é definido pelo Anexo CLXI da `Lei nº 11.907 de 2009 <lei-11907_>`_;
-      * Respeitado o limite global (672), poderá haver alteração dos quantitativos por nível, mediante ato do titular máximo do MGI, desde que não acarrete aumento de despesa;
-      * Possui mesma remuneração da GSISTE (órgão central);
-      * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GAEG (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo CLXIII da `Lei nº 11.907 de 2009 <lei-11907_>`_;
-      * É proporcional à jornada de trabalho do servidor.
+
+      * Regulamento: não há.
+      * Forma de distribuição: anexo CLXI da `Lei nº 11.907/2009 <lei-11907_>_`_.
+      Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
+      * Quantitativo máximo de servidores que fazem jus à GAEG: anexo VII da `Lei nº 11.907 de 2009 <lei-11907_>`_.
+      * Sobre a remuneração:
+      a) igual à GSISTE (órgão central);
+      b) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+      c) Teto definido pelo Anexo CLXIII da `Lei nº 11.907 de 2009 <lei-11907_>`_;
+      d) É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica;
+      e) É proporcional à jornada de trabalho do servidor.
 
 Gratificação Temporária de Proteção e Defesa Civil (GPDEC)
 ----------------------------------------------------------
 
-A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pelo `art. 56 da Lei nº 14.875, de 31 de maio de 2024 <lei-14875-art56_>`_, para os servidores efetivos em efetivo exercício na Secretaria Nacional de Proteção e Defesa Civil do Ministério da Integração e do Desenvolvimento Regional (SNPDC/MIDR) e que atuem de modo direto em atividades críticas finalísticas da Defesa Civil, conforme definido em regulamento.
+A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pelo `art. 56 da Lei nº 14.875, de 31 de maio de 2024 <lei-14875-art56_>`_, para os servidores efetivos em efetivo exercício na Secretaria Nacional de Proteção e Defesa Civil do Ministério da Integração e do Desenvolvimento Regional (SNPDC/MIDR) e que atuem de modo direto em atividades críticas finalísticas da Defesa Civil, com jornada de 40 horas semanais, conforme definido em regulamento.
 
 .. admonition:: Características importantes da GPDEC
 
-   * Regulada pelo `Decreto nº 11.924, de 2024 <dec-11924_>`_;
-   * Não compõem o decreto da estrutura organizacional do MIDR e são distribuídas para as unidades da SNPDC por meio de Portaria da autoridade máxima do MIDR;
-   * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
-   * O quantitativo máximo de servidores que fazem jus à GPDEC é definido pelo Anexo XXIV da `Lei nº 14.875, de 2024 <lei-14875_>`_;
-   * Respeitado o limite global (100), poderá haver alteração dos quantitativos por nível, mediante ato do titular máximo do MIDR, desde que não acarrete aumento de despesa;
-
-.. admonition:: Importante
+      * Regulamento: `Decreto nº 11.924, de 2024 <dec-11924_>`_.
+      * Forma de distribuição: Portaria da autoridade máxima do MIDR, para as unidades da SNPDC. 
+      Ato do titular máximo do MIDR pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
+      * Quantitativo máximo de servidores que fazem jus à GPDEC: anexo XXIV da `Lei nº 14.875, de 2024 <lei-14875_>`_.
+      * Sobre a remuneração:
+      a) **Não** se acumula com a remuneração de cargo em comissão ou função de confiança; e
+      b) **Não** tem teto definido.
+    
+.. admonition:: Curiosidades
 
    A GPDEC, criada recentemente, tem um desenho mais simples do que o da GSISTE e uma diferença importante em relação às gratificações temporárias mais antigas (GSISTE, GSISP e GAEG) que é a não acumulação com a remuneração de cargos em comissão e de funções de confiança. Isso evita distorções remuneratórias dentro de uma mesma equipe, em que subordinados acumulando gratificações temporárias com cargos/funções comissionadas podem acabar recebendo mais do que a chefia pelo exercício das suas respectivas atribuições.
 
@@ -194,28 +191,22 @@ A GTATA, última gratificação temporária até o momento, retoma o desenho da 
 
 .. admonition:: Características importantes da GTATA
 
-   * Regulada pelo `Decreto nº 13.051, de 3 de julho de 2026 <dec-13051_>`_;
-   * Não faz parte dos decretos das estruturas organizacionais dos órgãos/entidades, pois são distribuídas por meio de ato do MGI;
-   É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
-   * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
-   * O quantitativo máximo de servidores que fazem jus à GTATA é definido pelo Anexo XV da `Lei nº 15.367, de 2026 <lei-15367_>`_;
-   * Respeitado o limite global (36.980), poderá haver alteração dos quantitativos por nível, mediante ato do MGI, desde que não acarrete aumento de despesa ;
-g) remuneração:
+      * Regulamento: `Decreto nº 13.051, de 3 de julho de 2026 <dec-13051_>`_.
+      * Forma de distribuição: ato do MGI.
+      Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
+      * Quantitativo máximo de servidores que fazem jus à GTATA: Anexo XV da `Lei nº 15.367, de 2026 <lei-15367_>`_.
+      * Sobre a remuneração:
+      a) Definida pelo Anexo XVI da `Lei nº 15.367, de 2026 <lei-15367_>`_;
+      b) Teto definido pelo Anexo XVII da `Lei nº 15.367, de 2026 <lei-15367_>`_;
+      c) Acumula-se com a remuneração de cargo em comissão ou função de confiança; e
+      d) É proporcional à jornada de trabalho do servidor.
 
-Anexo XVI da Lei nº 15.367/2026
-Nível do cargo Valor da GTATA em R$ 
-(a partir de 1º de janeiro de 2026)
-Superior 4.089,70
-Intermediário  1.119,77
 
-h) possui teto de remuneração composto pela remuneração do cargo efetivo e da GTATA (excluídas vantagens pessoais e retribuição por cargo/função comissionada):
 
-Anexo XVII da Lei nº 15.367/2026
-Nível do cargo Valor máximo da soma da GTATA com a remuneração do servidor (R$) a partir de 1º de janeiro de 2026
-Superior 18.633,28
-Intermediário  8.020,04
 
-i) proporcional à jornada de trabalho do servidor;
+
+
+
 j) órgãos e entidades para os quais podem ser distribuídas GTATA:
 
 Anexo XIV da Lei nº 15.367/2026
@@ -518,7 +509,7 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-14204-art6: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm#Art6
 .. _lei-13954-art10: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13954.htm#Art10
 .. _lei-11356-art15: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#Art15
-.. _lei-11356: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm
+.. _lei-11356: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#AnexoVIII
 .. _lei-11907-art287: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#Art287
 .. _lei-11907-art292: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#Art292
 .. _lei-11907: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm
