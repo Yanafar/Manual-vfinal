@@ -77,8 +77,8 @@ A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art
       * Possui valores de remuneração diferenciados para os órgãos centrais;
       * É proporcional à jornada de trabalho do servidor.
 
-.. _Imagem Gsiste:
-.. figure:: ../_static/images/Imagem Gsiste.png
+.. _Anexo_Gsiste:
+.. figure:: ../_static/images/Anexo_Gsiste.png
    :alt: órgãos centrais dos sistemas estruturantes com GSISTE
    :align: center
    :scale: 60
