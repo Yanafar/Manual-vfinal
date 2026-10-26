@@ -210,6 +210,7 @@ A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Admi
       * Forma de distribuição: ato do MGI.
       
       Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
+      
       * Quantitativo máximo de servidores que fazem jus à GTATA: `Anexo XV da Lei nº 15.367, de 2026 <lei-15367-anexoXV_>`_.
       
       * Sobre a remuneração:
