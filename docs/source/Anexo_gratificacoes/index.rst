@@ -201,7 +201,7 @@ A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pel
 Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA)
 -------------------------------------------------------------------------------------------
 
-A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que citados no `Anexo XIV da Lei <lei-15367-anexoXIV_>`(basicamente, os Ministérios e algumas autarquias/fundações).
+A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que citados no `Anexo XIV da Lei <lei-15367-anexoXIV_>_` (basicamente, os Ministérios e algumas autarquias/fundações).
 
 .. admonition:: Características importantes da GTATA
 
@@ -214,10 +214,10 @@ A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Admi
       * Quantitativo máximo de servidores que fazem jus à GTATA: `Anexo XV da Lei nº 15.367, de 2026 <lei-15367-anexoXV_>`_.
       
       * Sobre a remuneração:
-      a) Definida pelo `Anexo XVI da Lei nº 15.367, de 2026 <lei-15367-anexoXVI_>`_;
-      b) Teto definido pelo `Anexo XVII da Lei nº 15.367, de 2026 <lei-15367-anexoXVII_>`_;
-      c) Acumula-se com a remuneração de cargo em comissão ou função de confiança; e
-      d) É proporcional à jornada de trabalho do servidor.
+         a) Definida pelo `Anexo XVI da Lei nº 15.367, de 2026 <lei-15367-anexoXVI_>`_;
+         b) Teto definido pelo `Anexo XVII da Lei nº 15.367, de 2026 <lei-15367-anexoXVII_>`_;
+         c) Acumula-se com a remuneração de cargo em comissão ou função de confiança; e
+         d) É proporcional à jornada de trabalho do servidor.
 
 Gratificação Temporária do SIPAM (GTS)
 --------------------------------------
@@ -235,8 +235,8 @@ Em 2011, com a publicação do Decreto nº 7.424, de 5 de janeiro de 2011, houve
       * Quantitativo máximo de servidores que fazem jus à GTS: `Anexo II da Lei nº 10.667, de 2003 <lei-10667-anexoII_>`_.
       
       * Sobre a remuneração:
-      a) Definida pelo `Anexo II da Lei nº 10.667, de 2003 <lei-10667-anexoII_>`_; e
-      b) **Não** se acumula com a remuneração de cargo em comissão ou função de confiança.
+         a) Definida pelo `Anexo II da Lei nº 10.667, de 2003 <lei-10667-anexoII_>`_; e
+         b) **Não** se acumula com a remuneração de cargo em comissão ou função de confiança.
 
 
 Gratificação por serviços extraordinários (GSE-IBGE)
