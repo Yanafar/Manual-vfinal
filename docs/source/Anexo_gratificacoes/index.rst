@@ -304,12 +304,17 @@ O segundo desafio é o risco de descaracterização de gratificação da Presid�
 
 Por fim, o terceiro desafio é a necessidade de maior transparência na distribuição dos quantitativos existentes no âmbito da Presidência da República, integrada por:
 
-   a) Casa Civil, integrada pela Agência Brasileira de Inteligência (ABIN);
-   b) Secretaria-Geral;
-   c) Secretaria de Relações Institucionais;
-   d) Secretaria de Comunicação Social;
-   e) Gabinete Pessoal do Presidente da República; e
-   f) Gabinete de Segurança Institucional.
+a) Casa Civil, integrada pela Agência Brasileira de Inteligência (ABIN);
+
+b) Secretaria-Geral;
+
+c) Secretaria de Relações Institucionais;
+
+d) Secretaria de Comunicação Social;
+
+e) Gabinete Pessoal do Presidente da República; e
+
+f) Gabinete de Segurança Institucional.
 
 Atualmente, apenas os Decretos de estrutura da ABIN  e do Ministério da Defesa explicitam o quantitativo de RGA/RMA distribuído para os órgãos. O restante do quantitativo tem sua distribuição gerida internamente, no momento, pela Secretaria-Geral da Presidência da República.
 
