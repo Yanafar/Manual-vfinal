@@ -123,12 +123,14 @@ A Gratificação Temporária do Sistema de Administração dos Recursos de Infor
       * Regulamento: não há.
       * Forma de distribuição: Portaria do órgão central do SISP.
       Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
-      * Quantitativo máximo de servidores que fazem jus à GSISP: anexo VII da `Lei nº 11.907 de 2009 <lei-11907_>`_.
+      * Quantitativo máximo de servidores que fazem jus à GSISP: `Anexo VII da Lei nº 11.907 de 2009 <lei-11907-anexoVII_>`_.
+
       * Sobre a remuneração:
-      a) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
-      b) Teto definido pelo anexo CLX da `Lei nº 11.907 de 2009 <lei-11907_>`_. 
-      c) É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica e ao desempenho de atividades relacionadas ao SISP;
-      d) Igual para o órgão central e setoriais, superiores à da GSISTE.
+         a) Definida pelo `Anexo CLIX da Lei nº 11.907 de 2009 <lei-11907-anexoCLIX_>`_;
+         b) Teto definido pelo `Anexo CLX da Lei nº 11.907 de 2009 <lei-11907-anexoCLX_>`_;
+         c) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+         d) É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica e ao desempenho de atividades relacionadas ao SISP; e
+         e) Igual para o órgão central e setoriais, superiores à da GSISTE.
 
 .. admonition:: Curiosidade
 
@@ -516,7 +518,9 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-11356-AnexoVIII: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#AnexoVIII
 .. _lei-11907-art287: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#Art287
 .. _lei-11907-art292: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#Art292
-.. _lei-11907: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm
+.. _lei-11907-anexoVII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#AnexoVII
+.. _lei-11907-anexoCLX: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#AnexoCLX
+.. _lei-11907-anexoCLIX: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#AnexoCLIX
 .. _lei-14875-art56: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm#art56
 .. _lei-14875: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm
 .. _lei-15367-art30: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#art30 
