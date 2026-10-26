@@ -81,10 +81,10 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
       * Forma de distribuição: 
       Ato do Poder Executivo faz a distribuição dos quantitativos por sistema estruturador (`Decreto nº 9.058, de 2017 <dec-9058_>`_);
       Portarias dos órgãos centrais do respectivo sistema estruturador distribuem aos setoriais e seccionais.
-      * Quantitativo máximo de servidores que fazem jus à GSISTE: Anexo VII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
+      * Quantitativo máximo de servidores que fazem jus à GSISTE: `Anexo VII da Lei nº 11.356, de 2006 <lei-11356-AnexoVII_>`_;
       * Sobre a remuneração:
-         a) Definida pelo Anexo VIII `Lei nº 11.356, de 2006 <lei-11356_>`_;
-         b) Teto definido pelo Anexo VIII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
+         a) Definida pelo `Anexo VIII da Lei nº 11.356, de 2006 <lei-11356-AnexoVIII_>`_;
+         b) Teto definido pelo `Anexo VIII da Lei nº 11.356, de 2006 <lei-11356-AnexoVIII_>`_;
          c) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
          d) É proporcional à jornada de trabalho do servidor; e
          e) Possui valores de remuneração diferenciados para os órgãos centrais.
@@ -509,7 +509,9 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-14204-art6: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm#Art6
 .. _lei-13954-art10: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13954.htm#Art10
 .. _lei-11356-art15: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#Art15
-.. _lei-11356: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#AnexoVIII
+.. _lei-11356: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm
+.. _lei-11356-AnexoVII: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#AnexoVII
+.. _lei-11356-AnexoVIII: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#AnexoVIII
 .. _lei-11907-art287: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#Art287
 .. _lei-11907-art292: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#Art292
 .. _lei-11907: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm
