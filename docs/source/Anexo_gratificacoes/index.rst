@@ -83,11 +83,11 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
       Portarias dos órgãos centrais do respectivo sistema estruturador distribuem aos setoriais e seccionais.
       * Quantitativo máximo de servidores que fazem jus à GSISTE: Anexo VII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
       * Sobre a remuneração:
-      a) Definida pelo Anexo VIII `Lei nº 11.356, de 2006 <lei-11356_>`_;
-      b) Teto definido pelo Anexo VIII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
-      c) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
-      d) É proporcional à jornada de trabalho do servidor; e
-      e) Possui valores de remuneração diferenciados para os órgãos centrais.
+         a) Definida pelo Anexo VIII `Lei nº 11.356, de 2006 <lei-11356_>`_;
+         b) Teto definido pelo Anexo VIII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
+         c) Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+         d) É proporcional à jornada de trabalho do servidor; e
+         e) Possui valores de remuneração diferenciados para os órgãos centrais.
 
 .. admonition:: Saiba mais
  
