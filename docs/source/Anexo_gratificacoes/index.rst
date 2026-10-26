@@ -201,7 +201,7 @@ A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pel
 Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA)
 -------------------------------------------------------------------------------------------
 
-A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que citados no `Anexo XIV da Lei <lei-15367-anexoXIV_>`_ (basicamente, os Ministérios e algumas autarquias/fundações).
+A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades citados no `Anexo XIV da Lei <lei-15367-anexoXIV_>`_ (basicamente, os Ministérios e algumas autarquias/fundações).
 
 .. admonition:: Características importantes da GTATA
 
@@ -334,53 +334,17 @@ Uma vez explicitadas nos decretos das estruturas, as RMA/RGA podem ser cadastrad
    b) em 2025, a Gratificação pela Representação de Gabinete – RGM, para civis, dois níveis (Oficial de Gabinete e Auxiliar de Gabinete), de que tratam o art. 10 da Lei nº 8.460/1992 e a alínea “e” do Anexo III à Lei nº 11.526/2007: extinta pela Lei nº 15.141/2025 (art. 213).
 
 Gratificação de Representação de Função de Gabinete Militar (RMM)
+-----------------------------------------------------------------
 
-Considera-se a gratificação de representação de função de gabinete militar (RMM), de que tratam a Lei nº 8.460/1992, e a alínea “g” do Anexo III à Lei nº 11.526/2007, uma variante da gratificação de representação, antiquíssima, pré Constituição de 1988 e obsoleta.
-A primeira citação expressa identificada está no parágrafo único do art. 2º da Lei nº 8.460/1992, a seguir:
-Lei nº 8.460, de 1992
-Art. 2° Em decorrência do disposto no art. 3°, § 1° da Lei n° 8.448, de 21 de julho de 1992, e nos arts. 1° e 4° desta lei, os valores dos soldos e dos vencimentos dos servidores militares e civis passam a ser, a partir de 1° de setembro de 1992;
-..............................................................................................................
-Parágrafo único. As tabelas dos Juízes do Tribunal Marítimo, dos Cargos de Natureza Especial, dos de Direção e Assessoramento Superiores (DAS), dos Cargos de Direção (CD), das Instituições Federais de Ensino, das Funções Gratificadas (FG) e das Gratificações de Representação pelo exercício de função no Gabinete dos Ministros Militares e do Estado-Maior das Forças Armadas passam a ser as constantes do Anexo V.
-
-ANEXO V
-..................................................................................................
-GRATIFICAÇÃO DE REPRESENTAÇÃO PELO EXERCÍCIO DE FUNÇÃO NOS GABINETES DOS MINISTROS MILITARES E DO EMFA
-CARGO ÍNDICE   VALOR
-Ajudante "A"   50 106.000,00
-Ajudante "B"   100   218.000,00
-Ajudante "C"   150   324.000,00
-Ajudante "D"   200   432.000,00
-Assistente/Adjunto   300   648.000,00
-Assistente  400   864.000,00
-Assessor e/ou Secretário   800   1.728.000,00
-Sub-Chefe/Assessor-Chefe   900   1.944.000,00
-Chefe 1000  2.160.000,00
-
-
-
-
-Os valores remuneratórios da RMM são os seguintes:
-
-Alínea “g” do Anexo III da Lei nº 11.526/2007 - Gratificação de Representação de Função de Gabinete Militar – RMM
-Cargo Valor da RMM em R$
-(a partir de 1º de janeiro de 2019)
-Ajudante "A"   26,87
-Ajudante "B"   53,71
-Ajudante "C"   80,55
-Ajudante "D"   107,42
-Assistente/Adjunto   161,14
-Assistente  214,88
-Assessor e/ou Secretário   429,76
-Subchefe/Assessor Chefe 483,47
-Chefe 537,18
+Considera-se a gratificação de representação de função de gabinete militar (RMM), de que tratam a `Lei nº 8.460/1992 <lei-8460_>`_, e a alínea “g” do `Anexo III à Lei nº 11.526/2007 <lei-11526-anexoIII_>`_, uma variante da gratificação de representação, antiquíssima, pré Constituição de 1988 e obsoleta.
 
 De acordo com registros de pagamentos que constam do sistema informatizado do SIAPE, o último pagamento da RMM foi em janeiro de 2004, no Comando da Aeronáutica do Ministério da Defesa. O órgão detinha o único quantitativo existente em 2017, de 14 RMM vagas, identificado durante os trabalhos da força-tarefa da DEMOR-SEGES para identificação e levantamento de informações que forneceu os subsídios técnicos para elaboração da Lei nº 14.204/2021.
-Dado o pequeno quantitativo, todo vago desde 2004, e as baixíssimas remunerações, as RMM tiveram sua ocupação vedada pelo Decreto nº 9.725/2019, uma vez que apenas poderiam ser extintas por lei.
-A extinção da RMM constou da Medida Provisória nº 1.286, de 31 de dezembro de 2024 (inciso I do art. 213), vigente até 2 de junho de 2025.
-Antes da conversão da MP nº 1.286 na Lei nº 15.141/2025, foi acatada solicitação dos Comandos militares do Ministério da Defesa para que a RMM não fosse extinta, e o art. 213 previu apenas a extinção da RGM . 
-No sistema informatizado do SIORG não consta quantitativo de RMM. 
-Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disponíveis nos sistemas próprios de pessoal dos Comandos.
 
+Dado o pequeno quantitativo, todo vago desde 2004, e as baixíssimas remunerações, as RMM tiveram sua ocupação vedada pelo Decreto nº 9.725/2019, uma vez que apenas poderiam ser extintas por lei.
+
+A extinção da RMM constou da Medida Provisória nº 1.286, de 31 de dezembro de 2024 (inciso I do art. 213), vigente até 2 de junho de 2025. Entretanto, antes da conversão da MP nº 1.286 na Lei nº 15.141/2025, foi acatada solicitação dos Comandos militares do Ministério da Defesa para que a RMM não fosse extinta, e o art. 213 previu apenas a extinção da RGM . 
+
+No sistema informatizado do SIORG não constam informações sobre o quantitativo de RMM, estando disponíveis somente nos sistemas próprios de pessoal dos Comandos.
 
 
 
@@ -415,6 +379,7 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-10667-art15: https://www.planalto.gov.br/ccivil_03/leis/2003/l10.667.htm#art15
 .. _lei-11526-anexoII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11526.htm#anexoII
 .. _lei-8460-art11: https://www.planalto.gov.br/ccivil_03/leis/l8460consol.htm#art11
+.. _lei-8460: https://www.planalto.gov.br/ccivil_03/leis/l8460consol.htm
 .. _declei-969-art12: https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del0969.htm#art12
 .. _lei-9649-art29B: https://www.planalto.gov.br/ccivil_03/leis/l9649cons.htm#art29b
 .. _lei-11526-anexoIII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11526.htm#anexoIII
