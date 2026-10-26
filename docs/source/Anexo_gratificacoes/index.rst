@@ -121,8 +121,11 @@ A Gratificação Temporária do Sistema de Administração dos Recursos de Infor
 .. admonition:: Características importantes da GSISP
 
       * Regulamento: não há.
+      
       * Forma de distribuição: Portaria do órgão central do SISP.
+      
       Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
+      
       * Quantitativo máximo de servidores que fazem jus à GSISP: `Anexo VII da Lei nº 11.907 de 2009 <lei-11907-anexoVII_>`_.
 
       * Sobre a remuneração:
