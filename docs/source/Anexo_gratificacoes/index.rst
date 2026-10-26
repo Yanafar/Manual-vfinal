@@ -204,50 +204,95 @@ Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Admini
 A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que citados no Anexo XIV da Lei (basicamente, os Ministérios e algumas autarquias/fundações):
 
 Controladoria-Geral da União
+
 Ministério da Agricultura e Pecuária
+
 Ministério da Ciência, Tecnologia e Inovação
+
 Ministério da Defesa
+
 Comando da Aeronáutica
+
 Comando da Marinha
+
 Comando do Exército
+
 Fundação Osorio
+
 Ministério da Fazenda
+
 Conselho de Controle de Atividades Financeiras
+
 Ministério da Igualdade Racial
+
 Ministério da Integração e do Desenvolvimento Regional
+
 Departamento Nacional de Obras Contra as Secas
+
 Superintendência do Desenvolvimento da Amazônia
+
 Superintendência do Desenvolvimento do Centro-Oeste
+
 Superintendência do Desenvolvimento do Nordeste
+
 Ministério da Gestão e da Inovação em Serviços Públicos
+
 Fundação Escola Nacional de Administração Pública
+
 Ministério da Justiça e Segurança Pública
+
 Conselho Administrativo de Defesa Econômica
+
 Polícia Federal
+
 Polícia Rodoviária Federal
+
 Ministério da Pesca e Aquicultura
+
 Ministério da Previdência Social
+
 Ministério da Saúde
+
 Fundação Nacional de Saúde
+
 Ministério das Cidades
+
 Ministério das Comunicações
+
 Ministério das Mulheres
+
 Ministério das Relações Exteriores
+
 Fundação Alexandre de Gusmão
+
 Ministério de Minas e Energia
+
 Ministério de Portos e Aeroportos
+
 Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome
+
 Ministério do Desenvolvimento, Indústria, Comércio e Serviços
+
 Ministério do Desenvolvimento Agrário e Agricultura Familiar
+
 Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte
+
 Ministério do Esporte
+
 Ministério do Planejamento e Orçamento
+
 Ministério do Trabalho e Emprego
+
 Ministério do Turismo
+
 Ministério dos Direitos Humanos e da Cidadania
+
 Ministério dos Povos Indígenas
+
 Ministério dos Transportes
+
 Presidência da República
+
 Vice-Presidência da República
 
 .. admonition:: Características importantes da GTATA
