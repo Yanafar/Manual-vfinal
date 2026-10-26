@@ -74,7 +74,7 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
 
 .. admonition:: Características importantes sobre a GSISTE
  
-      * Regulada pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_.
+      * Regulada pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_;
       * Não faz parte dos decretos das estruturas organizacionais dos órgãos e entidades, pois são distribuídas por meio de Portarias dos órgãos centrais do respectivo sistema estruturador;
       * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
       * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
@@ -102,7 +102,27 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
 
 Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática (GSISP)
 ---------------------------------------------------------------------------------------------------------
-   
+
+A Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática (GSISP) foi instituída pelo `art. 287 da Lei nº 11.907 de 2009 <lei-11907-art287_>`_. 
+
+É devida aos titulares de cargos de provimento efetivo que se encontrem em exercício no órgão central e nos órgãos setoriais, seccionais e correlatos do Sistema de Administração dos Recursos de Informação e Informática - SISP, enquanto permanecerem nesta condição.
+
+.. admonition:: Características importantes sobre a GSISP
+ 
+      * Não possui regulamento específico; 
+      * Não az parte dos decretos das estruturas organizacionais dos órgãos/entidades, pois são distribuídas aos órgãos por Portaria do órgão central do SISP;
+      * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
+      * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+      * É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica e ao desempenho de atividades relacionadas ao SISP;
+      * O quantitativo máximo de servidores que fazem jus à GSISP é definido pela Lei nº 11.907 de 2009 <lei-11907_>`_;
+      * Respeitado o limite global (750), poderá haver alteração dos quantitativos por nível, mediante ato do titular máximo do MGI, desde que não acarrete aumento de despesa;
+      * Possui mesma remuneração para o órgão central e setoriais, superiores à da GSISTE; 
+      * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISP (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo CLX da `Lei nº 11.907 de 2009 <lei-11907_>`_; 
+
+.. admonition:: Curiosidade!
+       A partir do Decreto nº 10.334, de 29 de abril de 2020, foi realizada a primeira distribuição de GSISTE para o SISP, de modo que o SISP passou a ter duas gratificações (GSISP e GSISTE) para o mesmo sistema e mesmo público-alvo. A instituição da GSISP visou “prover quadro permanente” para as atividades do SISP, com a retenção e atração de profissionais de Tecnologia da Informação - TI do serviço público.
+
+
 .. ---------------------------------------------------------------------------
 .. Referências externas — legislação
 .. ---------------------------------------------------------------------------
@@ -112,6 +132,7 @@ Gratificação Temporária do Sistema de Administração dos Recursos de Informa
 .. _lei-11356-art15: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#Art15
 .. _lei-11356: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm
 .. _lei-11907-art287: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#Art287
+.. _lei-11907: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 
 
