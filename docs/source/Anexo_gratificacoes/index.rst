@@ -74,10 +74,10 @@ A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art
       * Respeitado o limite global (5.949), ato do Poder Executivo faz a distribuição dos quantitativos por sistema estruturador: o `Decreto nº 9.058, de 2017 <dec-9058_>`_. Hoje não há mais GSISTE de nível auxiliar; todas foram transformadas em nível superior ou intermediário, observadas as respectivas remunerações para que não houvesse aumento de despesa; 
       * Além das unidades dos sistemas estruturados, a GSISTE também pode ser concedida a servidores em exercício nos Gabinetes dos Ministros e nas Secretarias Executivas dos Ministérios a que se subordinam os órgãos centrais ou da Casa Civil da Presidência da República. O quantitativo máximo para tanto também é definido pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_.
       * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISTE (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo VIII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
-       * Possui valores de remuneração diferenciados para os órgãos centrais;
-       * É proporcional à jornada de trabalho do servidor;
+      * Possui valores de remuneração diferenciados para os órgãos centrais;
+      * É proporcional à jornada de trabalho do servidor.
 
-os órgãos centrais dos sistemas estruturantes com GSISTE são os seguintes:
+Os órgãos centrais dos sistemas estruturantes com GSISTE são os seguintes:
 
 
 
