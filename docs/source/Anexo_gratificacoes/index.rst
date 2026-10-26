@@ -250,9 +250,6 @@ Ministério dos Transportes
 Presidência da República
 Vice-Presidência da República
 
-
-A GTATA, última gratificação temporária até o momento, retoma o desenho da GSISTE, da GAEG e da GSISP, no que se refere à previsão de teto remuneratório para soma de gratificação com a remuneração do cargo efetivo e à possibilidade de acumulação com cargos/funções comissionadas. 
-
 .. admonition:: Características importantes da GTATA
 
       * Regulamento: `Decreto nº 13.051, de 3 de julho de 2026 <dec-13051_>`_.
@@ -269,42 +266,28 @@ A GTATA, última gratificação temporária até o momento, retoma o desenho da 
       c) Acumula-se com a remuneração de cargo em comissão ou função de confiança; e
       d) É proporcional à jornada de trabalho do servidor.
 
-
-
 Gratificação Temporária do SIPAM (GTS)
 --------------------------------------
 
-A Gratificação Temporária SIPAM – GTS foi criada pelo art. 15 da Lei nº 10.667, de 14 de maio de 2003, como medida de apoio às atividades do Sistema de Proteção da Amazônia – SIPAM, que na época vinculava-se à Casa Civil da Presidência da República, conforme a seguir:
-Art. 15. Ficam criadas Gratificações Temporárias nos valores e quantitativos constantes do Anexo II desta Lei, denominadas Gratificação Temporária Sipam - GTS, devida a servidores requisitados ou designados pela Casa Civil da Presidência da República para desempenho de atividades no âmbito do Sistema de Proteção da Amazônia - Sipam, sem prejuízo da remuneração integral relativa ao seu cargo ou emprego.
-        § 1º As gratificações de que trata o caput não serão pagas cumulativamente com indenizações relativas à localidade, ajuda de custo, ressalvado neste caso o disposto no § 3º deste artigo, auxílio-moradia, cargos comissionados ou função de confiança, e não se incorporam aos proventos da aposentadoria ou pensão e nem servirão de base de cálculo para qualquer vantagem.
-        [...]
-        § 3º O ocupante de cargo em comissão ou função de confiança requisitado ou designado na forma do caput deverá optar pela GTS ou pela remuneração do cargo em comissão ou função de confiança que ocupa. 
+A Gratificação Temporária SIPAM – GTS foi criada pelo `art. 15 da Lei nº 10.667, de 14 de maio de 2003 <lei-10667-art15_>'_, como medida de apoio às atividades do Sistema de Proteção da Amazônia – SIPAM, que na época vinculava-se à Casa Civil da Presidência da República.
 
 Em 2011, com a publicação do Decreto nº 7.424, de 5 de janeiro de 2011, houve a transferência do Centro Gestor e Operacional do Sistema de Proteção da Amazônia – CENSIPAM da Casa Civil da Presidência da República para o Ministério da Defesa. Assim, o caput do art. 15 da Lei nº 10.667/2003 está desatualizado.
-As principais características da GTS-SIPAM são as seguintes:
-a) regulamento: Decreto nº 10.993/2022;
-b) faz parte do decreto da estrutura organizacional do MD;
-c) não é acumulável com cargos em comissão e funções de confiança;
-d) exclusiva para servidores efetivos para desempenho de atividades no SIPAM;
-e) quantitativo criado de GTS:
 
-Anexo II da Lei nº 10.667/2003
-Nível Quantitativo
-GTS-3 15
-GTS-2 35
-GTS-1 40
+.. admonition:: Características importantes da GTS-SIPAM
 
-f) remunerações:
-
-Alínea “b” do Anexo II da Lei nº 11.526/2007
-Nível do cargo Valor da GTS em R$ 
-(a partir de 1º de janeiro de 2026)
-GTS-3 5.282,58
-GTS-2 4.134,18
-GTS-1 3.445,16
+      * Regulamento: `Decreto nº 10.993, de 2022; <dec-10933_>`_.
+      
+      * Forma de distribuição: compõe a estrutura do MD.
+      
+      * Quantitativo máximo de servidores que fazem jus à GTS: `Anexo II da Lei nº 10.667, de 2003 <lei-10667-anexoII_>`_.
+      
+      * Sobre a remuneração:
+      a) Definida pelo `Anexo II da Lei nº 10.667, de 2003 <lei-10667-anexoII_>`_; e
+      b) Não se acumula com a remuneração de cargo em comissão ou função de confiança.
 
 
 Gratificação por serviços extraordinários (GSE-IBGE)
+----------------------------------------------------
 
 A Gratificação por Serviços Extraordinários (GSE-IBGE) foi criada no § 3º do art. 12 do Decreto-Lei nº 969, de 21 de dezembro de 1938, para “os funcionários da Secretaria Geral do Instituto [Brasileiro de Geografia e Estatística] ou dos serviços federais de estatística nele integrados, postos à disposição da Comissão Censitária Nacional”, conforme a seguir:
 
@@ -538,8 +521,11 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-15367-anexoXV: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#anexoXV
 .. _lei-15367-anexoXVI: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#anexoXVI
 .. _lei-15367-anexoXVII: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#anexoXVII
+.. _lei-10667-anexoII: https://www.planalto.gov.br/ccivil_03/leis/2003/l10.667.htm#anexoII 
+.. _lei-10667-art15: https://www.planalto.gov.br/ccivil_03/leis/2003/l10.667.htm#art15
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 .. _dec-11924: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11924.htm
 .. _dec-13051: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13051.htm
+.. _dec-10933: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d10993.htm
 
 
