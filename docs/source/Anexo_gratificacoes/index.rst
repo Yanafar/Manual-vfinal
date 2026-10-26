@@ -159,7 +159,7 @@ A GAEG foi instituída pelo `art. 292 da Lei nº 11.907, de 2009 <lei-11907-art2
 
       * Regulamento: não há.
       
-      * Forma de distribuição: `Anexo CLXI da Lei nº 11.907/2009 <lei-11907-anexoCLXI_>_`_.
+      * Forma de distribuição: `Anexo CLXI da Lei nº 11.907/2009 <lei-11907-anexoCLXI_>`_.
       
       Ato do titular máximo do MGI pode alterar os quantitativos por nível, desde que respeitado o limite global estabelecido em lei e que não acarrete aumento de despesa.
       
