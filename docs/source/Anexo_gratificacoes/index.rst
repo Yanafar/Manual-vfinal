@@ -9,7 +9,7 @@ As gratificações temporárias são análogas às funções de confiança para 
 
 **São, assim, instrumento eficaz para atrair e reter servidores, pois viabilizam a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo ou função comissionada**.
 
-.. warning::
+.. admonition:: Atenção!
 
    A acumulação de gratificações com cargos em comissão ou funções de confiança, quando permitida, pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
       
