@@ -6,8 +6,12 @@ Anexo: Gratificações temporárias no Poder Executivo federal
 Este Anexo reúne informações sobre gratificações temporárias usadas para atrair e reter pessoal com vínculo efetivo no serviço público para determinadas unidades e/ou atividades específicas. O objetivo é compilar informações que sirvam como subsídio para a melhoria da gestão pública.
       
 As gratificações temporárias são análogas às funções de confiança para assessoramento técnico, com a diferença de que são instrumentos articulados com a política de gestão de pessoas e a arquitetura das carreiras. Tais gratificações atuam como um equalizador das diferenças remuneratórias entre cargos e carreiras heterogêneas, permitindo que servidores de carreiras transversais ou com remunerações base mais baixas sejam atraídos para setores considerados críticos da gestão federal.
+
+.. warning::
+
+   A acumulação da GSISTE com cargos em comissão ou funções de confiança pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
       
-A análise das estruturas organizacionais deve considerar, de forma integrada, os cargos e funções comissionadas e as gratificações temporárias disponíveis nos órgãos e entidades, já que ambos os mecanismos visam atrair e reter profissionais. Algumas gratificações temporárias são, inclusive, distribuídas por meio dos mesmos decretos que aprovam as estruturas dos órgãos da administração direta e indireta do Poder Executivo federal. Essa prática possibilita o seu cadastramento no sistema informatizado do SIORG, o que resulta em mais transparência, controle e facilidade de acesso a informações.
+A análise das estruturas organizacionais deve considerar, de forma integrada, os cargos e funções comissionadas e as gratificações temporárias disponíveis nos órgãos e entidades, já que ambos os mecanismos apoiam a atração e retenção de talentos. Algumas gratificações temporárias são, inclusive, distribuídas por meio dos mesmos decretos que aprovam as estruturas dos órgãos da administração direta e indireta do Poder Executivo federal. Essa prática possibilita o seu cadastramento no sistema informatizado do SIORG, o que resulta em mais transparência, controle e facilidade de acesso a informações.
       
 Além disso, com base no `art. 6º da Lei nº 14.204/2021 <lei-14204-art6_>`_, é possível transformar, sem aumento de despesa, gratificações temporárias subutilizadas em Funções Comissionadas Executivas (FCE), otimizando a gestão dos recursos disponíveis sem recorrer à criação de novas funções por via de lei.
       
@@ -80,10 +84,6 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
       * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISTE (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo VIII da `Lei nº 11.356, de 2006 <lei-11356_>`_;
       * Possui valores de remuneração diferenciados para os órgãos centrais;
       * É proporcional à jornada de trabalho do servidor.
-
-.. warning::
-
-   A acumulação da GSISTE com cargos em comissão ou funções de confiança pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
 
 .. _Anexo_Gsiste:
 .. figure:: ../_static/images/Anexo_Gsiste.png
