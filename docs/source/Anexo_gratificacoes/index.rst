@@ -328,49 +328,26 @@ Em 2011, com a publicação do Decreto nº 7.424, de 5 de janeiro de 2011, houve
       
       * Sobre a remuneração:
       a) Definida pelo `Anexo II da Lei nº 10.667, de 2003 <lei-10667-anexoII_>`_; e
-      b) Não se acumula com a remuneração de cargo em comissão ou função de confiança.
+      b) **Não** se acumula com a remuneração de cargo em comissão ou função de confiança.
 
 
 Gratificação por serviços extraordinários (GSE-IBGE)
 ----------------------------------------------------
 
-A Gratificação por Serviços Extraordinários (GSE-IBGE) foi criada no § 3º do art. 12 do Decreto-Lei nº 969, de 21 de dezembro de 1938, para “os funcionários da Secretaria Geral do Instituto [Brasileiro de Geografia e Estatística] ou dos serviços federais de estatística nele integrados, postos à disposição da Comissão Censitária Nacional”, conforme a seguir:
+A Gratificação por Serviços Extraordinários (GSE-IBGE) foi criada no § 3º do `art. 12 do Decreto-Lei nº 969, de 21 de dezembro de 1938 <declei969-art12_>`_, para “os funcionários da Secretaria Geral do Instituto [Brasileiro de Geografia e Estatística] ou dos serviços federais de estatística nele integrados, postos à disposição da Comissão Censitária Nacional”, conforme a seguir:
 
-“Art. 12. Fica instituido, nos termos deste decreto-lei, o Serviço Nacional de Recenseamento ao qual compete proceder ao recenseamento geral do Brasil, em 1940, de acordo com as bases aprovadas pelo decreto-lei n. 237, de 2 de fevereiro de 1938.
-[...]
-§ 3º Os funcionários da Secretaria Geral do Instituto ou dos serviços federais de estatística nele integrados, postos á disposição da Comissão Censitária Nacional, na forma da legislação em vigor, poderão perceber, além dos vencimentos do cargo efetivo, uma gratificação por serviços extraordinários.”
+Apesar de antiquíssimas, as GSE-IBGE existem e são concedidas pelo IBGE aos servidores efetivos em exercício na autarquia como uma opção em relação aos extintos DAS e FG, substituídos pelos CCE/FCE.
 
-Apesar de serem antiquíssimas, as GSE-IBGE existem e são concedidas pelo IBGE aos servidores efetivos em exercício na autarquia, com base no art. 12 do Decreto-Lei nº 969/1938, como uma opção em relação aos extintos DAS e FG, substituídos pelos CCE/FCE .
-As principais características da GSE-IBGE são as seguintes:
-g) regulamento: não há;
-h) faz parte do decreto da estrutura organizacional do IBGE;
-i) exclusiva para servidores efetivos no IBGE;
-j) quantitativo existente no IBGE:
+.. admonition:: Características importantes da GSE-IBGE
 
-Anexo VI do Decreto nº 11.177/2022
-Denominação Código   Quantidade
-Coordenador Técnico  GSE-1 61
-Coordenador de Área  GSE-4 109
-Coordenador de Subárea  GSE-5 133
-Agente de Coleta Municipal GSE-6 351
-Coordenador Administrativo GSE-7 54
-
-k) remunerações:
-
-Alínea “e” do Anexo II da Lei nº 11.526/2007
-Denominação Código   Valor da GSE em R$
-(a partir de 1º de janeiro de 2026)
-Coordenador Técnico  GSE-1 1.715,43
-Coordenador de Informática GSE-2 1.715,43
-Assistente Técnico   GSE-3 918,95
-Coordenador de Área  GSE-4 1.286,55
-Coordenador de Subárea  GSE-5 918,95
-Agente de Coleta Municipal GSE-6 551,37
-Coordenador Administrativo GSE-7 1.286,55
-Assistente Administrativo  GSE-8 918,95
-
-
+      * Regulamento: não há.
+      
+      * Forma de distribuição: compõe a estrutura do IBGE.
+      
+      * Sobre a remuneração: definida pelo `Anexo II da Lei nº 11.526, de 2007 <lei-11526-anexoII_>`_.
+  
 Gratificação de Exercício de Função de Confiança Privativa de Militares (RMP ou "letras militares")
+---------------------------------------------------------------------------------------------------
 
 A Gratificação de Exercício de Função de Confiança Privativa de Militares – RMP , conhecida como “letras militares”, está prevista no art. 11 da Lei nº 8.460, de 1992. Fazem jus à RMP os oficiais militares na Presidência da República e no Ministério da Defesa. 
 
@@ -568,6 +545,8 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-15367-anexoXVII: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15367.htm#anexoXVII
 .. _lei-10667-anexoII: https://www.planalto.gov.br/ccivil_03/leis/2003/l10.667.htm#anexoII 
 .. _lei-10667-art15: https://www.planalto.gov.br/ccivil_03/leis/2003/l10.667.htm#art15
+.. _lei-11526-anexoII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11526.htm#anexoII
+.. _declei969-art12: https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del0969.htm#art12
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 .. _dec-11924: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11924.htm
 .. _dec-13051: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13051.htm
