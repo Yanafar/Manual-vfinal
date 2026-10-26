@@ -40,29 +40,33 @@ Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administr
 
 A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art15_>`_, sendo devida a titulares de cargos de provimento efetivo, por nível de escolaridade do cargo efetivo.  
 
-      A GSISTE é devida a servidores em efetivo exercício no órgão central e nos órgãos setoriais, seccionais e correlatos dos seguintes :ref:`sistemas estru`, **enquanto permanecerem nessa condição**:
+.. admonition:: Curiosidade
+       Note-se que antes da Lei nº 11.356 de 2006, as atividades dos sistemas estruturadores já eram realizadas sem que houvesse nenhuma retribuição adicional pela sua execução. Além disso, alguns sistemas contam com carreiras específicas para o exercício de suas atividades, a exemplo da Carreira de Finanças e Controle, para atuação nos Sistemas de Administração Financeira, Contabilidade e Controle Interno.
 
-      I - de Planejamento e de Orçamento Federal;
 
-      II - de Administração Financeira Federal;
+A GSISTE é devida a servidores em efetivo exercício no órgão central e nos órgãos setoriais, seccionais e correlatos dos seguintes :ref:`sistemas estru`, **enquanto permanecerem nessa condição**:
 
-      III - de Contabilidade Federal;
+   I - de Planejamento e de Orçamento Federal;
 
-      IV - de Controle Interno do Poder Executivo Federal;
+   II - de Administração Financeira Federal;
 
-      V - de Informações Organizacionais do Governo Federal - SIORG;
+   III - de Contabilidade Federal;
 
-      VI - de Gestão de Documentos de Arquivo - SIGA;
+   IV - de Controle Interno do Poder Executivo Federal;
 
-      VII - de Pessoal Civil da Administração Federal - SIPEC;
+   V - de Informações Organizacionais do Governo Federal - SIORG;
 
-      VIII - de Administração dos Recursos de Informação e Informática - SISP;
+   VI - de Gestão de Documentos de Arquivo - SIGA;
 
-      IX - de Serviços Gerais - SISG;
+   VII - de Pessoal Civil da Administração Federal - SIPEC;
 
-      X - de Sistema de Gestão de Parcerias da União (Sigpar); e
+   VIII - de Administração dos Recursos de Informação e Informática - SISP;
 
-      XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Estatais (Sisest). 
+   IX - de Serviços Gerais - SISG;
+
+   X - de Sistema de Gestão de Parcerias da União (Sigpar); e
+
+   XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Estatais (Sisest). 
 
 .. admonition:: Características importantes sobre a GSISTE
  
@@ -81,12 +85,14 @@ A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art
 .. figure:: ../_static/images/Anexo_Gsiste.png
    :alt: órgãos centrais dos sistemas estruturantes com GSISTE
    :align: center
-   :scale: 60
+   :scale: 40
 
 
+.. note::
+ 
+   O Ministério da Gestão e Inovação em Serviços Públicos (MGI) abriga o órgão central de sete dos onze sistemas estruturadores que podem ter GSISTE, seguido pela Secretaria do Tesouro Nacional, órgão central de dois sistemas.
 
-Observe-se que o Ministério da Gestão e Inovação em Serviços Públicos (MGI) abriga o órgão central de sete dos onze sistemas estruturadores que podem ter GSISTE, seguido pela Secretaria do Tesouro Nacional, órgão central de dois sistemas.
-Note-se que antes da Lei nº 11.356 de 2006, as atividades dos sistemas estruturadores já eram realizadas sem que houvesse nenhuma retribuição adicional pela sua execução. Além disso, alguns sistemas contam com carreiras específicas para o exercício de suas atividades, a exemplo da Carreira de Finanças e Controle, para atuação nos Sistemas de Administração Financeira, Contabilidade e Controle Interno. 
+  
 Destaque-se também que o SISP possui, além da GSISTE, também a Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática-GSISP, instituída pela Lei nº 11.907 de 2009. 
 A acumulação da GSISTE com cargos em comissão ou funções de confiança pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecendo da própria estrutura de comando da unidade.
 
