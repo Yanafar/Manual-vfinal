@@ -286,35 +286,12 @@ A percepção da RMP por militares no Ministério da Defesa tem por base o `art.
 Gratificação de Representação da Presidência da República (RGA e RMA)
 ---------------------------------------------------------------------
 
-As “gratificações de representação” precedem a Constituição Federal de 1988, com base na qual as atribuições de direção, chefia e assessoramento recaem sobre os cargos em comissão e as funções de confiança. 
-A referência mais antiga que se conhece é na Lei nº 1.711, de 28 de outubro de 1952, no art. 145, inciso IV, transcrito a seguir:
+Atualmente, sabe-se da existência das seguintes variações das gratificações de representação, referidas na alínea “a” do `Anexo III da Lei nº 11.526/2007 <lei-11526-anexoIII_>`_:
 
-Art. 145. Conceder-se-á gratificação:
-I – de função;
-II – pelo exercício do magistério;
-III – pela prestação de serviço extraordinário;
-IV – pela representação de gabinete;
-V – pelo exercício em determinadas zonas ou locais; (Vide Decreto nº 89, de 1962);
-VI – pela execução de trabalho de, natureza especial com risco de vida ou saúde;
-VII – pela execução de trabalho técnico ou cientifico;
-VIII – por serviço ou estudo no estrangeiro;
-IX – pela participação em órgão de deliberação coletiva;
-X – pelo exercício:
-a) do encargo de auxiliar ou membro de banca e comissões de concurso;
-b) de encargo de auxiliar ou professor em curso legalmente instituído; e
-XI – adicional por tempo de serviço.
-
-A Lei nº 1.711/1952 foi inteiramente revogada pela Lei nº 8.112/1990. Assim como ela e a Constituição Federal, o quadro legal e normativo do país sofreram várias alterações ao longo do tempo. 
-Além disso, o art. 13 da Lei nº 8.460/1992 explicitamente autorizou a mudança da denominação e da especificação da “gratificação de representação” de órgãos da Presidência e Vice-Presidência da República, observando cinco níveis de retribuição, dificultando ainda mais a gestão.
-
-Art. 13. Fica o Poder Executivo autorizado a alterar a denominação e a especificação da gratificação de representação da Secretaria-Geral, da Secretaria de Governo, do Gabinete Militar da Presidência da República, bem como da Vice-Presidência da República, observando, quanto à retribuição, os níveis da tabela constante do Anexo VI.
-
-   Recentemente, duas outras variações da gratificação de representação de gabinete foram extintas, visando simplificar a gestão e enxugar casos obsoletos, que foram:
-a) em 2021, a gratificação de representação dos órgãos integrantes da Presidência da República - GR, para civis, quatro níveis (Auxiliar, Secretário/Especialista, Assistente e Supervisor), de que trata o art. 13 da Lei nº 8.460/1992, previstas na tabela c do Anexo III da Lei nº 11.526/ 2007: extinta pela Lei nº 14.204/2021 (inciso V do art. 17); e 
-b) em 2025, a Gratificação pela Representação de Gabinete – RGM, para civis, dois níveis (Oficial de Gabinete e Auxiliar de Gabinete), de que tratam o art. 10 da Lei nº 8.460/1992 e a alínea “e” do Anexo III à Lei nº 11.526/2007: extinta pela Lei nº 15.141/2025 (art. 213).
-Atualmente, sabe-se da existência das seguintes variações das gratificações de representação, referidas na alínea “a” do Anexo III da Lei nº 11.526/2007:
 a) Gratificação de Representação da Presidência da República – RGA, para civis, com cinco níveis; e
+
 b) Gratificação de Representação da Presidência da República – RMA, para militares praças, com cinco níveis.
+
 Pode-se dizer que a representação de gabinete seria semelhante ao papel de um cargo ou função comissionada de chefia e direção. Essa interpretação é corroborada pelo Decreto nº 77.336/1976, que determinou a extinção de “gratificações pela representação de gabinete ou outras gratificações” à medida que os cargos em comissão do Grupo-Direção e Assessoramento Superiores (os famosos “DAS”), criados em 1970 , fossem implantados nos Ministérios e autarquias.
 
 Decreto nº 77.336, de 1976
@@ -415,6 +392,24 @@ No sistema informatizado do SIORG não consta quantitativo de RMM.
 Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disponíveis nos sistemas próprios de pessoal dos Comandos.
 
 
+.. admonition:: Curiosidades
+
+   As “gratificações de representação” precedem a Constituição Federal de 1988, com base na qual as atribuições de direção, chefia e assessoramento recaem sobre os cargos em comissão e as funções de confiança. 
+
+   A referência mais antiga que se conhece consta no inciso IV do art. 145 da já revogada Lei nº 1.711, de 28 de outubro de 1952.
+
+   A Lei nº 1.711/1952 foi inteiramente revogada pela Lei nº 8.112/1990. Assim como ela e a Constituição Federal, o quadro legal e normativo do país sofreram várias alterações ao longo do tempo. 
+   
+   Além disso, o art. 13 da Lei nº 8.460/1992 explicitamente autorizou a mudança da denominação e da especificação da “gratificação de representação” de órgãos da Presidência e Vice-Presidência da República, observando cinco níveis de retribuição, dificultando ainda mais a gestão.
+
+   Recentemente, duas outras variações da gratificação de representação de gabinete foram extintas, visando simplificar a gestão e enxugar casos obsoletos, que foram:
+
+   a) em 2021, a gratificação de representação dos órgãos integrantes da Presidência da República - GR, para civis, quatro níveis (Auxiliar, Secretário/Especialista, Assistente e Supervisor), de que trata o art. 13 da Lei nº 8.460/1992, previstas na tabela c do Anexo III da Lei nº 11.526/ 2007: extinta pela Lei nº 14.204/2021 (inciso V do art. 17); e 
+
+   b) em 2025, a Gratificação pela Representação de Gabinete – RGM, para civis, dois níveis (Oficial de Gabinete e Auxiliar de Gabinete), de que tratam o art. 10 da Lei nº 8.460/1992 e a alínea “e” do Anexo III à Lei nº 11.526/2007: extinta pela Lei nº 15.141/2025 (art. 213).
+
+
+
 
 
 .. ---------------------------------------------------------------------------
@@ -449,7 +444,7 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _lei-8460-art11: https://www.planalto.gov.br/ccivil_03/leis/l8460consol.htm#art11
 .. _declei-969-art12: https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del0969.htm#art12
 .. _lei-9649-art29B: https://www.planalto.gov.br/ccivil_03/leis/l9649cons.htm#art29b
-.. _lei-11526-anexoIII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11526.htm#anexoIII  
+.. _lei-11526-anexoIII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11526.htm#anexoIII
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 .. _dec-11924: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11924.htm
 .. _dec-13051: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13051.htm
