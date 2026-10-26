@@ -241,7 +241,7 @@ Em 2011, com a publicação do Decreto nº 7.424, de 5 de janeiro de 2011, houve
 Gratificação por serviços extraordinários (GSE-IBGE)
 ----------------------------------------------------
 
-A Gratificação por Serviços Extraordinários (GSE-IBGE) foi criada no § 3º do `art. 12 do Decreto-Lei nº 969, de 21 de dezembro de 1938 <declei969-art12_>`_, para “os funcionários da Secretaria Geral do Instituto [Brasileiro de Geografia e Estatística] ou dos serviços federais de estatística nele integrados, postos à disposição da Comissão Censitária Nacional”, conforme a seguir:
+A Gratificação por Serviços Extraordinários (GSE-IBGE) foi criada no § 3º do `art. 12 do Decreto-Lei nº 969, de 21 de dezembro de 1938 <declei-969-art12_>`_, para “os funcionários da Secretaria Geral do Instituto [Brasileiro de Geografia e Estatística] ou dos serviços federais de estatística nele integrados, postos à disposição da Comissão Censitária Nacional”, conforme a seguir:
 
 Apesar de antiquíssimas, as GSE-IBGE existem e são concedidas pelo IBGE aos servidores efetivos em exercício na autarquia como uma opção em relação aos extintos DAS e FG, substituídos pelos CCE/FCE.
 
@@ -396,7 +396,7 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 
    As “gratificações de representação” precedem a Constituição Federal de 1988, com base na qual as atribuições de direção, chefia e assessoramento recaem sobre os cargos em comissão e as funções de confiança. 
 
-   A referência mais antiga que se conhece consta no inciso IV do art. 145 da já revogada Lei nº 1.711, de 28 de outubro de 1952.
+   A referência mais antiga que se conhece consta no inciso IV do `art. 145 da já revogada Lei nº 1.711, de 28 de outubro de 1952 <lei-1711-art145_>`_.
 
    A Lei nº 1.711/1952 foi inteiramente revogada pela Lei nº 8.112/1990. Assim como ela e a Constituição Federal, o quadro legal e normativo do país sofreram várias alterações ao longo do tempo. 
    
@@ -445,6 +445,7 @@ Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disp
 .. _declei-969-art12: https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del0969.htm#art12
 .. _lei-9649-art29B: https://www.planalto.gov.br/ccivil_03/leis/l9649cons.htm#art29b
 .. _lei-11526-anexoIII: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11526.htm#anexoIII
+.. _lei-1711-art145: https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l1711.htm#art145
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 .. _dec-11924: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11924.htm
 .. _dec-13051: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13051.htm
