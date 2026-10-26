@@ -256,11 +256,11 @@ Apesar de antiquíssimas, as GSE-IBGE existem e são concedidas pelo IBGE aos se
 Gratificação de Exercício de Função de Confiança Privativa de Militares (RMP ou "letras militares")
 ---------------------------------------------------------------------------------------------------
 
-A Gratificação de Exercício de Função de Confiança Privativa de Militares – RMP , conhecida como “letras militares”, está prevista no `art. 11 da Lei nº 8.460, de 1992 <lei-8460-art11_>_`. Fazem jus à RMP os oficiais militares na Presidência da República e no Ministério da Defesa. 
+A Gratificação de Exercício de Função de Confiança Privativa de Militares – RMP , conhecida como “letras militares”, está prevista no `art. 11 da Lei nº 8.460, de 1992 <lei-8460-art11_>`_. Fazem jus à RMP os oficiais militares na Presidência da República e no Ministério da Defesa. 
 
 Originalmente, a RMP era restrita aos militares em exercício nos órgãos da Presidência da República. A existência da RMP no Ministério da Defesa advém da criação da Pasta, transformação dos Ministérios da Marinha, do Exército e da Aeronáutica em Comandos, e da extinção do Estado-Maior das Forças Armadas, que integrava a Presidência da República, pela Lei Complementar nº 97/1999. 
 
-A percepção da RMP por militares no Ministério da Defesa tem por base o `art. 29-B da Lei nº 9.649, de 1998 <lei-9649-art29B_>_`, enquanto o Ministério não dispuser de quadro de pessoal permanente.
+A percepção da RMP por militares no Ministério da Defesa tem por base o `art. 29-B da Lei nº 9.649, de 1998 <lei-9649-art29B_>`_, enquanto o Ministério não dispuser de quadro de pessoal permanente.
 
 .. admonition:: warning
 
