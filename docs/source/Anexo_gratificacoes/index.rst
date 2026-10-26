@@ -83,7 +83,7 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
 
 .. warning::
 
-   A acumulação da GSISTE com cargos em comissão ou funções de confiança pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecendo da própria estrutura de comando da unidade.
+   A acumulação da GSISTE com cargos em comissão ou funções de confiança pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
 
 .. _Anexo_Gsiste:
 .. figure:: ../_static/images/Anexo_Gsiste.png
@@ -95,10 +95,13 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
  
    O Ministério da Gestão e Inovação em Serviços Públicos (MGI) abriga o órgão central de sete dos onze sistemas estruturadores que podem ter GSISTE, seguido pela Secretaria do Tesouro Nacional, órgão central de dois sistemas.
 
-   Destaque-se também que o SISP possui, além da GSISTE, também a Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática-GSISP, instituída pela Lei nº 11.907 de 2009. 
+   Destaque-se também que o SISP possui, além da GSISTE, também a :ref:`GSISP`, instituída pelo `art. 287 da Lei nº 11.907 de 2009 <lei-11907-art287_>`_. 
 
 
+.. _GSISP:
 
+Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática (GSISP)
+---------------------------------------------------------------------------------------------------------
    
 .. ---------------------------------------------------------------------------
 .. Referências externas — legislação
@@ -108,6 +111,7 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
 .. _lei-13954-art10: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13954.htm#Art10
 .. _lei-11356-art15: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#Art15
 .. _lei-11356: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm
+.. _lei-11907-art287: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#Art287
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
 
 
