@@ -9,7 +9,7 @@ As gratificações temporárias são análogas às funções de confiança para 
 
 .. warning::
 
-   A acumulação da GSISTE com cargos em comissão ou funções de confiança pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
+   A acumulação de gratificações com cargos em comissão ou funções de confiança, quando permitida, pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
       
 A análise das estruturas organizacionais deve considerar, de forma integrada, os cargos e funções comissionadas e as gratificações temporárias disponíveis nos órgãos e entidades, já que ambos os mecanismos apoiam a atração e retenção de talentos. Algumas gratificações temporárias são, inclusive, distribuídas por meio dos mesmos decretos que aprovam as estruturas dos órgãos da administração direta e indireta do Poder Executivo federal. Essa prática possibilita o seu cadastramento no sistema informatizado do SIORG, o que resulta em mais transparência, controle e facilidade de acesso a informações.
       
@@ -44,7 +44,7 @@ Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administr
 
 A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art15_>`_, sendo devida a titulares de cargos de provimento efetivo, por nível de escolaridade do cargo efetivo.  
 
-.. admonition:: Curiosidade!
+.. admonition:: Curiosidade
 
        Note-se que antes da Lei nº 11.356 de 2006, as atividades dos sistemas estruturadores já eram realizadas sem que houvesse nenhuma retribuição adicional pela sua execução. Além disso, alguns sistemas contam com carreiras específicas para o exercício de suas atividades, a exemplo da Carreira de Finanças e Controle, para atuação nos Sistemas de Administração Financeira, Contabilidade e Controle Interno.
 
@@ -73,7 +73,7 @@ X - de Sistema de Gestão de Parcerias da União (Sigpar); e
 
 XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Estatais (Sisest). 
 
-.. admonition:: Características importantes sobre a GSISTE
+.. admonition:: Características importantes da GSISTE
  
       * Regulada pelo `Decreto nº 9.058, de 2017 <dec-9058_>`_;
       * Não faz parte dos decretos das estruturas organizacionais dos órgãos e entidades, pois são distribuídas por meio de Portarias dos órgãos centrais do respectivo sistema estruturador;
@@ -108,21 +108,405 @@ A Gratificação Temporária do Sistema de Administração dos Recursos de Infor
 
 É devida aos titulares de cargos de provimento efetivo que se encontrem em exercício no órgão central e nos órgãos setoriais, seccionais e correlatos do Sistema de Administração dos Recursos de Informação e Informática - SISP, enquanto permanecerem nesta condição.
 
-.. admonition:: Características importantes sobre a GSISP
+.. admonition:: Características importantes da GSISP
  
       * Não possui regulamento específico; 
-      * Não az parte dos decretos das estruturas organizacionais dos órgãos/entidades, pois são distribuídas aos órgãos por Portaria do órgão central do SISP;
+      * Não faz parte dos decretos das estruturas organizacionais dos órgãos/entidades, pois são distribuídas aos órgãos por Portaria do órgão central do SISP;
       * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
       * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
       * É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica e ao desempenho de atividades relacionadas ao SISP;
       * O quantitativo máximo de servidores que fazem jus à GSISP é definido pela Lei nº 11.907 de 2009 <lei-11907_>`_;
       * Respeitado o limite global (750), poderá haver alteração dos quantitativos por nível, mediante ato do titular máximo do MGI, desde que não acarrete aumento de despesa;
       * Possui mesma remuneração para o órgão central e setoriais, superiores à da GSISTE; 
-      * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISP (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo CLX da `Lei nº 11.907 de 2009 <lei-11907_>`_; 
+      * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GSISP (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo CLX da `Lei nº 11.907 de 2009 <lei-11907_>`_. 
 
 .. admonition:: Curiosidade
 
        A partir do Decreto nº 10.334, de 29 de abril de 2020, foi realizada a primeira distribuição de GSISTE para o SISP, de modo que o SISP passou a ter duas gratificações (GSISP e GSISTE) para o mesmo sistema e mesmo público-alvo. A instituição da GSISP visou “prover quadro permanente” para as atividades do SISP, com a retenção e atração de profissionais de Tecnologia da Informação - TI do serviço público.
+
+Gratificação Temporária de Atividade em Escola de Governo (GAEG)
+----------------------------------------------------------------
+
+A GAEG foi instituída pelo `art. 292 da Lei nº 11.907, de 2009 <lei-11907-art292_>`_ e estendida para a Academia Nacional de Polícia no art. 292-A (atualizada pela Lei nº 14.785/2024):
+
+É devida aos titulares de cargos de provimento efetivo, enquanto permanecerem em efetivo exercício nas escolas a seguir:
+
+* Escola Nacional de Administração Pública - ENAP;
+
+* Instituto Rio Branco – IRBr;
+
+* Escola Superior da Advocacia-Geral da União Ministro Victor Nunes Leal; e
+
+* Academia Nacional de Polícia.                       
+
+.. admonition:: Características importantes da GAEG
+ 
+      * Não possui regulamento específico; 
+      * Não faz parte dos decretos das estruturas organizacionais dos órgãos/entidades e são distribuídas pelo Anexo CLXI da `Lei nº 11.907/2009 <lei-11907_>_`_;
+      * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
+      * Acumula-se com a remuneração de cargo em comissão ou função de confiança;
+      * É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica;
+      * O quantitativo máximo de servidores que fazem jus à GAEG é definido pelo Anexo CLXI da `Lei nº 11.907 de 2009 <lei-11907_>`_;
+      * Respeitado o limite global (672), poderá haver alteração dos quantitativos por nível, mediante ato do titular máximo do MGI, desde que não acarrete aumento de despesa;
+      * Possui mesma remuneração da GSISTE (órgão central);
+      * Possui teto de remuneração composto pela remuneração do cargo efetivo e da GAEG (excluídas vantagens pessoais e retribuição por cargo/função comissionada), definido pelo Anexo CLXIII da `Lei nº 11.907 de 2009 <lei-11907_>`_;
+      * É proporcional à jornada de trabalho do servidor.
+
+Gratificação Temporária de Proteção e Defesa Civil (GPDEC)
+----------------------------------------------------------
+
+A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pelo `art. 56 da Lei nº 14.875, de 31 de maio de 2024 <lei-14875-art56_>`_, para os servidores efetivos em efetivo exercício na Secretaria Nacional de Proteção e Defesa Civil do Ministério da Integração e do Desenvolvimento Regional (SNPDC/MIDR) e que atuem de modo direto em atividades críticas finalísticas da Defesa Civil, conforme definido em regulamento.
+
+.. admonition:: Características importantes da GPDEC
+
+   * Regulada pelo `Decreto nº 11.924, de 2024 <dec-11924_>`_;
+   * Não compõem o decreto da estrutura organizacional do MIDR e são distribuídas para as unidades da SNPDC por meio de Portaria da autoridade máxima do MIDR;
+   * É eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
+   * O quantitativo máximo de servidores que fazem jus à GPDEC é definido pelo Anexo XXIV da `Lei nº 14.875, de 2024 <lei-14875_>`_;
+   * Respeitado o limite global (100), poderá haver alteração dos quantitativos por nível, mediante ato do titular máximo do MIDR, desde que não acarrete aumento de despesa;
+
+.. admonition:: Importante
+
+   A GPDEC, criada recentemente, tem um desenho mais simples do que o da GSISTE e uma diferença importante em relação às gratificações temporárias mais antigas (GSISTE, GSISP e GAEG) que é a não acumulação com a remuneração de cargos em comissão e de funções de confiança. Isso evita distorções remuneratórias dentro de uma mesma equipe, em que subordinados acumulando gratificações temporárias com cargos/funções comissionadas podem acabar recebendo mais do que a chefia pelo exercício das suas respectivas atribuições.
+
+   Por outro lado, a GPDEC não tem um teto de remuneração para a soma da remuneração da gratificação com a do cargo efetivo, como a GSISTE, GSISP e GAEG possuem.
+
+Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA)
+-------------------------------------------------------------------------------------------
+
+A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada no art. 30 da Lei nº 15.367, de 30 de março de 2026, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades que são citados no Anexo XIV da Lei (basicamente, os Ministérios e algumas autarquias/fundações).
+Art. 30. Fica instituída, a partir de 1º de abril de 2026, a Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA), no âmbito do Poder Executivo federal. 
+Art. 31. A GTATA poderá ser concedida, enquanto permanecerem nesta condição, exclusivamente a servidores que:
+I – sejam titulares de cargos regidos pela Lei nº 8.112, de 11 de dezembro de 1990, não integrantes de carreiras estruturadas; 
+II – estejam em efetivo exercício no âmbito dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional de que trata o Anexo XIV desta Lei; e 
+III – atuem de modo direto na execução e no apoio às seguintes atividades da administração pública federal, de acordo com nível de escolaridade do cargo: 
+a) atividades técnicas relacionadas a documentação e acervo, comunicação, pesquisa científica e tecnológica ou saúde; ou 
+b) atividades administrativas relacionadas a planejamento, orçamento e finanças, pessoal, processos, patrimônio, logística, contratos, dados, controle e integridade, atendimento ou protocolo. 
+§ 1º Para fins do disposto no inciso I do caput deste artigo, considera-se carreira estruturada aquela instituída por legislação específica, composta de um único cargo ou, excepcionalmente, de mais de um cargo com atividades de natureza semelhante, estrutura própria de classes, padrões e remuneração e regras de promoção e de progressão. 
+§ 2º Estão abrangidos nas atividades de que trata o inciso III do caput deste artigo a preparação, o gerenciamento, a organização, a supervisão e o assessoramento relacionados diretamente à sua execução.
+
+A GTATA, última gratificação temporária até o momento, retoma o desenho da GSISTE, da GAEG e da GSISP, no que se refere à previsão de teto remuneratório para soma de gratificação com a remuneração do cargo efetivo e à possibilidade de acumulação com cargos/funções comissionadas. 
+As principais características da GTATA são as seguintes:
+a) regulamento: Decreto nº 13.051, de 3 de julho de 2026;
+b) não faz parte dos decretos das estruturas organizacionais dos órgãos/entidades, pois são distribuídas por meio de ato do MGI;
+c) é eficaz para atrair e reter servidores, pois viabiliza a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo/função comissionada;
+d) acumula-se com a remuneração de cargo em comissão ou função de confiança ;
+e) possui quantitativo máximo de servidores que fazem jus à GTATA :
+
+Anexo XV da Lei nº 15.367/2026
+Quantitativo   Superior Intermediário  Total
+Quantitativo máximo de servidores que fazem jus à GTATA, a ser distribuído a órgãos e entidades federais na forma de ato do Ministério da Gestão e da Inovação em Serviços Públicos 4.430 32.550   36.980
+
+f) respeitado o limite global (36.980), poderá haver alteração dos quantitativos por nível, mediante ato do MGI, desde que não acarrete aumento de despesa ;
+g) remuneração:
+
+Anexo XVI da Lei nº 15.367/2026
+Nível do cargo Valor da GTATA em R$ 
+(a partir de 1º de janeiro de 2026)
+Superior 4.089,70
+Intermediário  1.119,77
+
+h) possui teto de remuneração composto pela remuneração do cargo efetivo e da GTATA (excluídas vantagens pessoais e retribuição por cargo/função comissionada):
+
+Anexo XVII da Lei nº 15.367/2026
+Nível do cargo Valor máximo da soma da GTATA com a remuneração do servidor (R$) a partir de 1º de janeiro de 2026
+Superior 18.633,28
+Intermediário  8.020,04
+
+i) proporcional à jornada de trabalho do servidor;
+j) órgãos e entidades para os quais podem ser distribuídas GTATA:
+
+Anexo XIV da Lei nº 15.367/2026
+CÓD.  ÓRGÃO/ENTIDADE
+59000 Controladoria-Geral da União
+13300 Ministério da Agricultura e Pecuária
+40108 Ministério da Ciência, Tecnologia e Inovação
+40115 Ministério da Defesa
+21000 Comando da Aeronáutica
+70000 Comando da Marinha
+16000 Comando do Exército
+16100 Fundação Osorio
+17600 Ministério da Fazenda
+25202 Conselho de Controle de Atividades Financeiras
+81300 Ministério da Igualdade Racial
+40100 Ministério da Integração e do Desenvolvimento Regional
+42204 Departamento Nacional de Obras Contra as Secas
+53297 Superintendência do Desenvolvimento da Amazônia
+53202 Superintendência do Desenvolvimento do Centro-Oeste
+53203 Superintendência do Desenvolvimento do Nordeste
+17500 Ministério da Gestão e da Inovação em Serviços Públicos
+40202 Fundação Escola Nacional de Administração Pública
+20000 Ministério da Justiça e Segurança Pública
+38000 Conselho Administrativo de Defesa Econômica
+20115 Polícia Federal
+30802 Polícia Rodoviária Federal
+13200 Ministério da Pesca e Aquicultura
+33100 Ministério da Previdência Social
+25000 Ministério da Saúde
+36205 Fundação Nacional de Saúde
+40200 Ministério das Cidades
+41100 Ministério das Comunicações
+81200 Ministério das Mulheres
+35000 Ministério das Relações Exteriores
+35201 Fundação Alexandre de Gusmão
+32000 Ministério de Minas e Energia
+49100 Ministério de Portos e Aeroportos
+55100 Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome
+17400 Ministério do Desenvolvimento, Indústria, Comércio e Serviços
+13100 Ministério do Desenvolvimento Agrário e Agricultura Familiar
+17700 Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte
+55200 Ministério do Esporte
+17300 Ministério do Planejamento e Orçamento
+33200 Ministério do Trabalho e Emprego
+54000 Ministério do Turismo
+81100 Ministério dos Direitos Humanos e da Cidadania
+17200 Ministério dos Povos Indígenas
+49200 Ministério dos Transportes
+20101 Presidência da República
+20102 Vice-Presidência da República
+
+A acumulação da GTATA com cargos em comissão ou funções de confiança pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GTATA somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
+
+
+Gratificação Temporária do SIPAM (GTS)
+
+A Gratificação Temporária SIPAM – GTS foi criada pelo art. 15 da Lei nº 10.667, de 14 de maio de 2003, como medida de apoio às atividades do Sistema de Proteção da Amazônia – SIPAM, que na época vinculava-se à Casa Civil da Presidência da República, conforme a seguir:
+Art. 15. Ficam criadas Gratificações Temporárias nos valores e quantitativos constantes do Anexo II desta Lei, denominadas Gratificação Temporária Sipam - GTS, devida a servidores requisitados ou designados pela Casa Civil da Presidência da República para desempenho de atividades no âmbito do Sistema de Proteção da Amazônia - Sipam, sem prejuízo da remuneração integral relativa ao seu cargo ou emprego.
+        § 1º As gratificações de que trata o caput não serão pagas cumulativamente com indenizações relativas à localidade, ajuda de custo, ressalvado neste caso o disposto no § 3º deste artigo, auxílio-moradia, cargos comissionados ou função de confiança, e não se incorporam aos proventos da aposentadoria ou pensão e nem servirão de base de cálculo para qualquer vantagem.
+        [...]
+        § 3º O ocupante de cargo em comissão ou função de confiança requisitado ou designado na forma do caput deverá optar pela GTS ou pela remuneração do cargo em comissão ou função de confiança que ocupa. 
+
+Em 2011, com a publicação do Decreto nº 7.424, de 5 de janeiro de 2011, houve a transferência do Centro Gestor e Operacional do Sistema de Proteção da Amazônia – CENSIPAM da Casa Civil da Presidência da República para o Ministério da Defesa. Assim, o caput do art. 15 da Lei nº 10.667/2003 está desatualizado.
+As principais características da GTS-SIPAM são as seguintes:
+a) regulamento: Decreto nº 10.993/2022;
+b) faz parte do decreto da estrutura organizacional do MD;
+c) não é acumulável com cargos em comissão e funções de confiança;
+d) exclusiva para servidores efetivos para desempenho de atividades no SIPAM;
+e) quantitativo criado de GTS:
+
+Anexo II da Lei nº 10.667/2003
+Nível Quantitativo
+GTS-3 15
+GTS-2 35
+GTS-1 40
+
+f) remunerações:
+
+Alínea “b” do Anexo II da Lei nº 11.526/2007
+Nível do cargo Valor da GTS em R$ 
+(a partir de 1º de janeiro de 2026)
+GTS-3 5.282,58
+GTS-2 4.134,18
+GTS-1 3.445,16
+
+
+Gratificação por serviços extraordinários (GSE-IBGE)
+
+A Gratificação por Serviços Extraordinários (GSE-IBGE) foi criada no § 3º do art. 12 do Decreto-Lei nº 969, de 21 de dezembro de 1938, para “os funcionários da Secretaria Geral do Instituto [Brasileiro de Geografia e Estatística] ou dos serviços federais de estatística nele integrados, postos à disposição da Comissão Censitária Nacional”, conforme a seguir:
+
+“Art. 12. Fica instituido, nos termos deste decreto-lei, o Serviço Nacional de Recenseamento ao qual compete proceder ao recenseamento geral do Brasil, em 1940, de acordo com as bases aprovadas pelo decreto-lei n. 237, de 2 de fevereiro de 1938.
+[...]
+§ 3º Os funcionários da Secretaria Geral do Instituto ou dos serviços federais de estatística nele integrados, postos á disposição da Comissão Censitária Nacional, na forma da legislação em vigor, poderão perceber, além dos vencimentos do cargo efetivo, uma gratificação por serviços extraordinários.”
+
+Apesar de serem antiquíssimas, as GSE-IBGE existem e são concedidas pelo IBGE aos servidores efetivos em exercício na autarquia, com base no art. 12 do Decreto-Lei nº 969/1938, como uma opção em relação aos extintos DAS e FG, substituídos pelos CCE/FCE .
+As principais características da GSE-IBGE são as seguintes:
+g) regulamento: não há;
+h) faz parte do decreto da estrutura organizacional do IBGE;
+i) exclusiva para servidores efetivos no IBGE;
+j) quantitativo existente no IBGE:
+
+Anexo VI do Decreto nº 11.177/2022
+Denominação Código   Quantidade
+Coordenador Técnico  GSE-1 61
+Coordenador de Área  GSE-4 109
+Coordenador de Subárea  GSE-5 133
+Agente de Coleta Municipal GSE-6 351
+Coordenador Administrativo GSE-7 54
+
+k) remunerações:
+
+Alínea “e” do Anexo II da Lei nº 11.526/2007
+Denominação Código   Valor da GSE em R$
+(a partir de 1º de janeiro de 2026)
+Coordenador Técnico  GSE-1 1.715,43
+Coordenador de Informática GSE-2 1.715,43
+Assistente Técnico   GSE-3 918,95
+Coordenador de Área  GSE-4 1.286,55
+Coordenador de Subárea  GSE-5 918,95
+Agente de Coleta Municipal GSE-6 551,37
+Coordenador Administrativo GSE-7 1.286,55
+Assistente Administrativo  GSE-8 918,95
+
+
+Gratificação de Exercício de Função de Confiança Privativa de Militares (RMP ou "letras militares")
+
+A Gratificação de Exercício de Função de Confiança Privativa de Militares – RMP , conhecida como “letras militares”, está prevista no art. 11 da Lei nº 8.460, de 1992. Fazem jus à RMP os oficiais militares na Presidência da República e no Ministério da Defesa. 
+
+Art. 11.  Fica instituída, conforme tabela constante do Anexo X, a gratificação de exercício de cargo em confiança nos órgãos da Presidência da República e no Ministério da Defesa devida aos servidores militares, inacumulável com a gratificação de representação a que se refere o art. 13. (Redação dada pela Lei nº 12.375, de 2010)
+
+Originalmente, a RMP era restrita aos militares nos órgãos da Presidência da República. A existência da RMP no Ministério da Defesa advém da criação da Pasta, transformação dos Ministérios da Marinha, do Exército e da Aeronáutica em Comandos, e da extinção do Estado-Maior das Forças Armadas, que integrava a Presidência da República, pela Lei Complementar nº 97/1999. 
+A percepção da RMP por militares no Ministério da Defesa tem por base o art. 29-B da Lei nº 9.649/1998, enquanto o Ministério não dispuser de quadro de pessoal permanente:
+
+Art. 29-B.  Enquanto não dispuser de quadro de pessoal permanente:
+I - aplicam-se aos servidores civis e aos militares em exercício no Ministério da Defesa as normas vigentes para os servidores civis e militares em exercício nos órgãos da Presidência da República, em especial as referidas no art. 20 da Lei nº 8.216, de 13 de agosto de 1991, no § 4º do art. 93 da Lei nº 8.112, de 11 de dezembro de 1990, e nos arts. 11 e 13 da Lei nº 8.460, de 17 de setembro de 1992.
+
+A Lei nº 9.649/1998 foi revogada nas disposições em contrário à Lei nº 10.683/2003 pela própria Lei nº 10.683. O art. 29-B da Lei nº 9.649 não estaria em contrário à Lei nº 10.683, portanto, ele continuaria vigente.
+Com o passar do tempo, os quantitativos de RMP previstos no Anexo I do Decreto nº 5.452/2005 ficaram desatualizados. A atual distribuição do quantitativo existente de RMP é a seguinte:
+
+Órgão RMP-1 ou Grupo 0001 (A) RMP-2 ou Grupo 0002 (B) RMP-3 ou Grupo 0003 (C) RMP-4 ou Grupo 0004 (D) RMP-5 ou Grupo 0005 (E) RMP-6 ou Grupo 0006 (F)
+Ministério da Defesa 28 275   7  6  70 0
+Presidência da República   13 36 39 52 51 0
+Casa Civil da PR  1  2  4  5  10 0
+Total 42 331   50 63 131   0
+Fonte: COCAF/CGINF/ SEGES/MGI, posição de 31/08/2026
+
+O último nível da tabela (RMP-6 ou Grupo F) não possui quantitativos devido ao valor de sua remuneração ser inferior à RGM-5, nível mais alto da Gratificação de Representação de Gabinete, devida aos militares praças.
+As RMP fazem parte dos Decretos das estruturas regimentais e dos quadros demonstrativos de cargos e funções comissionadas dos órgãos onde elas encontram-se distribuídas. 
+O § 1º do art. 56 da Lei n° 14.600/2023 autorizou que os militares requisitados que, em 31/12/2022, estavam em exercício no Ministério da Mulher, da Família e dos Direitos Humanos (órgãos que foram desmembrados da Presidência da República) com designação para a RMP, permanecessem com a gratificação no Ministério das Mulheres, no Ministério da Igualdade Racial ou no Ministério dos Direitos Humanos e da Cidadania. Porém, o §2º do mesmo artigo previu que tais RMP retornariam automaticamente à Presidência da República quando da dispensa ou de alteração do exercício do militar, que foi o que aconteceu.
+Os valores remuneratórios da RMP são os seguintes:
+
+Alínea “d” do Anexo III da Lei nº 11.526/2007
+Grupo Valor da RMP Em R$
+(a partir de 1º de janeiro de 2026)
+A  2.231,45
+B  2.028,04
+C  1.842,35
+D  1.674,32
+E  1.523,99
+F  1.385,43
+
+
+Gratificação de Representação da Presidência da República (RGA e RMA)
+
+As “gratificações de representação” precedem a Constituição Federal de 1988, com base na qual as atribuições de direção, chefia e assessoramento recaem sobre os cargos em comissão e as funções de confiança. 
+A referência mais antiga que se conhece é na Lei nº 1.711, de 28 de outubro de 1952, no art. 145, inciso IV, transcrito a seguir:
+
+Art. 145. Conceder-se-á gratificação:
+I – de função;
+II – pelo exercício do magistério;
+III – pela prestação de serviço extraordinário;
+IV – pela representação de gabinete;
+V – pelo exercício em determinadas zonas ou locais; (Vide Decreto nº 89, de 1962);
+VI – pela execução de trabalho de, natureza especial com risco de vida ou saúde;
+VII – pela execução de trabalho técnico ou cientifico;
+VIII – por serviço ou estudo no estrangeiro;
+IX – pela participação em órgão de deliberação coletiva;
+X – pelo exercício:
+a) do encargo de auxiliar ou membro de banca e comissões de concurso;
+b) de encargo de auxiliar ou professor em curso legalmente instituído; e
+XI – adicional por tempo de serviço.
+
+A Lei nº 1.711/1952 foi inteiramente revogada pela Lei nº 8.112/1990. Assim como ela e a Constituição Federal, o quadro legal e normativo do país sofreram várias alterações ao longo do tempo. 
+Além disso, o art. 13 da Lei nº 8.460/1992 explicitamente autorizou a mudança da denominação e da especificação da “gratificação de representação” de órgãos da Presidência e Vice-Presidência da República, observando cinco níveis de retribuição, dificultando ainda mais a gestão.
+
+Art. 13. Fica o Poder Executivo autorizado a alterar a denominação e a especificação da gratificação de representação da Secretaria-Geral, da Secretaria de Governo, do Gabinete Militar da Presidência da República, bem como da Vice-Presidência da República, observando, quanto à retribuição, os níveis da tabela constante do Anexo VI.
+
+   Recentemente, duas outras variações da gratificação de representação de gabinete foram extintas, visando simplificar a gestão e enxugar casos obsoletos, que foram:
+a) em 2021, a gratificação de representação dos órgãos integrantes da Presidência da República - GR, para civis, quatro níveis (Auxiliar, Secretário/Especialista, Assistente e Supervisor), de que trata o art. 13 da Lei nº 8.460/1992, previstas na tabela c do Anexo III da Lei nº 11.526/ 2007: extinta pela Lei nº 14.204/2021 (inciso V do art. 17); e 
+b) em 2025, a Gratificação pela Representação de Gabinete – RGM, para civis, dois níveis (Oficial de Gabinete e Auxiliar de Gabinete), de que tratam o art. 10 da Lei nº 8.460/1992 e a alínea “e” do Anexo III à Lei nº 11.526/2007: extinta pela Lei nº 15.141/2025 (art. 213).
+Atualmente, sabe-se da existência das seguintes variações das gratificações de representação, referidas na alínea “a” do Anexo III da Lei nº 11.526/2007:
+a) Gratificação de Representação da Presidência da República – RGA, para civis, com cinco níveis; e
+b) Gratificação de Representação da Presidência da República – RMA, para militares praças, com cinco níveis.
+Pode-se dizer que a representação de gabinete seria semelhante ao papel de um cargo ou função comissionada de chefia e direção. Essa interpretação é corroborada pelo Decreto nº 77.336/1976, que determinou a extinção de “gratificações pela representação de gabinete ou outras gratificações” à medida que os cargos em comissão do Grupo-Direção e Assessoramento Superiores (os famosos “DAS”), criados em 1970 , fossem implantados nos Ministérios e autarquias.
+
+Decreto nº 77.336, de 1976
+Art. 10. À medida que o Grupo-Direção e Assessoramento Superiores for implantado na área de cada Ministério, Órgão integrante da Presidência da República, Órgão Autônomo e Autarquia federal, e ressalvados os casos expressamente previstos em lei, fica vedado o desempenho de atividades de direção e assessoramento superiores sob forma diversa da estabelecida neste Decreto, extinguindo-se os encargos, com tais características, constantes de tabelas de gratificação pela representação de gabinete ou outras gratificações, bem assim os empregos regidos pela legislação trabalhista, cessando, do mesmo modo, a utilização de colaboradores eventuais retribuídos mediante recibo para o desempenho de atividades de igual natureza.
+
+A diferença básica entre a RGA e a RMA é a sua ocupação; a RGA é para civis e a RMA para militares. Essa separação entre RGA e RMA para a mesma Gratificação de Representação de Gabinete dos Órgãos Integrantes da Presidência da República foi feita já no Anexo do Decreto nº 5.452/2005, que fixou os quantitativos para o Ministério da Defesa e para a Presidência e Vice-Presidência da República. 
+Como já mencionado, o Anexo do Decreto nº 5.452/2005 está desatualizado. A atual distribuição do quantitativo existente de RGA e RMA é a seguinte:
+
+Órgãos   RGA-5 RGA-4 RGA-3 RGA-2 RGA-1 RMA-5 RMA-4 RMA-3 RMA-2 RMA-1 Total
+Presidência da República   299   268   17 138   12 143   264   43 412   242   1.838
+Ministério da Defesa 0  0  0  0  0  240   0  0  236   0  476
+Casa Civil da PR  32 77 18 109   135   13 17 4  6  0  411
+Ministério dos Dir. Hum. e da Cidadania   5  2  1  3  2  0  0  0  0  0  13
+Ministério da Igualdade Racial   1  0  0  0  1  0  0  0  0  0  2
+Total 337   347   36 250   150   396   281   47 654   242   2.740
+Fonte: COCAF/CGINF/ SEGES/MGI, posição de 31/08/2026
+
+O § 1º do art. 56 da Lei n° 14.600/2023 autorizou que os servidores e os militares requisitados que, em 31/12/2022, estavam em exercício no Ministério da Mulher, da Família e dos Direitos Humanos (órgãos que foram desmembrados da Presidência da República) com designação para a RGA/RMA, permanecessem com a gratificação no Ministério das Mulheres, no Ministério da Igualdade Racial ou no Ministério dos Direitos Humanos e da Cidadania. Porém, o §2º do mesmo artigo prevê que tais gratificações retornarão automaticamente à Presidência da República quando da dispensa ou de alteração do exercício.
+A existência da Gratificação de Representação da Presidência da República no Ministério da Defesa advém da criação da Pasta, transformação dos Ministérios da Marinha, do Exército e da Aeronáutica em Comandos, e da extinção do Estado-Maior das Forças Armadas - EMFA , que integrava a Presidência da República, pela Lei Complementar nº 97/1999. 
+A percepção da RGA/RMA por civis e militares no Ministério da Defesa tem por base o art. 29-B da Lei nº 9.649/1998, enquanto o Ministério não dispuser de quadro de pessoal permanente:
+
+Art. 29-B.  Enquanto não dispuser de quadro de pessoal permanente:
+I - aplicam-se aos servidores civis e aos militares em exercício no Ministério da Defesa as normas vigentes para os servidores civis e militares em exercício nos órgãos da Presidência da República, em especial as referidas no art. 20 da Lei nº 8.216, de 13 de agosto de 1991, no § 4º do art. 93 da Lei nº 8.112, de 11 de dezembro de 1990, e nos arts. 11 e 13 da Lei nº 8.460, de 17 de setembro de 1992.
+
+A Lei nº 9.649/1998 foi revogada nas disposições em contrário à Lei nº 10.683/2003 pela própria Lei nº 10.683. O art. 29-B da Lei nº 9.649 não estaria em contrário à Lei nº 10.683, portanto, ele continuaria vigente.
+Os valores remuneratórios da RGA/RMA são os seguintes:
+
+Alínea “a” do Anexo III da Lei nº 11.526/2007 - Gratificação de Representação da Presidência da República
+Nível Valor da RGA/RMA em R$
+(a partir de 1º de janeiro de 2026)
+   Venc.    Grat.(*) Total
+I – Auxiliar   314,13   521,32   835.45
+II – Especialista 376,91   625,50   1.002,41
+III – Secretário  440,99   731,87   1.172,86
+IV – Assistente   502,75   834,34   1.337,09
+V - Supervisor 563,04   934,42   1.497,46
+
+A gestão das gratificações da Presidência apresenta desafios, dentre os quais citam-se três. Primeiro, se é justificável a manutenção da RGA/RMA diante do poder de requisição da Presidência e da Vice-Presidência da República e das atribuições dadas pela Constituição aos cargos em comissão e às funções de confiança para direção, chefia e assessoramento. 
+O segundo desafio é o risco de descaracterização de gratificação da Presidência da República à medida que ela é concedida para órgãos que não fazem parte da Presidência da República, especialmente quando de reorganizações do Executivo federal. 
+Por fim, o terceiro desafio é a necessidade de maior transparência na distribuição dos quantitativos existentes no âmbito da Presidência da República, integrada por:
+a) Casa Civil, integrada pela Agência Brasileira de Inteligência (ABIN);
+b) Secretaria-Geral;
+c) Secretaria de Relações Institucionais;
+d) Secretaria de Comunicação Social;
+e) Gabinete Pessoal do Presidente da República; e
+f) Gabinete de Segurança Institucional.
+Atualmente, apenas os Decretos de estrutura da ABIN  e do Ministério da Defesa  explicitam o quantitativo de RGA/RMA distribuído para os órgãos - 411 para a ABIN e 476 para o Ministério da Defesa, o que representa 32% do total existente. O restante do quantitativo tem sua distribuição gerida internamente, no momento, pela Secretaria-Geral da Presidência da República.
+Para maior transparência e eficiência na atuação do órgão central do SIORG, na análise de pedidos de reforço de posições comissionadas existentes, os quantitativos de RMA/RGA devem ser trazidos para os decretos das estruturas sempre que possível. 
+Uma vez explicitadas nos decretos das estruturas, as RMA/RGA podem ser cadastradas no sistema informatizado do SIORG assim como os cargos e funções comissionadas. Isso, por sua vez, resulta em mais transparência, controle, facilidade de acesso às informações e melhor gestão.
+
+
+Gratificação de Representação de Função de Gabinete Militar (RMM)
+
+Considera-se a gratificação de representação de função de gabinete militar (RMM), de que tratam a Lei nº 8.460/1992, e a alínea “g” do Anexo III à Lei nº 11.526/2007, uma variante da gratificação de representação, antiquíssima, pré Constituição de 1988 e obsoleta.
+A primeira citação expressa identificada está no parágrafo único do art. 2º da Lei nº 8.460/1992, a seguir:
+Lei nº 8.460, de 1992
+Art. 2° Em decorrência do disposto no art. 3°, § 1° da Lei n° 8.448, de 21 de julho de 1992, e nos arts. 1° e 4° desta lei, os valores dos soldos e dos vencimentos dos servidores militares e civis passam a ser, a partir de 1° de setembro de 1992;
+..............................................................................................................
+Parágrafo único. As tabelas dos Juízes do Tribunal Marítimo, dos Cargos de Natureza Especial, dos de Direção e Assessoramento Superiores (DAS), dos Cargos de Direção (CD), das Instituições Federais de Ensino, das Funções Gratificadas (FG) e das Gratificações de Representação pelo exercício de função no Gabinete dos Ministros Militares e do Estado-Maior das Forças Armadas passam a ser as constantes do Anexo V.
+
+ANEXO V
+..................................................................................................
+GRATIFICAÇÃO DE REPRESENTAÇÃO PELO EXERCÍCIO DE FUNÇÃO NOS GABINETES DOS MINISTROS MILITARES E DO EMFA
+CARGO ÍNDICE   VALOR
+Ajudante "A"   50 106.000,00
+Ajudante "B"   100   218.000,00
+Ajudante "C"   150   324.000,00
+Ajudante "D"   200   432.000,00
+Assistente/Adjunto   300   648.000,00
+Assistente  400   864.000,00
+Assessor e/ou Secretário   800   1.728.000,00
+Sub-Chefe/Assessor-Chefe   900   1.944.000,00
+Chefe 1000  2.160.000,00
+
+
+
+
+Os valores remuneratórios da RMM são os seguintes:
+
+Alínea “g” do Anexo III da Lei nº 11.526/2007 - Gratificação de Representação de Função de Gabinete Militar – RMM
+Cargo Valor da RMM em R$
+(a partir de 1º de janeiro de 2019)
+Ajudante "A"   26,87
+Ajudante "B"   53,71
+Ajudante "C"   80,55
+Ajudante "D"   107,42
+Assistente/Adjunto   161,14
+Assistente  214,88
+Assessor e/ou Secretário   429,76
+Subchefe/Assessor Chefe 483,47
+Chefe 537,18
+
+De acordo com registros de pagamentos que constam do sistema informatizado do SIAPE, o último pagamento da RMM foi em janeiro de 2004, no Comando da Aeronáutica do Ministério da Defesa. O órgão detinha o único quantitativo existente em 2017, de 14 RMM vagas, identificado durante os trabalhos da força-tarefa da DEMOR-SEGES para identificação e levantamento de informações que forneceu os subsídios técnicos para elaboração da Lei nº 14.204/2021.
+Dado o pequeno quantitativo, todo vago desde 2004, e as baixíssimas remunerações, as RMM tiveram sua ocupação vedada pelo Decreto nº 9.725/2019, uma vez que apenas poderiam ser extintas por lei.
+A extinção da RMM constou da Medida Provisória nº 1.286, de 31 de dezembro de 2024 (inciso I do art. 213), vigente até 2 de junho de 2025.
+Antes da conversão da MP nº 1.286 na Lei nº 15.141/2025, foi acatada solicitação dos Comandos militares do Ministério da Defesa para que a RMM não fosse extinta, e o art. 213 previu apenas a extinção da RGM . 
+No sistema informatizado do SIORG não consta quantitativo de RMM. 
+Informações sobre quantitativo de RMM e seus pagamentos atualmente estão disponíveis nos sistemas próprios de pessoal dos Comandos.
+
+
 
 
 .. ---------------------------------------------------------------------------
@@ -134,7 +518,12 @@ A Gratificação Temporária do Sistema de Administração dos Recursos de Infor
 .. _lei-11356-art15: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm#Art15
 .. _lei-11356: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11356.htm
 .. _lei-11907-art287: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#Art287
+.. _lei-11907-art292: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm#Art292
 .. _lei-11907: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11907.htm
+.. _lei-14875-art56: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm#art56
+.. _lei-14875: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14875.htm
 .. _dec-9058: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9058.htm
+.. _dec-11924: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11924.htm
+..
 
 
