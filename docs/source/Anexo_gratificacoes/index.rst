@@ -262,7 +262,7 @@ Originalmente, a RMP era restrita aos militares em exercício nos órgãos da Pr
 
 A percepção da RMP por militares no Ministério da Defesa tem por base o `art. 29-B da Lei nº 9.649, de 1998 <lei-9649-art29B_>`_, enquanto o Ministério não dispuser de quadro de pessoal permanente.
 
-.. admonition:: warning
+.. admonition:: Atenção
 
    A Lei nº 9.649/1998 foi revogada nas disposições em contrário à Lei nº 10.683/2003 pela própria Lei nº 10.683. O art. 29-B da Lei nº 9.649 não estaria em contrário à Lei nº 10.683, portanto, ele continuaria vigente.
    
