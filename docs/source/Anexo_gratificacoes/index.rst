@@ -7,7 +7,7 @@ Este Anexo reúne informações sobre gratificações temporárias usadas para a
       
 As gratificações temporárias são análogas às funções de confiança para assessoramento técnico, com a diferença de que são instrumentos articulados com a política de gestão de pessoas e a arquitetura das carreiras. Tais gratificações atuam como um equalizador das diferenças remuneratórias entre cargos e carreiras heterogêneas, permitindo que servidores de carreiras transversais ou com remunerações base mais baixas sejam atraídos para setores considerados críticos da gestão federal.
       
-A análise das estruturas organizacionais deve considerar, de forma integrada, os cargos e funções comissionadas e as gratificações temporárias disponíveis nos órgãos e entidades, já que ambos os mecanismos visam atrair e reter profissionais. Algumas gratificações temporárias são, inclusive, distribuídas através dos mesmos decretos que aprovam as estruturas dos órgãos da administração direta e indireta do Poder Executivo federal. Essa prática possibilita o seu cadastramento no sistema informatizado do SIORG, o que resulta em mais transparência, controle e facilidade de acesso a informações.
+A análise das estruturas organizacionais deve considerar, de forma integrada, os cargos e funções comissionadas e as gratificações temporárias disponíveis nos órgãos e entidades, já que ambos os mecanismos visam atrair e reter profissionais. Algumas gratificações temporárias são, inclusive, distribuídas por meio dos mesmos decretos que aprovam as estruturas dos órgãos da administração direta e indireta do Poder Executivo federal. Essa prática possibilita o seu cadastramento no sistema informatizado do SIORG, o que resulta em mais transparência, controle e facilidade de acesso a informações.
       
 Além disso, com base no `art. 6º da Lei nº 14.204/2021 <lei-14204-art6_>`_, é possível transformar, sem aumento de despesa, gratificações temporárias subutilizadas em Funções Comissionadas Executivas (FCE), otimizando a gestão dos recursos disponíveis sem recorrer à criação de novas funções por via de lei.
       
@@ -19,6 +19,7 @@ Por fim, o fato de uma gratificação temporária constar deste Anexo não signi
  
    Para fazer parte deste documento, a gratificação precisa atender a dois critérios obrigatórios:
       I -   concessão, designação, nomeação, retirada, dispensa ou exoneração mediante ato discricionário da autoridade competente; e 
+      
       II -  não compor a remuneração do cargo efetivo, do emprego, do posto ou graduação, para qualquer efeito. 
    
    Existem também algumas características observadas na maioria das gratificações que estão incluídas neste Anexo, que são:
