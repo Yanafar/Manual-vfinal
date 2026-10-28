@@ -3,7 +3,7 @@
 Gratificações temporárias no Poder Executivo federal
 ===========================================================
 
-Este Anexo reúne informações sobre gratificações temporárias usadas para atrair e reter pessoal com vínculo efetivo no serviço público para determinadas unidades e/ou atividades específicas. O objetivo é compilar informações que sirvam como subsídio para a melhoria da gestão pública.
+Aqui, estão reunidas informações sobre gratificações temporárias usadas para atrair e reter pessoal com vínculo efetivo no serviço público para determinadas unidades e/ou atividades específicas. O objetivo é compilar informações que sirvam como subsídio para a melhoria da gestão pública.
       
 As gratificações temporárias se aproximam do conceito de funções de confiança para assessoramento técnico, com a diferença de que são instrumentos articulados com a política de gestão de pessoas e a arquitetura das carreiras. Tais gratificações atuam como um equalizador das diferenças remuneratórias entre cargos e carreiras heterogêneas, permitindo que parte dos servidores de carreiras transversais  sejam alocados para setores considerados críticos da gestão federal.
 
@@ -17,7 +17,7 @@ Contudo,  por serem diferentes das funções de confiança, as gratificações t
       
 Por fim, o fato de uma gratificação temporária constar deste Anexo não significa que ela seja um instrumento eficiente ou sem necessidade de melhorias. O fato de constarem aqui visa unicamente compilar as informações disponíveis sobre a matéria e servir de insumo para o aprimoramento da gestão.
 
-.. admonition:: O que **está** incluído neste capítulo
+.. admonition:: O que **está** incluído
  
    Para fazer parte deste documento, a gratificação precisa atender a dois critérios obrigatórios:
       I -   concessão, designação, nomeação, retirada, dispensa ou exoneração mediante ato discricionário da autoridade competente; e 
@@ -30,7 +30,7 @@ Por fim, o fato de uma gratificação temporária constar deste Anexo não signi
       c) possuem hierarquia interna, com níveis distintos de remuneração; e
       d) presença ou não nos decretos das estruturas organizacionais dos órgãos e entidades.
 
-.. admonition:: O que **não está** incluído neste capítulo
+.. admonition:: O que **não está** incluído
 
    Ficam de fora deste documento as seguintes gratificações:
       * Gratificações de desempenho ou de qualificação que fazem parte da remuneração do cargo efetivo, emprego público, posto ou graduação, e não exigem ato formal de nomeação ou designação.
