@@ -303,6 +303,10 @@ A diretriz normativa para os Sistemas Estruturadores é o art. 30
  
 A estrutura de cada sistema geralmente é composta por: órgão central, órgãos
 setoriais e órgãos seccionais.
+
+.. admonition:: Você sabia
+
+  Servidores em efetivo exercício no órgão central e nos órgãos setoriais, seccionais e correlatos de diversos sistemas estruturantes podem receber :ref:`gsiste`. Outras :ref: `gratif` também podem ser concedidas a depender de onde o servidor estiver atuando.
  
 Órgão Central
 ~~~~~~~~~~~~~

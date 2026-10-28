@@ -11,7 +11,9 @@ As gratificações temporárias são análogas às funções de confiança para 
 
 .. admonition:: Atenção!
 
-   A acumulação de gratificações com cargos em comissão ou funções de confiança, quando permitida, pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da GSISTE somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. Nessa situação, o encargo da responsabilidade decisória e de chefia passa a ser desproporcionalmente menos valorizado em termos financeiros do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, cria-se um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
+   A acumulação de gratificações com cargos em comissão ou funções de confiança, quando permitida, pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da gratificação somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. 
+
+   Nessa situação, o encargo da responsabilidade decisória e de chefia pode se tornar desproporcionalmente menos valorizado, em termos financeiros, do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, pode haver um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
       
 A análise das estruturas organizacionais deve considerar, de forma integrada, os cargos e funções comissionadas e as gratificações temporárias disponíveis nos órgãos e entidades, já que ambos os mecanismos apoiam a atração e retenção de talentos. Algumas gratificações temporárias são, inclusive, distribuídas por meio dos mesmos decretos que aprovam as estruturas dos órgãos da administração direta e indireta do Poder Executivo federal. Essa prática possibilita o seu cadastramento no sistema informatizado do SIORG, o que resulta em mais transparência, controle e facilidade de acesso a informações.
       
@@ -40,6 +42,8 @@ Por fim, o fato de uma gratificação temporária constar deste Anexo não signi
       * Gratificações de desempenho ou de qualificação que fazem parte da remuneração do cargo efetivo, emprego público, posto ou graduação, e não exigem ato formal de nomeação ou designação.
       * Gratificação de representação da carreira militar para os oficiais-generais e militares (`art. 10 da Lei nº 13.954/2019 <lei-13954-art10_>`_); e
       * Outras gratificações específicas como a Gratificação por Encargo de Curso ou Concurso   (GEC) e a Gratificação Específica de Produção de Radioisótopos e Radiofármacos  (GEPR).
+
+.. _gsiste:
 
 Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administração Pública Federal (GSISTE)
 ----------------------------------------------------------------------------------------------------------
