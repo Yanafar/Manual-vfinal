@@ -5,25 +5,19 @@ Gratificações temporárias no Poder Executivo federal
 
 Este Anexo reúne informações sobre gratificações temporárias usadas para atrair e reter pessoal com vínculo efetivo no serviço público para determinadas unidades e/ou atividades específicas. O objetivo é compilar informações que sirvam como subsídio para a melhoria da gestão pública.
       
-As gratificações temporárias são análogas às funções de confiança para assessoramento técnico, com a diferença de que são instrumentos articulados com a política de gestão de pessoas e a arquitetura das carreiras. Tais gratificações atuam como um equalizador das diferenças remuneratórias entre cargos e carreiras heterogêneas, permitindo que servidores de carreiras transversais ou com remunerações base mais baixas sejam atraídos para setores considerados críticos da gestão federal.
+As gratificações temporárias se aproximam do conceito de funções de confiança para assessoramento técnico, com a diferença de que são instrumentos articulados com a política de gestão de pessoas e a arquitetura das carreiras. Tais gratificações atuam como um equalizador das diferenças remuneratórias entre cargos e carreiras heterogêneas, permitindo que parte dos servidores de carreiras transversais  sejam alocados para setores considerados críticos da gestão federal.
 
 **São, assim, instrumento eficaz para atrair e reter servidores, pois viabilizam a cessão sem perda da gratificação de desempenho e sem a ocupação de cargo ou função comissionada**.
-
-.. admonition:: Atenção!
-
-   A acumulação de gratificações com cargos em comissão ou funções de confiança, quando permitida, pode gerar distorções gerenciais dentro de uma mesma equipe. A remuneração da gratificação somada à remuneração do cargo ou da função comissionada pode fazer com que a remuneração final de um subordinado supere a de seu próprio chefe, especialmente se este for ocupante de cargo em comissão sem vínculo efetivo com a administração. 
-
-   Nessa situação, o encargo da responsabilidade decisória e de chefia pode se tornar desproporcionalmente menos valorizado, em termos financeiros, do que as atribuições puramente técnicas de assessoramento ou execução. Como consequência, pode haver um desestímulo direto para que os servidores mais capacitados assumam posições de liderança e chefia, ruídos de clima organizacional e possível enfraquecimento da própria estrutura de comando da unidade.
       
 A análise das estruturas organizacionais deve considerar, de forma integrada, os cargos e funções comissionadas e as gratificações temporárias disponíveis nos órgãos e entidades, já que ambos os mecanismos apoiam a atração e retenção de talentos. Algumas gratificações temporárias são, inclusive, distribuídas por meio dos mesmos decretos que aprovam as estruturas dos órgãos da administração direta e indireta do Poder Executivo federal. Essa prática possibilita o seu cadastramento no sistema informatizado do SIORG, o que resulta em mais transparência, controle e facilidade de acesso a informações.
       
-Além disso, com base no `art. 6º da Lei nº 14.204/2021 <lei-14204-art6_>`_, é possível transformar, sem aumento de despesa, gratificações temporárias subutilizadas em Funções Comissionadas Executivas (FCE), otimizando a gestão dos recursos disponíveis sem recorrer à criação de novas funções por via de lei.
+Além disso, com base no `art. 6º da Lei nº 14.204/2021 <lei-14204-art6_>`_, é possível transformar, sem aumento de despesa, eventuais gratificações temporárias subutilizadas em Funções Comissionadas Executivas (FCE), otimizando a gestão dos recursos disponíveis sem recorrer à criação de novas funções por via de lei.
       
-Contudo, por serem diferentes das funções de confiança, as gratificações temporárias que se articulam com a política de gestão de pessoas e a arquitetura das carreiras requerem uma análise mais profunda ao se contemplar a sua transformação. Além de serem peças na estratégia de gestão dos cargos e carreiras, as gratificações temporárias exclusivas para determinadas unidades ou atividades asseguram o seu fortalecimento direto e impedem a sua dispersão para outras áreas. 
+Contudo,  por serem diferentes das funções de confiança, as gratificações temporárias que se articulam com a política de gestão de pessoas e a arquitetura das carreiras requerem uma análise mais profunda ao se cogitar a sua transformação. Além de serem peças na estratégia de gestão dos cargos e carreiras, as gratificações temporárias exclusivas para determinadas unidades ou atividades asseguram o seu fortalecimento direto e impedem a sua dispersão para outras áreas.
       
 Por fim, o fato de uma gratificação temporária constar deste Anexo não significa que ela seja um instrumento eficiente ou sem necessidade de melhorias. O fato de constarem aqui visa unicamente compilar as informações disponíveis sobre a matéria e servir de insumo para o aprimoramento da gestão.
 
-.. admonition:: O que **está** incluído neste Anexo
+.. admonition:: O que **está** incluído neste capítulo
  
    Para fazer parte deste documento, a gratificação precisa atender a dois critérios obrigatórios:
       I -   concessão, designação, nomeação, retirada, dispensa ou exoneração mediante ato discricionário da autoridade competente; e 
@@ -36,7 +30,7 @@ Por fim, o fato de uma gratificação temporária constar deste Anexo não signi
       c) possuem hierarquia interna, com níveis distintos de remuneração; e
       d) presença ou não nos decretos das estruturas organizacionais dos órgãos e entidades.
 
-.. admonition:: O que **não está** incluído neste Anexo
+.. admonition:: O que **não está** incluído neste capítulo
 
    Ficam de fora deste documento as seguintes gratificações:
       * Gratificações de desempenho ou de qualificação que fazem parte da remuneração do cargo efetivo, emprego público, posto ou graduação, e não exigem ato formal de nomeação ou designação.
@@ -49,11 +43,6 @@ Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administr
 ----------------------------------------------------------------------------------------------------------
 
 A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art15_>`_, sendo devida a titulares de cargos de provimento efetivo, por nível de escolaridade do cargo efetivo.  
-
-.. admonition:: Curiosidade
-
-       Note-se que antes da Lei nº 11.356 de 2006, as atividades dos sistemas estruturadores já eram realizadas sem que houvesse nenhuma retribuição adicional pela sua execução. Além disso, alguns sistemas contam com carreiras específicas para o exercício de suas atividades, a exemplo da Carreira de Finanças e Controle, para atuação nos Sistemas de Administração Financeira, Contabilidade e Controle Interno.
-
 
 A GSISTE é devida a servidores em efetivo exercício no órgão central e nos órgãos setoriais, seccionais e correlatos dos seguintes :ref:`sistemas estru`, **enquanto permanecerem nessa condição**:
 
@@ -140,10 +129,6 @@ A Gratificação Temporária do Sistema de Administração dos Recursos de Infor
          d) É condicionada à obtenção de desempenho satisfatório em avaliação de desempenho periódica e ao desempenho de atividades relacionadas ao SISP; e
          e) Igual para o órgão central e setoriais, superiores à da GSISTE.
 
-.. admonition:: Curiosidade
-
-       A partir do Decreto nº 10.334, de 29 de abril de 2020, foi realizada a primeira distribuição de GSISTE para o SISP, de modo que o SISP passou a ter duas gratificações (GSISP e GSISTE) para o mesmo sistema e mesmo público-alvo. A instituição da GSISP visou “prover quadro permanente” para as atividades do SISP, com a retenção e atração de profissionais de Tecnologia da Informação - TI do serviço público.
-
 Gratificação Temporária de Atividade em Escola de Governo (GAEG)
 ----------------------------------------------------------------
 
@@ -198,7 +183,7 @@ A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pel
     
 .. admonition:: Curiosidades
 
-   A GPDEC, criada recentemente, tem um desenho mais simples do que o da GSISTE e uma diferença importante em relação às gratificações temporárias mais antigas (GSISTE, GSISP e GAEG) que é a não acumulação com a remuneração de cargos em comissão e de funções de confiança. Isso evita distorções remuneratórias dentro de uma mesma equipe, em que subordinados acumulando gratificações temporárias com cargos/funções comissionadas podem acabar recebendo mais do que a chefia pelo exercício das suas respectivas atribuições.
+   A GPDEC, criada recentemente, tem um desenho mais simples do que o da GSISTE e uma diferença importante em relação às gratificações temporárias mais antigas (GSISTE, GSISP e GAEG) que é a não acumulação com a remuneração de cargos em comissão e de funções de confiança. Isso evita distorções remuneratórias dentro de uma mesma equipe.
 
    Por outro lado, a GPDEC não tem um teto de remuneração para a soma da remuneração da gratificação com a do cargo efetivo, como a GSISTE, GSISP e GAEG possuem.
 
@@ -246,9 +231,7 @@ Em 2011, com a publicação do Decreto nº 7.424, de 5 de janeiro de 2011, houve
 Gratificação por serviços extraordinários (GSE-IBGE)
 ----------------------------------------------------
 
-A Gratificação por Serviços Extraordinários (GSE-IBGE) foi criada no § 3º do `art. 12 do Decreto-Lei nº 969, de 21 de dezembro de 1938 <declei-969-art12_>`_, para “os funcionários da Secretaria Geral do Instituto [Brasileiro de Geografia e Estatística] ou dos serviços federais de estatística nele integrados, postos à disposição da Comissão Censitária Nacional”, conforme a seguir:
-
-Apesar de antiquíssimas, as GSE-IBGE existem e são concedidas pelo IBGE aos servidores efetivos em exercício na autarquia como uma opção em relação aos extintos DAS e FG, substituídos pelos CCE/FCE.
+A Gratificação por Serviços Extraordinários (GSE-IBGE) foi criada no § 3º do `art. 12 do Decreto-Lei nº 969, de 21 de dezembro de 1938 <declei-969-art12_>`_, para “os funcionários da Secretaria Geral do Instituto [Brasileiro de Geografia e Estatística] ou dos serviços federais de estatística nele integrados, postos à disposição da Comissão Censitária Nacional”.
 
 .. admonition:: Características importantes da GSE-IBGE
 
@@ -265,7 +248,7 @@ A Gratificação de Exercício de Função de Confiança Privativa de Militares 
 
 Originalmente, a RMP era restrita aos militares em exercício nos órgãos da Presidência da República. A existência da RMP no Ministério da Defesa advém da criação da Pasta, transformação dos Ministérios da Marinha, do Exército e da Aeronáutica em Comandos, e da extinção do Estado-Maior das Forças Armadas, que integrava a Presidência da República, pela Lei Complementar nº 97/1999. 
 
-A percepção da RMP por militares no Ministério da Defesa tem por base o `art. 29-B da Lei nº 9.649, de 1998 <lei-9649-art29B_>`_, enquanto o Ministério não dispuser de quadro de pessoal permanente.
+A percepção da RMP por militares no Ministério da Defesa tem por base o `art. 29-B da Lei nº 9.649, de 1998 <lei-9649-art29B_>`_.
 
 .. admonition:: Atenção
 
@@ -281,17 +264,10 @@ A percepção da RMP por militares no Ministério da Defesa tem por base o `art.
       
       * Sobre a remuneração: definida pelo `Anexo III da Lei nº 11.526, de 2007 <lei-11526-anexoIII_>`_.
 
-
-.. admonition:: Curiosidades
-
-   O último nível da tabela de remuneração (RMP-6 ou Grupo F) não possui quantitativos devido ao valor de sua remuneração ser inferior à RGM-5, nível mais alto da Gratificação de Representação de Gabinete, devida aos militares praças.
-
-   O § 1º do art. 56 da Lei n° 14.600/2023 autorizou que os militares requisitados que, em 31/12/2022, estavam em exercício no Ministério da Mulher, da Família e dos Direitos Humanos (órgãos que foram desmembrados da Presidência da República) com designação para a RMP, permanecessem com a gratificação no Ministério das Mulheres, no Ministério da Igualdade Racial ou no Ministério dos Direitos Humanos e da Cidadania. Porém, o §2º do mesmo artigo previu que tais RMP retornariam automaticamente à Presidência da República quando da dispensa ou de alteração do exercício do militar, que foi o que aconteceu.
-
 Gratificação de Representação da Presidência da República (RGA e RMA)
 ---------------------------------------------------------------------
 
-Atualmente, sabe-se da existência das seguintes variações das gratificações de representação, referidas na alínea “a” do `Anexo III da Lei nº 11.526/2007 <lei-11526-anexoIII_>`_:
+Existem as seguintes variações das gratificações de representação, referidas na alínea “a” do `Anexo III da Lei nº 11.526/2007 <lei-11526-anexoIII_>`_:
 
 a) Gratificação de Representação da Presidência da República – RGA, para civis, com cinco níveis; e
 
@@ -301,62 +277,12 @@ Pode-se dizer que a representação de gabinete seria semelhante ao papel de um 
 
 A diferença básica entre a RGA e a RMA é a sua ocupação: a RGA é para civis e a RMA para militares. Essa separação entre RGA e RMA para a mesma Gratificação de Representação de Gabinete dos Órgãos Integrantes da Presidência da República foi feita já no `Anexo do Decreto nº 5.452/2005 <dec-5452-anexo_>`_, que fixou os quantitativos para o Ministério da Defesa e para a Presidência e Vice-Presidência da República. 
 
-A gestão das gratificações da Presidência representa desafios, dentre os quais citam-se três: 
-
-Primeiro, se é justificável a manutenção da RGA/RMA diante do poder de requisição da Presidência e da Vice-Presidência da República e das atribuições dadas pela Constituição aos cargos em comissão e às funções de confiança para direção, chefia e assessoramento. 
-
-O segundo desafio é o risco de descaracterização de gratificação da Presidência da República na medida em que ela é concedida para órgãos que não fazem parte da Presidência da República, especialmente quando de reorganizações do Executivo federal.
-
-Por fim, o terceiro desafio é a necessidade de maior transparência na distribuição dos quantitativos existentes no âmbito da Presidência da República, integrada por:
-
-a) Casa Civil, integrada pela Agência Brasileira de Inteligência (ABIN);
-
-b) Secretaria-Geral;
-
-c) Secretaria de Relações Institucionais;
-
-d) Secretaria de Comunicação Social;
-
-e) Gabinete Pessoal do Presidente da República; e
-
-f) Gabinete de Segurança Institucional.
-
 Atualmente, apenas os Decretos de estrutura da ABIN  e do Ministério da Defesa explicitam o quantitativo de RGA/RMA distribuído para os órgãos. O restante do quantitativo tem sua distribuição gerida internamente, no momento, pela Secretaria-Geral da Presidência da República.
-
-Para maior transparência e eficiência na atuação do órgão central do SIORG, na análise de pedidos de reforço de posições comissionadas existentes, os quantitativos de RMA/RGA devem ser trazidos para os decretos das estruturas sempre que possível. 
-
-Uma vez explicitadas nos decretos das estruturas, as RMA/RGA podem ser cadastradas no sistema informatizado do SIORG assim como os cargos e funções comissionadas. Isso, por sua vez, resulta em mais transparência, controle, facilidade de acesso às informações e melhor gestão.
-
-.. admonition:: Curiosidades
-
-   As “gratificações de representação” precedem a Constituição Federal de 1988, com base na qual as atribuições de direção, chefia e assessoramento recaem sobre os cargos em comissão e as funções de confiança. 
-
-   A referência mais antiga que se conhece consta no inciso IV do `art. 145 da já revogada Lei nº 1.711, de 28 de outubro de 1952 <lei-1711-art145_>`_.
-
-   A Lei nº 1.711/1952 foi inteiramente revogada pela Lei nº 8.112/1990. Assim como ela e a Constituição Federal, o quadro legal e normativo do país sofreram várias alterações ao longo do tempo. 
-   
-   Além disso, o art. 13 da Lei nº 8.460/1992 explicitamente autorizou a mudança da denominação e da especificação da “gratificação de representação” de órgãos da Presidência e Vice-Presidência da República, observando cinco níveis de retribuição, dificultando ainda mais a gestão.
-
-   Recentemente, duas outras variações da gratificação de representação de gabinete foram extintas, visando simplificar a gestão e enxugar casos obsoletos, que foram:
-
-   a) em 2021, a gratificação de representação dos órgãos integrantes da Presidência da República - GR, para civis, quatro níveis (Auxiliar, Secretário/Especialista, Assistente e Supervisor), de que trata o art. 13 da Lei nº 8.460/1992, previstas na tabela c do Anexo III da Lei nº 11.526/ 2007: extinta pela Lei nº 14.204/2021 (inciso V do art. 17); e 
-
-   b) em 2025, a Gratificação pela Representação de Gabinete – RGM, para civis, dois níveis (Oficial de Gabinete e Auxiliar de Gabinete), de que tratam o art. 10 da Lei nº 8.460/1992 e a alínea “e” do Anexo III à Lei nº 11.526/2007: extinta pela Lei nº 15.141/2025 (art. 213).
 
 Gratificação de Representação de Função de Gabinete Militar (RMM)
 -----------------------------------------------------------------
 
-Considera-se a gratificação de representação de função de gabinete militar (RMM), de que tratam a `Lei nº 8.460/1992 <lei-8460_>`_, e a alínea “g” do `Anexo III à Lei nº 11.526/2007 <lei-11526-anexoIII_>`_, uma variante da gratificação de representação, antiquíssima, pré Constituição de 1988 e obsoleta.
-
-De acordo com registros de pagamentos que constam do sistema informatizado do SIAPE, o último pagamento da RMM foi em janeiro de 2004, no Comando da Aeronáutica do Ministério da Defesa. O órgão detinha o único quantitativo existente em 2017, de 14 RMM vagas, identificado durante os trabalhos da força-tarefa da DEMOR-SEGES para identificação e levantamento de informações que forneceu os subsídios técnicos para elaboração da Lei nº 14.204/2021.
-
-Dado o pequeno quantitativo, todo vago desde 2004, e as baixíssimas remunerações, as RMM tiveram sua ocupação vedada pelo Decreto nº 9.725/2019, uma vez que apenas poderiam ser extintas por lei.
-
-A extinção da RMM constou da Medida Provisória nº 1.286, de 31 de dezembro de 2024 (inciso I do art. 213), vigente até 2 de junho de 2025. Entretanto, antes da conversão da MP nº 1.286 na Lei nº 15.141/2025, foi acatada solicitação dos Comandos militares do Ministério da Defesa para que a RMM não fosse extinta, e o art. 213 previu apenas a extinção da RGM . 
-
-No sistema informatizado do SIORG não constam informações sobre o quantitativo de RMM, estando disponíveis somente nos sistemas próprios de pessoal dos Comandos.
-
-
+Considera-se a gratificação de representação de função de gabinete militar (RMM), de que tratam a `Lei nº 8.460/1992 <lei-8460_>`_, e a alínea “g” do `Anexo III à Lei nº 11.526/2007 <lei-11526-anexoIII_>`_, uma variante da gratificação de representação, antiquíssima, pré Constituição de 1988.
 
 
 .. ---------------------------------------------------------------------------
