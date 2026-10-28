@@ -306,7 +306,7 @@ setoriais e órgãos seccionais.
 
 .. admonition:: Você sabia
 
-  Servidores em efetivo exercício no órgão central e nos órgãos setoriais, seccionais e correlatos de diversos sistemas estruturantes podem receber :ref:`gsiste`. Outras :ref: `gratif` também podem ser concedidas a depender de onde o servidor estiver atuando.
+  Servidores em efetivo exercício no órgão central e nos órgãos setoriais, seccionais e correlatos de diversos sistemas estruturantes podem receber :ref:`gsiste`. Outras :ref:`gratif` também podem ser concedidas a depender de onde o servidor estiver atuando.
  
 Órgão Central
 ~~~~~~~~~~~~~
