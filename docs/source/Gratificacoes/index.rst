@@ -1,6 +1,6 @@
 .. _gratif:
 
-Anexo: Gratificações temporárias no Poder Executivo federal
+Gratificações temporárias no Poder Executivo federal
 ===========================================================
 
 Este Anexo reúne informações sobre gratificações temporárias usadas para atrair e reter pessoal com vínculo efetivo no serviço público para determinadas unidades e/ou atividades específicas. O objetivo é compilar informações que sirvam como subsídio para a melhoria da gestão pública.
