@@ -241,7 +241,7 @@ Em 2011, com a publicação do Decreto nº 7.424, de 5 de janeiro de 2011, houve
 
 
 Gratificação por serviços extraordinários (GSE-IBGE)
-----------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Gratificação por Serviços Extraordinários (GSE-IBGE) foi criada no § 3º do `art. 12 do Decreto-Lei nº 969, de 21 de dezembro de 1938 <declei-969-art12_>`_, para “os funcionários da Secretaria Geral do Instituto [Brasileiro de Geografia e Estatística] ou dos serviços federais de estatística nele integrados, postos à disposição da Comissão Censitária Nacional”.
 
