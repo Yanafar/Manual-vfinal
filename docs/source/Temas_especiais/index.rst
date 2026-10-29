@@ -14,7 +14,7 @@ Temas especiais
 .. _gratif:
 
 Gratificações temporárias no Poder Executivo federal
-====================================================
+----------------------------------------------------
 
 Aqui, estão reunidas informações sobre gratificações temporárias usadas para atrair e reter pessoal com vínculo efetivo no serviço público para determinadas unidades e/ou atividades específicas. O objetivo é compilar informações que sirvam como subsídio para a melhoria da gestão pública.
       
@@ -53,7 +53,7 @@ Por fim, o fato de uma gratificação temporária constar deste Anexo não signi
 .. _gsiste:
 
 Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administração Pública Federal (GSISTE)
-----------------------------------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A GSISTE foi instituída pelo `art. 15 da Lei nº 11.356, de 2006 <lei-11356-art15_>`_, sendo devida a titulares de cargos de provimento efetivo, por nível de escolaridade do cargo efetivo.  
 
@@ -119,7 +119,7 @@ XI - de Coordenação da Governança e Supervisão Ministerial das Empresas Esta
 .. _GSISP:
 
 Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática (GSISP)
----------------------------------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática (GSISP) foi instituída pelo `art. 287 da Lei nº 11.907 de 2009 <lei-11907-art287_>`_. 
 
@@ -143,8 +143,7 @@ A Gratificação Temporária do Sistema de Administração dos Recursos de Infor
          e) Igual para o órgão central e setoriais, superiores à da GSISTE.
 
 Gratificação Temporária de Atividade em Escola de Governo (GAEG)
-----------------------------------------------------------------
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A GAEG foi instituída pelo `art. 292 da Lei nº 11.907, de 2009 <lei-11907-art292_>`_ e estendida para a Academia Nacional de Polícia no art. 292-A (atualizada pela Lei nº 14.785/2024):
 
 É devida aos titulares de cargos de provimento efetivo, enquanto permanecerem em efetivo exercício nas escolas a seguir:
@@ -175,7 +174,7 @@ A GAEG foi instituída pelo `art. 292 da Lei nº 11.907, de 2009 <lei-11907-art2
          e) É proporcional à jornada de trabalho do servidor.
 
 Gratificação Temporária de Proteção e Defesa Civil (GPDEC)
-----------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pelo `art. 56 da Lei nº 14.875, de 31 de maio de 2024 <lei-14875-art56_>`_, para os servidores efetivos em efetivo exercício na Secretaria Nacional de Proteção e Defesa Civil do Ministério da Integração e do Desenvolvimento Regional (SNPDC/MIDR) e que atuem de modo direto em atividades críticas finalísticas da Defesa Civil, com jornada de 40 horas semanais, conforme definido em regulamento.
 
@@ -201,7 +200,7 @@ A Gratificação Temporária de Proteção e Defesa Civil (GPDEC) foi criada pel
    Por outro lado, a GPDEC não tem um teto de remuneração para a soma da remuneração da gratificação com a do cargo efetivo, como a GSISTE, GSISP e GAEG possuem.
 
 Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA)
--------------------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas (GTATA) foi criada pelo `art. 30 da Lei nº 15.367, de 30 de março de 2026 <lei-15367-art30_>`_, para servidores efetivos não integrantes de carreiras estruturadas, que realizam atividades técnico-administrativas, em efetivo exercício nos órgãos e entidades citados no `Anexo XIV da Lei <lei-15367-anexoXIV_>`_ (basicamente, os Ministérios e algumas autarquias/fundações).
 
@@ -222,7 +221,7 @@ A Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Admi
          d) É proporcional à jornada de trabalho do servidor.
 
 Gratificação Temporária do SIPAM (GTS)
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Gratificação Temporária SIPAM – GTS foi criada pelo `art. 15 da Lei nº 10.667, de 14 de maio de 2003 <lei-10667-art15_>`_, como medida de apoio às atividades do Sistema de Proteção da Amazônia – SIPAM, que na época vinculava-se à Casa Civil da Presidência da República.
 
@@ -255,7 +254,7 @@ A Gratificação por Serviços Extraordinários (GSE-IBGE) foi criada no § 3º 
       * Sobre a remuneração: definida pelo `Anexo II da Lei nº 11.526, de 2007 <lei-11526-anexoII_>`_.
   
 Gratificação de Exercício de Função de Confiança Privativa de Militares (RMP ou "letras militares")
----------------------------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Gratificação de Exercício de Função de Confiança Privativa de Militares – RMP , conhecida como “letras militares”, está prevista no `art. 11 da Lei nº 8.460, de 1992 <lei-8460-art11_>`_. Fazem jus à RMP os oficiais militares na Presidência da República e no Ministério da Defesa. 
 
@@ -278,7 +277,7 @@ A percepção da RMP por militares no Ministério da Defesa tem por base o `art.
       * Sobre a remuneração: definida pelo `Anexo III da Lei nº 11.526, de 2007 <lei-11526-anexoIII_>`_.
 
 Gratificação de Representação da Presidência da República (RGA e RMA)
----------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Existem as seguintes variações das gratificações de representação, referidas na alínea “a” do `Anexo III da Lei nº 11.526/2007 <lei-11526-anexoIII_>`_:
 
@@ -293,8 +292,7 @@ A diferença básica entre a RGA e a RMA é a sua ocupação: a RGA é para civi
 Atualmente, apenas os Decretos de estrutura da ABIN  e do Ministério da Defesa explicitam o quantitativo de RGA/RMA distribuído para os órgãos. O restante do quantitativo tem sua distribuição gerida internamente, no momento, pela Secretaria-Geral da Presidência da República.
 
 Gratificação de Representação de Função de Gabinete Militar (RMM)
------------------------------------------------------------------
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Considera-se a gratificação de representação de função de gabinete militar (RMM), de que tratam a `Lei nº 8.460/1992 <lei-8460_>`_, e a alínea “g” do `Anexo III à Lei nº 11.526/2007 <lei-11526-anexoIII_>`_, uma variante da gratificação de representação, antiquíssima, pré Constituição de 1988.
 
 
