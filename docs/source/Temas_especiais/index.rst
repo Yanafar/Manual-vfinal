@@ -28,7 +28,7 @@ Além disso, com base no `art. 6º da Lei nº 14.204/2021 <lei-14204-art6_>`_, �
       
 Contudo,  por serem diferentes das funções de confiança, as gratificações temporárias que se articulam com a política de gestão de pessoas e a arquitetura das carreiras requerem uma análise mais profunda ao se cogitar a sua transformação. Além de serem peças na estratégia de gestão dos cargos e carreiras, as gratificações temporárias exclusivas para determinadas unidades ou atividades asseguram o seu fortalecimento direto e impedem a sua dispersão para outras áreas.
       
-Por fim, o fato de uma gratificação temporária constar deste Anexo não significa que ela seja um instrumento eficiente ou sem necessidade de melhorias. O fato de constarem aqui visa unicamente compilar as informações disponíveis sobre a matéria e servir de insumo para o aprimoramento da gestão.
+Por fim, o fato de uma gratificação temporária constar desta seção não significa que ela seja um instrumento eficiente ou sem necessidade de melhorias. O fato de constarem aqui visa unicamente compilar as informações disponíveis sobre a matéria e servir de insumo para o aprimoramento da gestão.
 
 .. admonition:: O que **está** incluído
  
@@ -37,7 +37,7 @@ Por fim, o fato de uma gratificação temporária constar deste Anexo não signi
       
       II -  não compor a remuneração do cargo efetivo, do emprego, do posto ou graduação, para qualquer efeito. 
    
-   Existem também algumas características observadas na maioria das gratificações que estão incluídas neste Anexo, que são:
+   Existem também algumas características observadas na maioria das gratificações que estão incluídas nesta seção, que são:
       a) quantitativo limitado, independentemente do número de servidores em exercício;
       b) elegibilidade vinculada ao órgão ou unidade de efetivo exercício e/ou à atividade realizada;
       c) possuem hierarquia interna, com níveis distintos de remuneração; e
